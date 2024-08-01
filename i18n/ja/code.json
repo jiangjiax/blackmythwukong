@@ -1,0 +1,790 @@
+{
+  "COMBAT": {
+    "message": "戦闘"
+  },
+  "patchnotes.tagline1": {
+    "message": "孫悟空、またの名を猿行者は、"
+  },
+  "patchnotes.tagline2": {
+    "message": "『ブラックミスト：悟空』"
+  },
+  "patchnotes.tagline3": {
+    "message": "の主人公です。彼は中国の神話や文学、特に『西遊記』という小説で有名な伝説的な人物です。ゲームでは、プレイヤーは孫悟空として彼の伝説的な物語や刺激的な冒険を体験します。"
+  },
+  "BLACK MYTH WUKONG WIKI": {
+    "message": "ブラックミスト：悟空 ウィキペディア"
+  },
+  "GENERAL INFORMATION": {
+    "message": "一般情報"
+  },
+  "DODGING IN BLACK MYTH: WUKONG": {
+    "message": "ブラックミスト：悟空における回避"
+  },
+  "Dodging is a crucial defensive maneuver in Black Myth: Wukong. The game allows for near-instantaneous dodges, giving players the ability to quickly evade enemy attacks. However, it's important to manage your stamina, as excessive dodging can leave you vulnerable. As you progress, you can unlock a skill that creates a phantom copy when performing a perfect dodge, automatically counterattacking enemies.": {
+    "message": "回避は『ブラックミスト：悟空』において重要な防御行動です。ゲームではほぼ瞬時の回避が可能で、プレイヤーは敵の攻撃を素早くかわすことができます。しかし、過剰な回避は体力を消耗し、脆弱になる可能性があるため、体力の管理が重要です。進行するにつれて、完璧な回避を行うと幻影のコピーを作成し、敵に自動的に反撃するスキルを解禁できます。"
+  },
+  "STANCES AND WEAPON SKILLS IN BLACK MYTH: WUKONG": {
+    "message": "ブラックミスト：悟空における構えと武器スキル"
+  },
+  "Combat revolves around Sun Wukong's magical staff, the Ruyi Jingu Bang. Players can switch between three different stances:": {
+    "message": "戦闘は孫悟空の魔法の杖、如意金箍棒を中心に展開されます。プレイヤーは以下の3つの異なる構えを切り替えることができます："
+  },
+  "Smash Form": {
+    "message": "スマッシュフォーム"
+  },
+  "Pillar Form": {
+    "message": "ピラーフォーム"
+  },
+  "Thrust Form": {
+    "message": "スラストフォーム"
+  },
+  "Each stance offers unique attack patterns and combos. The Pillar Form, for example, allows Wukong to perch atop the staff and slam down on enemies or perform spinning attacks. Switching between stances mid-combat allows for diverse and fluid combos.": {
+    "message": "それぞれの構えは独自の攻撃パターンとコンボを提供します。例えば、ピラーフォームでは悟空は杖の上にとまり、敵に叩きつけたり、回転攻撃を行うことができます。戦闘中に構えを切り替えることで、多様で流動的なコンボが可能になります。"
+  },
+  "COMBAT STRATEGY IN BLACK MYTH: WUKONG": {
+    "message": "ブラックミスト：悟空における戦闘戦略"
+  },
+  "Unlike slower-paced Souls-like games, Black Myth: Wukong emphasizes speed and relentless offense. Players should:": {
+    "message": "ソウルライクゲームのようなゆっくりとしたペースとは異なり、『ブラックミスト：悟空』はスピードと容赦ない攻撃を重視しています。プレイヤーは以下を行うべきです："
+  },
+  "Utilize Sun Wukong's agility to maintain pressure on enemies": {
+    "message": "孫悟空の俊敏さを活用して敵に圧力をかける"
+  },
+  "Learn enemy attack patterns to time dodges effectively": {
+    "message": "敵の攻撃パターンを学び、回避を効果的に行う"
+  },
+  "Manage stamina to avoid exhaustion during crucial moments": {
+    "message": "重要な瞬間に疲労を避けるために体力を管理する"
+  },
+  "Combine different stances and abilities for varied attack strategies": {
+    "message": "異なる構えと能力を組み合わせて多様な攻撃戦略を立てる"
+  },
+  "TRANSFORMATIONS IN BLACK MYTH: WUKONG": {
+    "message": "ブラックミスト：悟空における変身"
+  },
+  "Sun Wukong can shapeshift into different forms, adding variety to combat encounters. Known transformations include:": {
+    "message": "孫悟空は異なる形態に変身することができ、戦闘の多様性を加えます。知られている変身には以下が含まれます："
+  },
+  "A flying insect for evasion and exploration": {
+    "message": "回避と探索のための飛行昆虫"
+  },
+  "A giant monster for powerful attacks": {
+    "message": "強力な攻撃のための巨大な怪物"
+  },
+  "SPECIAL ABILITIES IN BLACK MYTH: WUKONG": {
+    "message": "ブラックミスト：悟空における特殊能力"
+  },
+  "The game features various special abilities, including:": {
+    "message": "ゲームにはさまざまな特殊能力があり、以下を含みます："
+  },
+  "Monkey Fur Duplication: Summon clones to distract enemies or absorb damage": {
+    "message": "猿毛複製：敵を混乱させたり、ダメージを吸収するクローンを召喚する"
+  },
+  "Stone Form: An unlockable ability that allows Wukong to absorb hits and counterattack, similar to mechanics in Mortal Shell": {
+    "message": "石の形態: ウーコンが攻撃を吸収し、カウンター攻撃を行うアンロック可能な能力で、Mortal Shellのメカニクスに似ています"
+  },
+  "RESTING AND CHECKPOINTS IN BLACK MYTH: WUKONG": {
+    "message": "ブラックミスト: ウーコンにおける休息とチェックポイント"
+  },
+  "The game features incense altars that serve as checkpoints, similar to Elden Ring's Sites of Grace. At these altars, players can:": {
+    "message": "ゲームには、Elden Ringのサイト・オブ・グレースに似たチェックポイントとしての香炉があります。これらの祭壇で、プレイヤーは以下のことができます:"
+  },
+  "Restore health, mana, and status effects": {
+    "message": "体力、マナ、ステータス効果を回復する"
+  },
+  "Replenish healing items": {
+    "message": "回復アイテムを補充する"
+  },
+  "Consider strategy before continuing": {
+    "message": "続行する前に戦略を考える"
+  },
+  "HomePage": {
+    "message": "ホームページ"
+  },
+  "homepage.tagline1": {
+    "message": "ブラックミストウーコンウィキガイド: 運命づけられたすべてのプレイヤーがゲームの詳細を深く掘り下げるのを支援します"
+  },
+  "homepage.tagline2": {
+    "message": "ブラックミスト: ウーコン"
+  },
+  "homepage.tagline3": {
+    "message": "、そのスキル、武器、背景、キャラクターなどを含む！"
+  },
+  "Black Myth: WuKong is an action-adventure game inspired by the iconic character Sun Wukong from the classic Chinese literary masterpiece 'Journey to the West.'": {
+    "message": "ブラックミスト: ウーコンは、中国の古典文学傑作『西遊記』からインスパイアされたアクションアドベンチャーゲームです。"
+  },
+  "The game has garnered significant anticipation due to its stunning visual effects, fluid combat mechanics, and rich cultural heritage. Players will take on the role of Sun Wukong, venturing into a mystical and perilous fantasy world, utilizing a diverse array of unique skills and weapons to combat enemies.": {
+    "message": "ゲームは、その驚異的な視覚効果、流動的な戦闘メカニクス、そして豊かな文化的遺産から、大きな期待を集めています。プレイヤーは孫悟空の役割を担い、神秘的で危険なファンタジー世界に足を踏み入れ、敵と戦うためにさまざまな独自のスキルと武器を駆使します。"
+  },
+  "SUN WUKONG": {
+    "message": "孫悟空"
+  },
+  "CHARACTER INFORMATION": {
+    "message": "キャラクター情報"
+  },
+  "CHARACTER BACKGROUND": {
+    "message": "キャラクターの背景"
+  },
+  "Sun Wukong is portrayed as a powerful and rebellious warrior with extraordinary abilities. He possesses immense strength, agility, and a variety of magical powers, including shape-shifting and the ability to summon clones of himself. His iconic weapon is the Ruyi Jingu Bang, a magical staff that can change its size at will. Sun Wukong's character is deeply rooted in Chinese culture, symbolizing rebellion, freedom, and the quest for enlightenment.": {
+    "message": "孫悟空は、並外れた能力を持つ強力で反逆的な戦士として描かれています。彼は巨大な力、俊敏さ、そして変身や自分のクローンを召喚する能力などのさまざまな魔法の力を持っています。彼の象徴的な武器は、自在にサイズを変えることができる魔法の杖、如意金箍棒です。孫悟空のキャラクターは、中国文化に深く根付いており、反逆、自由、そして啓蒙への探求を象徴しています。"
+  },
+  "CULTURAL SIGNIFICANCE IN BLACK MYTH: WUKONG": {
+    "message": "ブラックミスト: ウーコンにおける文化的意義"
+  },
+  "Black Myth: Wukong holds significant cultural importance as it draws from the rich Chinese literary tradition and mythology, particularly the classic novel \"Journey to the West\" and its iconic character Sun Wukong.": {
+    "message": "ブラックミスト: ウーコンは、特に古典小説『西遊記』とその象徴的なキャラクター孫悟空から、豊かな中国の文学的伝統と神話に由来することで、文化的に重要な意義を持っています。"
+  },
+  "While based on 'Journey to the West,' the game offers a fresh perspective on the story, potentially exploring themes of rebellion, free will, and the complex relationships between gods, humans, and demons (Yaoguai).": {
+    "message": "『西遊記』に基づいている一方で、ゲームは物語に新しい視点を提供し、反逆、自由意志、そして神々、人間、妖怪（ヤオガイ）の間の複雑な関係といったテーマを探求する可能性があります。"
+  },
+  "The game serves as a vehicle for introducing elements of Chinese culture, mythology, and storytelling to a wider international audience. It has the potential to spark interest in Chinese literature and folklore among players unfamiliar with these traditions.": {
+    "message": "ゲームは、中国の文化、神話、物語の要素をより広い国際的な視聴者に紹介する手段となります。これらの伝統に不慣れなプレイヤーの間で、中国文学や民話への興味を引き出す可能性があります。"
+  },
+  "The game emphasizes Sun Wukong's role as a powerful warrior deity (Fighting and Warring Deity), focusing on his combat prowess and legendary battles. This interpretation aligns with his portrayal in Chinese folklore as a symbol of rebellion and a hero of justice.": {
+    "message": "ゲームは、孫悟空の強力な戦神（戦闘と争闘の神）としての役割を強調し、彼の戦闘能力と伝説的な戦いに焦点を当てています。この解釈は、中国の民話における彼の描写と一致しており、反逆と正義の英雄を象徴しています。"
+  },
+  "GAMEPLAY AND FEATURES IN BLACK MYTH: WUKONG": {
+    "message": "ブラックミスト: ウーコンのゲームプレイと特徴"
+  },
+  "Black Myth: Wukong aims to provide an immersive experience with top-notch graphics, detailed environments, and engaging combat mechanics. The game features:": {
+    "message": "Black Myth: Wukongは、最高クラスのグラフィックス、詳細な環境、魅力的な戦闘メカニクスを提供する没入型の体験を目指しています。ゲームの特徴:"
+  },
+  "Stunning Visuals: Utilizing Unreal Engine 5, the game boasts high-quality graphics and realistic animations.": {
+    "message": "驚くべきビジュアル: Unreal Engine 5を活用し、高品質のグラフィックスとリアルなアニメーションを誇ります。"
+  },
+  "Rich Storyline: The narrative is inspired by 'Journey to the West,' offering a deep and engaging story that explores the lore and mythology of ancient China.": {
+    "message": "豊かなストーリー: 物語は『西遊記』に触発され、古代中国の伝承や神話を探求する深く魅力的なストーリーを提供します。"
+  },
+  "Dynamic Combat: Players can engage in fast-paced combat, utilizing Sun Wukong's martial arts skills and magical abilities to defeat enemies.": {
+    "message": "ダイナミックな戦闘: プレイヤーは孫悟空の武術スキルと魔法の力を活用して、速いペースの戦闘に参加し、敵を倒すことができます。"
+  },
+  "Exploration: The game world is expansive, filled with hidden secrets, diverse landscapes, and formidable bosses.": {
+    "message": "探索: ゲームの世界は広大で、隠された秘密、多様な風景、そして手強いボスが満ちています。"
+  },
+  "SUN WUKONG SKILLS IN BLACK MYTH: WUKONG": {
+    "message": "BLACK MYTH: WUKONGにおける孫悟空のスキル"
+  },
+  "In Black Myth: Wukong, Sun Wukong possesses a range of powerful abilities that not only faithfully recreate his capabilities from the original story but also enhance gameplay and challenge:": {
+    "message": "Black Myth: Wukongでは、孫悟空は原作から忠実に再現された強力な能力を持ち、ゲームプレイと挑戦を強化します:"
+  },
+  "Ruyi Jingu Bang: Sun Wukong's iconic weapon can change size at will. In the game, players can use it for both melee attacks and long-range strikes, and even solve puzzles and overcome obstacles through its transformation.": {
+    "message": "如意金箍棒: 孫悟空の象徴的な武器は自由にサイズを変えることができます。ゲームでは、プレイヤーは近接攻撃と遠距離攻撃の両方に使用でき、さらにその変形を通じてパズルを解決し、障害を克服することもできます。"
+  },
+  "Cloud Somersault: Sun Wukong can summon a magical cloud for rapid movement, increasing the game's mobility and exploration aspects.": {
+    "message": "筋斗雲: 孫悟空は迅速な移動のために魔法の雲を召喚でき、ゲームの機動性と探索要素を向上させます。"
+  },
+  "72 Transformations: The ability to transform into various animals and objects to adapt to different combat situations and environmental needs. This skill provides multiple strategic options and tactical variations in the game.": {
+    "message": "七十二変: 様々な動物や物体に変身して、異なる戦闘状況や環境のニーズに適応する能力。このスキルはゲーム内で複数の戦略的オプションと戦術的バリエーションを提供します。"
+  },
+  "Clone Technique: Sun Wukong can summon clones of himself to confuse enemies or perform coordinated attacks.": {
+    "message": "分身の術: 孫悟空は敵を混乱させたり、調整された攻撃を行うために自分のクローンを召喚することができます。"
+  },
+  "Fiery Eyes: Features skill trees for ability enhancement.": {
+    "message": "火眼金睛: 能力強化のためのスキルツリーを特徴とします。"
+  },
+  "BLACK MYTH: WUKONG WALLPAPERS": {
+    "message": "BLACK MYTH: WUKONG 壁紙"
+  },
+  "WHEN DID BLACK MYTH: WUKONG RELEASE?": {
+    "message": "BLACK MYTH: WUKONGはいつリリースされましたか？"
+  },
+  "Black Myth: Wukong is set to release on August 20, 2024. The game will launch simultaneously on PlayStation 5 and PC platforms, while the Xbox Series X/S version has been delayed with no specific release date announced yet.": {
+    "message": "Black Myth: Wukongは2024年8月20日にリリース予定です。ゲームはPlayStation 5およびPCプラットフォームで同時にリリースされますが、Xbox Series X/Sバージョンはリリース日が未発表のまま遅延しています。"
+  },
+  "WHAT PLATFORMS IS BLACK MYTH: WUKONG ON?": {
+    "message": "BLACK MYTH: WUKONGはどのプラットフォームで利用できますか？"
+  },
+  "Black Myth: Wukong will be available on the following platforms:": {
+    "message": "Black Myth: Wukongは以下のプラットフォームで利用可能です:"
+  },
+  "PlayStation 5": {
+    "message": "PlayStation 5"
+  },
+  "PC (Windows)": {
+    "message": "PC (Windows)"
+  },
+  "Xbox Series X/S (delayed, release date to be announced)": {
+    "message": "Xbox Series X/S (遅延、発売日は未発表)"
+  },
+  "The game will launch simultaneously on PS5 and PC on August 20, 2024. However, the Xbox Series X/S version has been delayed, with developers working to optimize it for the platform.": {
+    "message": "このゲームは2024年8月20日にPS5とPCで同時にリリースされます。しかし、Xbox Series X/S版は遅延しており、開発者はプラットフォームに最適化するために作業を行っています。"
+  },
+  "HOW LONG HAVE THEY BEEN WORKING ON BLACK MYTH: WUKONG?": {
+    "message": "BLACK MYTH: WUKONGの開発にどれくらいの期間取り組んでいますか？"
+  },
+  "Game Science, the developer of Black Myth: Wukong, began working on the game in 2017. The project was first revealed to the public on August 20, 2020, with a 13-minute pre-alpha gameplay video that quickly went viral, garnering millions of views on YouTube and Bilibili.": {
+    "message": "BLACK MYTH: WUKONGの開発元であるGame Scienceは、2017年からこのゲームの開発を開始しました。プロジェクトは2020年8月20日に13分間のプレアルファゲームプレイビデオとともに公開され、すぐにバイラルとなり、YouTubeやBilibiliで何百万もの視聴を集めました。"
+  },
+  "BLACK MYTH: WUKONG SYSTEM REQUIREMENTS": {
+    "message": "BLACK MYTH: WUKONG システム要件"
+  },
+  "Minimum Requirements": {
+    "message": "最低要件"
+  },
+  "OS: Windows 10 64-bit": {
+    "message": "OS: Windows 10 64-bit"
+  },
+  "CPU: Intel Core i5-8400 or AMD Ryzen 5 1600": {
+    "message": "CPU: Intel Core i5-8400 または AMD Ryzen 5 1600"
+  },
+  "Memory: 16 GB RAM": {
+    "message": "メモリ: 16 GB RAM"
+  },
+  "Graphics: NVIDIA GeForce GTX 1060 6GB or AMD Radeon RX 580 8GB": {
+    "message": "グラフィックス: NVIDIA GeForce GTX 1060 6GB または AMD Radeon RX 580 8GB"
+  },
+  "DirectX: Version 11": {
+    "message": "DirectX: バージョン 11"
+  },
+  "Storage: 130 GB available space (HDD supported, SSD recommended)": {
+    "message": "ストレージ: 130 GB の利用可能なスペース (HDD 対応、SSD 推奨)"
+  },
+  "Sound Card: Windows compatible audio device": {
+    "message": "サウンドカード: Windows 互換オーディオデバイス"
+  },
+  "Recommended Requirements": {
+    "message": "推奨要件"
+  },
+  "CPU: Intel Core i7-9700 or AMD Ryzen 5 5500": {
+    "message": "CPU: Intel Core i7-9700 または AMD Ryzen 5 5500"
+  },
+  "Graphics: NVIDIA GeForce RTX 2060 or AMD Radeon RX 5700 XT or INTEL Arc A750": {
+    "message": "グラフィックス: NVIDIA GeForce RTX 2060 または AMD Radeon RX 5700 XT または INTEL Arc A750"
+  },
+  "DirectX: Version 12": {
+    "message": "DirectX: バージョン 12"
+  },
+  "Storage: 130 GB available space (SSD required)": {
+    "message": "ストレージ: 130 GB の利用可能なスペース (SSD 必須)"
+  },
+  "Minimum Ray Tracing Configuration (Medium settings, Low RT, 1080P)": {
+    "message": "最小レイトレーシング設定 (中設定、低RT、1080P)"
+  },
+  "CPU: Intel Core i5-9400 or AMD Ryzen 5 1600": {
+    "message": "CPU: Intel Core i5-9400 または AMD Ryzen 5 1600"
+  },
+  "Graphics: NVIDIA GeForce RTX 3060": {
+    "message": "グラフィックス: NVIDIA GeForce RTX 3060"
+  },
+  "VRAM: 8 GB": {
+    "message": "VRAM: 8 GB"
+  },
+  "Ultra Ray Tracing Configuration (High settings, Ultra RT, 4K)": {
+    "message": "超レイトレーシング設定 (高設定、超RT、4K)"
+  },
+  "Graphics: NVIDIA GeForce RTX 4080 Super": {
+    "message": "グラフィックス: NVIDIA GeForce RTX 4080 Super"
+  },
+  "VRAM: 16 GB": {
+    "message": "VRAM: 16 GB"
+  },
+  "RAM: 32 GB": {
+    "message": "RAM: 32 GB"
+  },
+  "LATEST BLACK MYTH: WUKONG NEWS": {
+    "message": "最新のBLACK MYTH: WUKONGニュース"
+  },
+  "Black Myth: Wukong Pre-order Editions Detailed": {
+    "message": "Black Myth: Wukong プレオーダー版の詳細"
+  },
+  "Black Myth: Wukong has become the most wishlisted game on Steam. This achievement highlights the immense anticipation for this action RPG based on Chinese mythology. The game offers three pre-order editions:": {
+    "message": "『Black Myth: Wukong』がSteamで最もウィッシュリストに入れられたゲームとなりました。この成果は、中国神話に基づくこのアクションRPGに対する大きな期待を示しています。ゲームは3つのプレオーダー版を提供しています："
+  },
+  "Digital Edition ($69.99): Includes various in-game items and a digital soundtrack.": {
+    "message": "デジタル版（$69.99）：様々なゲーム内アイテムとデジタルサウンドトラックが含まれます。"
+  },
+  "Deluxe Edition ($169): Features a steelbook case, 1:1 scale bronze headband replica, and additional physical and digital content.": {
+    "message": "デラックス版（$169）：スチールブックケース、1:1スケールの銅製頭輪レプリカ、および追加の物理的およびデジタルコンテンツが特徴です。"
+  },
+  "Collector's Edition ($399): Contains a 40cm Sun Wukong statue, silk scroll, and numerous premium collectibles.": {
+    "message": "コレクターズエディション（$399）：40cmの孫悟空像、シルクスクロール、そして多数のプレミアムコレクティブルが含まれています。"
+  },
+  "Black Myth: Wukong Pre-order Sales Milestone": {
+    "message": "『Black Myth: Wukong』プレオーダー売上マイルストーン"
+  },
+  "Reports indicate that Black Myth: Wukong received 1.1 million pre-orders within days of opening physical and digital pre-orders on June 8th and 11th, demonstrating the game's massive appeal.": {
+    "message": "報告によると、『Black Myth: Wukong』は6月8日と11日に物理的およびデジタルプレオーダーを開始してから数日で110万件のプレオーダーを受け取り、ゲームの大きな魅力を示しています。"
+  },
+  "Development Progress": {
+    "message": "開発進捗"
+  },
+  "Game Science, the developer, has stated that Black Myth: Wukong is being developed using Unreal Engine 5 and is the first game to simultaneously use this engine and NVIDIA's DLSS technology, promising exceptional visual experiences.": {
+    "message": "開発者であるGame Scienceは、『Black Myth: Wukong』がUnreal Engine 5を使用して開発されており、このエンジンとNVIDIAのDLSS技術を同時に使用する最初のゲームであり、卓越した視覚体験を約束しています。"
+  },
+  "Sweet Baby Controversy": {
+    "message": "Sweet Baby論争"
+  },
+  "Background": {
+    "message": "背景"
+  },
+  "Recently, a controversy erupted between Black Myth: Wukong and Sweet Baby studio. Sweet Baby is a consultancy firm that provides political correctness guidance to game developers, ensuring game content meets certain social and cultural standards.": {
+    "message": "最近、『Black Myth: Wukong』とSweet Babyスタジオの間で論争が勃発しました。Sweet Babyは、ゲーム開発者に政治的正確性のガイダンスを提供するコンサルティング会社であり、ゲームのコンテンツが特定の社会的および文化的基準を満たすことを保証します。"
+  },
+  "Controversy Details": {
+    "message": "論争の詳細"
+  },
+  "According to reports, Sweet Baby demanded a $7 million \"guidance fee\" from Game Science, the developers of Black Myth: Wukong, to ensure the game adheres to their political correctness standards. Game Science reportedly refused this demand.": {
+    "message": "報告によると、Sweet Babyは『Black Myth: Wukong』の開発者であるGame Scienceに700万ドルの「ガイダンス料」を要求し、ゲームが彼らの政治的正確性基準に従うことを保証しました。Game Scienceはこの要求を拒否したと報告されています。"
+  },
+  "Media Attacks": {
+    "message": "メディア攻撃"
+  },
+  "Following the refusal to pay, Game Science claims they've been subjected to continuous attacks and defamation from Western media. These attacks allegedly include accusations of gender discrimination in the game. Sweet Baby is accused of using its media influence to tarnish Black Myth: Wukong's reputation in retaliation for the refused payment.": {
+    "message": "支払いを拒否した後、Game Scienceは、西洋のメディアからの継続的な攻撃と中傷にさらされていると主張しています。これらの攻撃には、ゲーム内での性差別の告発が含まれているとされています。Sweet Babyは、支払いを拒否された報復として、メディアの影響力を使って『Black Myth: Wukong』の評判を傷つけることになっています。"
+  },
+  "Community Reaction": {
+    "message": "コミュニティの反応"
+  },
+  "This controversy has sparked widespread discussion in the gaming community. Some players and industry insiders have expressed outrage at Sweet Baby's alleged actions, considering them unethical and harmful to the gaming industry. They argue that a small number of influential consultancy firms should not control game developers' creative directions through pressure tactics.": {
+    "message": "この論争はゲームコミュニティで広範囲に議論を巻き起こしました。一部のプレイヤーや業界関係者は、Sweet Babyの主張される行動に怒りを表明し、それらを非倫理的でゲーム業界にとって有害であると考えています。彼らは、少数の影響力のあるコンサルティング会社がプレッシャー戦術を通じてゲーム開発者の創造的な方向性を制御すべきではないと主張しています。"
+  },
+  "Official Response": {
+    "message": "公式の反応"
+  },
+  "As of now, Game Science has not issued an official statement regarding this controversy. However, as the release date approaches, this dispute may impact the game's market performance.": {
+    "message": "現時点で、Game Scienceはこの論争に関する公式声明を発表していません。しかし、リリース日が近づくにつれて、この紛争はゲームの市場実績に影響を与える可能性があります。"
+  },
+  "Future Outlook": {
+    "message": "将来の見通し"
+  },
+  "Despite the controversy, Black Myth: Wukong remains one of the most anticipated games of 2024. Players are eager to explore its rich Chinese mythological world and experience its unique combat system and transformation abilities. More game details are expected to be revealed as the release date nears.": {
+    "message": "論争にもかかわらず、Black Myth: Wukongは2024年最も期待されているゲームの一つです。プレイヤーはその豊かな中国神話の世界を探求し、独自の戦闘システムと変身能力を体験することを熱望しています。リリース日が近づくにつれて、より多くのゲームの詳細が明らかになることが期待されています。"
+  },
+  "BLACK MYTH: WUKONG GAMEPLAY": {
+    "message": "ブラック神話：悟空 ゲームプレイ"
+  },
+  "Black Myth: Wukong, developed by Game Science, is a highly anticipated action role-playing game set to release on August 20, 2024. Based on the classic Chinese novel 'Journey to the West,' the game promises to deliver an immersive experience rich in Chinese mythology.": {
+    "message": "Black Myth: Wukongは、Game Scienceによって開発された、2024年8月20日にリリース予定の非常に期待されているアクションロールプレイングゲームです。古典中国小説『西遊記』に基づいており、中国神話に富んだ没入感ある体験を約束しています。"
+  },
+  "Dynamic Combat System": {
+    "message": "ダイナミックな戦闘システム"
+  },
+  "Black Myth: Wukong boasts a sophisticated combat system that combines fast-paced action with fluid movements. Players will wield the legendary Ruyi Jingu Bang staff, executing diverse attacks and combos. The combat encourages players to utilize agile movements and tactical thinking, leveraging the environment to gain advantages. This creates a unique and engaging fighting style that promises to keep players on their toes.": {
+    "message": "Black Myth: Wukongは、速いペースのアクションと流動的な動きを組み合わせた洗練された戦闘システムを誇ります。プレイヤーは伝説の如意金箍棒を振るい、多様な攻撃とコンボを実行します。戦闘はプレイヤーに俊敏な動きと戦術的思考を活用することを促し、環境を利用して優位を得ることができます。これにより、プレイヤーを常に緊張させる独自の魅力的な戦闘スタイルが生まれます。"
+  },
+  "Transformation Abilities": {
+    "message": "変身能力"
+  },
+  "A standout feature of the game is the protagonist's ability to transform. Players can morph into various creatures, each with its own distinct abilities and combat style. For instance, transforming into the wolfman Guangzhi allows players to wield a fire glaive for powerful melee attacks. This transformation mechanic not only adds variety to combat but also encourages strategic thinking, as players must choose the most suitable form for different enemies and battle situations.": {
+    "message": "ゲームの目立つ特徴は、主人公の変身能力です。プレイヤーは様々な生き物に変身し、それぞれ独自の能力と戦闘スタイルを持っています。例えば、狼男の広智に変身することで、プレイヤーは強力な接近戦攻撃のために火のグライブを振るうことができます。この変身メカニックは、戦闘に多様性を加えるだけでなく、プレイヤーが異なる敵や戦闘状況に最も適した形を選ぶことを促し、戦略的思考を促します。"
+  },
+  "Comprehensive Character Progression": {
+    "message": "包括的なキャラクター進化"
+  },
+  "Black Myth: Wukong implements a rich skill tree system, allowing players to continuously upgrade their character and unlock new abilities throughout the game. This progression mechanism enables players to customize their gameplay style, choosing skill combinations that suit their preferences. As characters grow stronger, players will experience more powerful abilities and increasingly complex combat strategies, enhancing the game's replay value.": {
+    "message": "『Black Myth: Wukong』は、豊富なスキルツリーシステムを実装し、プレイヤーがゲーム中にキャラクターを継続的にアップグレードし、新しい能力を解禁できるようにします。この進行メカニズムにより、プレイヤーは自分の好みに合わせたスキルの組み合わせを選択し、ゲームプレイスタイルをカスタマイズできます。キャラクターが強くなるにつれて、プレイヤーはより強力な能力と、ますます複雑な戦闘戦略を体験し、ゲームのリプレイ価値を高めます。"
+  },
+  "Impressive Boss Battles": {
+    "message": "印象的なボスバトル"
+  },
+  "Boss fights are a core highlight of the game. Each boss is uniquely designed with its own fighting style, challenging players to adapt and find weaknesses. These encounters not only test players' reflexes and tactical thinking but also provide a great sense of accomplishment. Defeating powerful bosses rewards players with valuable items and achievements, adding to the game's appeal.": {
+    "message": "ボスバトルはゲームの中心的なハイライトです。各ボスは独自の戦闘スタイルでデザインされており、プレイヤーに適応し弱点を見つけることを求めます。これらのエンカウントは、プレイヤーの反射神経と戦術的思考を試すだけでなく、大きな達成感を提供します。強力なボスを倒すことで、プレイヤーは貴重なアイテムと実績を獲得し、ゲームの魅力をさらに高めます。"
+  },
+  "Rich Exploration Elements": {
+    "message": "豊富な探索要素"
+  },
+  "While the main storyline follows a linear progression, Black Myth: Wukong features vast areas for exploration. Players are encouraged to investigate every corner, discovering hidden items, facing elite enemies, and uncovering more about the game's mythological world. This exploration element enhances the game's immersion and ensures that each playthrough is filled with surprises.": {
+    "message": "メインストーリーが直線的な進行をたどる中で、『Black Myth: Wukong』は広大な探索エリアを提供します。プレイヤーはあらゆる隅を調査し、隠されたアイテムを発見し、エリート敵と対峙し、ゲームの神話的世界についてより多くを明らかにすることを奨励されます。この探索要素はゲームの没入感を高め、各プレイスルーが驚きで満たされることを保証します。"
+  },
+  "Stunning Visual Effects": {
+    "message": "驚くべき視覚効果"
+  },
+  "Developed using Unreal Engine 5, Black Myth: Wukong delivers breathtaking visual effects and smooth animations. The game's scenery draws inspiration from traditional Chinese culture, taking players through majestic mountains, dense forests, and mysterious ancient ruins, all imbued with a strong mythological atmosphere. Detailed character modeling and fluid action animations make every frame of the game look like a work of art.": {
+    "message": "Unreal Engine 5を使用して開発された『Black Myth: Wukong』は、息をのむような視覚効果と滑らかなアニメーションを提供します。ゲームのシーンは、伝統的な中国文化からインスピレーションを受け、雄大な山々、茂密な森、神秘的な古代遺跡を通してプレイヤーを連れて行きます。詳細なキャラクターモデリングと流動的なアクションアニメーションにより、ゲームのフレームはどれも芸術作品のように見えます。"
+  },
+  "Rich Cultural Depth": {
+    "message": "豊かな文化的深度"
+  },
+  "The game's storyline is deeply rooted in Chinese mythology, allowing players to interact with classic characters like Sun Wukong and Tang Sanzang. This cultural depth not only enriches the game's backstory but also allows players to experience the charm of traditional Chinese culture while enjoying the game.": {
+    "message": "ゲームのストーリーラインは中国神話に深く根ざしており、プレイヤーは孫悟空や唐三蔵といった古典的なキャラクターと交流することができます。この文化的深度は、ゲームの背景を豊かにするだけでなく、プレイヤーがゲームを楽しむ中で伝統的な中国文化の魅力を体験することを可能にします。"
+  },
+  "BLACK MYTH: WUKONG STORY OVERVIEW": {
+    "message": "『黑神话悟空』ストーリーオーバービュー"
+  },
+  "Set in a mythical version of ancient China, Black Myth: Wukong draws its inspiration from the classic Chinese novel 'Journey to the West.' However, the game presents a unique interpretation of this well-known tale, blending familiar elements with new narrative twists.": {
+    "message": "古代中国の神話的なバージョンに設定された『Black Myth: Wukong』は、古典的な中国小説『西遊記』からインスピレーションを受けています。しかし、ゲームはこのよく知られた物語に独自の解釈を加え、馴染み深い要素と新しいナラティブのひねりを組み合わせています。"
+  },
+  "Central Character": {
+    "message": "主要キャラクター"
+  },
+  "The player takes on the role of the \"Destined One,\" a character based on Sun Wukong, the legendary Monkey King. While sharing similarities with the novel is protagonist, this version of Wukong is shrouded in mystery, with his true identity and purpose gradually revealed throughout the game.": {
+    "message": "プレイヤーは、伝説の猿王である孫悟空に基づく「運命の者」というキャラクターの役割を担います。小説の主人公と類似点はあるものの、このバージョンの悟空は謎に包まれており、彼の真のアイデンティティと目的はゲームを通じて徐々に明らかになります。"
+  },
+  "Setting and World": {
+    "message": "設定と世界"
+  },
+  "The game world is a vast, perilous landscape filled with mythical creatures, ancient ruins, and supernatural phenomena. Players will journey through diverse environments, from misty mountains and dense forests to hidden temples and celestial realms. Each area is steeped in Chinese mythology, offering a rich tapestry of lore and history to uncover.": {
+    "message": "ゲームの世界は、神話的な生き物、古代の遺跡、そして超自然的な現象で満ちた広大で危険な風景です。プレイヤーは、霧深い山々や茂密な森から隠された寺院や天上界まで、多様な環境を旅します。それぞれのエリアは中国神話に根ざしており、解明すべき豊かな伝承と歴史の絵巻を提供します。"
+  },
+  "Main Quest": {
+    "message": "メインクエスト"
+  },
+  "The Destined One embarks on a dangerous journey to uncover the truth behind ancient legends. This quest is not just about reaching the West, as in the original story, but about uncovering hidden truths that could reshape the understanding of the world and the protagonist's place in it.": {
+    "message": "運命の者は、古代の伝説の真実を解明するために危険な旅に出ます。このクエストは、元の物語のように西方に到達することだけではなく、世界の理解と主人公のその中での役割を再構築するかもしれない隠された真実を明らかにすることです。"
+  },
+  "Antagonists": {
+    "message": "敵対者"
+  },
+  "The game features a variety of antagonists, from rival demon kings and jealous deities to corrupted heroes and cosmic entities. Each adversary presents unique challenges and contributes to the overall narrative.": {
+    "message": "ゲームには、ライバルの魔王や嫉妬深い神々から堕落した英雄や宇宙的な存在まで、さまざまな敵対者が登場します。それぞれの敵はユニークな挑戦を提示し、全体的なナラティブに貢献します。"
+  },
+  "Conclusion": {
+    "message": "結論"
+  },
+  "As players progress through the story, they'll unravel a complex narrative that questions the nature of destiny, power, and the responsibility that comes with great abilities. The journey of the Destined One is not just a physical one to the West, but a spiritual and philosophical exploration that challenges players to think about the consequences of their actions in a world where myths come to life.": {
+    "message": "プレイヤーがストーリーを進めるにつれて、運命、力、そして偉大な能力に伴う責任の性質を問う複雑なナラティブを解き明かします。運命の者の旅は、西方への物理的な旅だけではなく、神話が現実となる世界で行動の結果について考えることをプレイヤーに求める精神的および哲学的な探求です。"
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "エラーが発生しました",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "先頭へ戻る",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.archive.title": {
+    "message": "アーカイブ",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "アーカイブ",
+    "description": "The page & hero description of the blog archive page"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "ブログ記事一覧のナビゲーション",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "新しい記事",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "過去の記事",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "ブログ記事のナビゲーション",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "新しい記事",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "過去の記事",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.blog.post.plurals": {
+    "message": "{count}件",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "「{tagName}」タグの記事が{nPosts}件あります",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "全てのタグを見る",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "ダークモードを切り替える(現在は{mode})",
+    "description": "The ARIA label for the navbar color mode toggle"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "ダークモード",
+    "description": "The name for the dark color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "ライトモード",
+    "description": "The name for the light color mode"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "パンくずリストのナビゲーション",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.DocCard.categoryDescription.plurals": {
+    "message": "{count}項目",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "ドキュメントページ",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "前へ",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "次へ",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "{count}記事",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "「{tagName}」タグのついた{nDocsTagged}",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "バージョン: {versionLabel}"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "これはリリース前のバージョン{versionLabel}の{siteTitle}のドキュメントです。",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "これはバージョン{versionLabel}の{siteTitle}のドキュメントで現在はメンテナンスされていません",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "最新のドキュメントは{latestVersionLink} ({versionLabel}) を見てください",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "最新バージョン",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.common.editThisPage": {
+    "message": "このページを編集",
+    "description": "The link label to edit the current page"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "{heading} への直接リンク",
+    "description": "Title for link to heading"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": "{date}に",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": "{user}が",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "{atDate}{byUser}最終更新",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "他のバージョン",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.NotFound.title": {
+    "message": "ページが見つかりません",
+    "description": "The title of the 404 page"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "タグ:",
+    "description": "The label alongside a tag list"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "閉じる",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.admonition.caution": {
+    "message": "注意",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.admonition.danger": {
+    "message": "危険",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "備考",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.note": {
+    "message": "注記",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "ヒント",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.warning": {
+    "message": "警告",
+    "description": "The default label used for the Warning admonition (:::warning)"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "コピーしました",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "クリップボードにコードをコピー",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "コピー",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "折り返し",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "最近のブログ記事のナビゲーション",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.DocSidebarItem.expandCategoryAriaLabel": {
+    "message": "'{label}'の目次を開く",
+    "description": "The ARIA label to expand the sidebar category"
+  },
+  "theme.DocSidebarItem.collapseCategoryAriaLabel": {
+    "message": "'{label}'の目次を隠す",
+    "description": "The ARIA label to collapse the sidebar category"
+  },
+  "theme.NavBar.navAriaLabel": {
+    "message": "ナビゲーション",
+    "description": "The ARIA label for the main navigation"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "他の言語",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.blog.post.readMore": {
+    "message": "もっと見る",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "{title}についてもっと見る",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "このページの見出し",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "約{readingTime}分",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "ホームページ",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.NotFound.p1": {
+    "message": "お探しのページが見つかりませんでした",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "このページにリンクしているサイトの所有者にリンクが壊れていることを伝えてください",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "サイドバーを隠す",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "サイドバーを隠す",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "ドキュメントのサイドバー",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "ナビゲーションバーを閉じる",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "ナビゲーションバーを開く",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← メインメニューに戻る",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "サイドバーを開く",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "サイドバーを開く",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "もう一度試してください",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "メインコンテンツまでスキップ",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "タグ",
+    "description": "The title of the tag list page"
+  },
+  "theme.unlistedContent.title": {
+    "message": "非公開のページ",
+    "description": "The unlisted content banner title"
+  },
+  "theme.unlistedContent.message": {
+    "message": "このページは非公開です。 検索対象外となり、このページのリンクに直接アクセスできるユーザーのみに公開されます。",
+    "description": "The unlisted content banner message"
+  },
+  "Videos": {
+    "message": "ビデオ"
+  },
+  "BLACK MYTH: WUKONG WIKI": {
+    "message": "BLACK MYTH: WUKONG WIKI"
+  },
+  "REAL MACHINE DEMONSTRATION": {
+    "message": "実機デモンストレーション"
+  },
+  "Loading...": {
+    "message": "読み込み中..."
+  },
+  "BLACK MYTH WUKONG REVIEW": {
+    "message": "BLACK MYTH WUKONG レビュー"
+  },
+  "Latest Information": {
+    "message": "最新情報"
+  },
+  "Combat": {
+    "message": "戦闘"
+  },
+  "Gameplay": {
+    "message": "ゲームプレイ"
+  },
+  "FAQs & News": {
+    "message": "よくある質問 & ニュース"
+  },
+  "Wallpapers": {
+    "message": "壁紙"
+  },
+  "Sun WuKong": {
+    "message": "孫悟空"
+  },
+  "Stats": {
+    "message": "ステータス"
+  },
+  "Skills": {
+    "message": "スキル"
+  },
+  "Builds": {
+    "message": "ビルド"
+  },
+  "Buffs & Debuffs": {
+    "message": "バフ & デバフ"
+  },
+  "WORLD INFORMATION": {
+    "message": "世界情報"
+  },
+  "Maps": {
+    "message": "マップ"
+  },
+  "Bosses": {
+    "message": "ボス"
+  },
+  "NPCs": {
+    "message": "NPC"
+  },
+  "Back Story": {
+    "message": "背景ストーリー"
+  },
+  "Creatures & Enemies": {
+    "message": "クリーチャー & 敵"
+  },
+  "index.href": {
+    "message": "/ja"
+  }
+}

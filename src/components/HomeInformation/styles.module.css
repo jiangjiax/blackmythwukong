@@ -1,0 +1,42 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.dividericon {
+  margin: 0 0.4rem;
+  color: #d8bfd8; /* 淡紫色，中国风常用颜色 */
+  font-size: 16px;
+}
+
+.chineseStyleDivider {
+  position: relative;
+  height: 1px;
+  background-color: transparent;
+}
+
+.chineseStyleDivider::before,
+.chineseStyleDivider::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  width: 50%;
+  height: 100%;
+  background: linear-gradient(to left, transparent, #DAA520);
+}
+
+.chineseStyleDivider::before {
+  left: 0;
+  transform: scaleX(-1); /* 反转渐变方向 */
+}
+
+.chineseStyleDivider::after {
+  right: 0;
+}

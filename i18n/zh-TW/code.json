@@ -1,0 +1,790 @@
+{
+  "COMBAT": {
+    "message": "戰鬥"
+  },
+  "patchnotes.tagline1": {
+    "message": "孫悟空，又稱齊天大聖，是"
+  },
+  "patchnotes.tagline2": {
+    "message": "《黑神話：悟空》"
+  },
+  "patchnotes.tagline3": {
+    "message": "的主角。他是中國神話和文學中的傳奇人物，尤其以小說《西遊記》聞名。在遊戲中，玩家將扮演孫悟空，體驗他的傳奇故事和驚險冒險。"
+  },
+  "BLACK MYTH WUKONG WIKI": {
+    "message": "黑神話悟空百科"
+  },
+  "GENERAL INFORMATION": {
+    "message": "一般資訊"
+  },
+  "DODGING IN BLACK MYTH: WUKONG": {
+    "message": "《黑神話：悟空》中的閃避"
+  },
+  "Dodging is a crucial defensive maneuver in Black Myth: Wukong. The game allows for near-instantaneous dodges, giving players the ability to quickly evade enemy attacks. However, it's important to manage your stamina, as excessive dodging can leave you vulnerable. As you progress, you can unlock a skill that creates a phantom copy when performing a perfect dodge, automatically counterattacking enemies.": {
+    "message": "閃避是《黑神話：悟空》中重要的防禦動作。遊戲允許近乎即時的閃避，讓玩家能迅速躲避敵人攻擊。然而，管理耐力很重要，因為過度閃避可能使你暴露在危險中。隨著進展，你可以解鎖一項技能，在完美閃避時創造幻影分身，自動反擊敵人。"
+  },
+  "STANCES AND WEAPON SKILLS IN BLACK MYTH: WUKONG": {
+    "message": "《黑神話：悟空》中的姿態與武器技能"
+  },
+  "Combat revolves around Sun Wukong's magical staff, the Ruyi Jingu Bang. Players can switch between three different stances:": {
+    "message": "戰鬥圍繞著孫悟空的魔法棒——如意金箍棒。玩家可以在三種不同姿態間切換："
+  },
+  "Smash Form": {
+    "message": "粉碎姿態"
+  },
+  "Pillar Form": {
+    "message": "柱狀姿態"
+  },
+  "Thrust Form": {
+    "message": "突刺姿態"
+  },
+  "Each stance offers unique attack patterns and combos. The Pillar Form, for example, allows Wukong to perch atop the staff and slam down on enemies or perform spinning attacks. Switching between stances mid-combat allows for diverse and fluid combos.": {
+    "message": "每種姿態提供獨特的攻擊模式和連擼。例如，柱狀姿態允許悟空站在棒頂並猛擊敵人或進行旋轉攻擊。在戰鬥中切換姿態可以實現多樣化和流暢的連擼。"
+  },
+  "COMBAT STRATEGY IN BLACK MYTH: WUKONG": {
+    "message": "《黑神話：悟空》中的戰鬥策略"
+  },
+  "Unlike slower-paced Souls-like games, Black Myth: Wukong emphasizes speed and relentless offense. Players should:": {
+    "message": "不同於節奏較慢的類魂遊戲，《黑神話：悟空》強調速度和持續進攻。玩家應該："
+  },
+  "Utilize Sun Wukong's agility to maintain pressure on enemies": {
+    "message": "利用孫悟空的敏捷性對敵人保持壓力"
+  },
+  "Learn enemy attack patterns to time dodges effectively": {
+    "message": "學習敵人的攻擊模式以有效計時閃避"
+  },
+  "Manage stamina to avoid exhaustion during crucial moments": {
+    "message": "管理耐力以避免在關鍵時刻耗盡"
+  },
+  "Combine different stances and abilities for varied attack strategies": {
+    "message": "結合不同的姿態和能力以實施多樣化的攻擊策略"
+  },
+  "TRANSFORMATIONS IN BLACK MYTH: WUKONG": {
+    "message": "《黑神話：悟空》中的變形"
+  },
+  "Sun Wukong can shapeshift into different forms, adding variety to combat encounters. Known transformations include:": {
+    "message": "孫悟空可以變形成不同的形態，為戰鬥遭遇增添多樣性。已知的變形包括："
+  },
+  "A flying insect for evasion and exploration": {
+    "message": "飛行昆蟲，用於躲避和探索"
+  },
+  "A giant monster for powerful attacks": {
+    "message": "巨型怪物，用於強力攻擊"
+  },
+  "SPECIAL ABILITIES IN BLACK MYTH: WUKONG": {
+    "message": "《黑神話：悟空》中的特殊能力"
+  },
+  "The game features various special abilities, including:": {
+    "message": "遊戲包含多種特殊能力，包括："
+  },
+  "Monkey Fur Duplication: Summon clones to distract enemies or absorb damage": {
+    "message": "猴毛分身：召喚分身來分散敵人注意力或吸收傷害"
+  },
+  "Stone Form: An unlockable ability that allows Wukong to absorb hits and counterattack, similar to mechanics in Mortal Shell": {
+    "message": "石頭形態：一項可解鎖的能力，允許悟空吸收攻擊並反擊，類似於《Mortal Shell》中的機制"
+  },
+  "RESTING AND CHECKPOINTS IN BLACK MYTH: WUKONG": {
+    "message": "休息與檢查點在《黑神話：悟空》中"
+  },
+  "The game features incense altars that serve as checkpoints, similar to Elden Ring's Sites of Grace. At these altars, players can:": {
+    "message": "遊戲中設有香爐祭壇作為檢查點，類似於《Elden Ring》的恩典之地。在這些祭壇，玩家可以："
+  },
+  "Restore health, mana, and status effects": {
+    "message": "恢復生命值、法力值和狀態效果"
+  },
+  "Replenish healing items": {
+    "message": "補充治療物品"
+  },
+  "Consider strategy before continuing": {
+    "message": "繼續前考慮策略"
+  },
+  "HomePage": {
+    "message": "首頁"
+  },
+  "homepage.tagline1": {
+    "message": "黑神話悟空百科指南：協助所有天命人玩家深入探索遊戲的每一個細節"
+  },
+  "homepage.tagline2": {
+    "message": "黑神話：悟空"
+  },
+  "homepage.tagline3": {
+    "message": "，涵蓋其技能、武器、背景、角色等！"
+  },
+  "Black Myth: WuKong is an action-adventure game inspired by the iconic character Sun Wukong from the classic Chinese literary masterpiece 'Journey to the West.'": {
+    "message": "《黑神話：悟空》是一款動作冒險遊戲，靈感來自中國古典文學巨著《西遊記》中的標誌性角色孫悟空。"
+  },
+  "The game has garnered significant anticipation due to its stunning visual effects, fluid combat mechanics, and rich cultural heritage. Players will take on the role of Sun Wukong, venturing into a mystical and perilous fantasy world, utilizing a diverse array of unique skills and weapons to combat enemies.": {
+    "message": "該遊戲因其驚人的視覺效果、流暢的戰鬥機制和豐富的文化遺產而備受期待。玩家將扮演孫悟空，進入一個神秘而危險的幻想世界，利用多樣化的獨特技能和武器對抗敵人。"
+  },
+  "SUN WUKONG": {
+    "message": "孫悟空"
+  },
+  "CHARACTER INFORMATION": {
+    "message": "角色資訊"
+  },
+  "CHARACTER BACKGROUND": {
+    "message": "角色背景"
+  },
+  "Sun Wukong is portrayed as a powerful and rebellious warrior with extraordinary abilities. He possesses immense strength, agility, and a variety of magical powers, including shape-shifting and the ability to summon clones of himself. His iconic weapon is the Ruyi Jingu Bang, a magical staff that can change its size at will. Sun Wukong's character is deeply rooted in Chinese culture, symbolizing rebellion, freedom, and the quest for enlightenment.": {
+    "message": "孫悟空被描繪為一位強大且叛逆的戰士，擁有非凡的能力。他具有巨大的力量、敏捷性以及多種魔法能力，包括變形和召喚自己的分身。他的標誌性武器是如意金箍棒，一根可以隨意改變大小的魔法棒。孫悟空的角色深深植根於中國文化，象徵著反叛、自由和尋求啟蒙。"
+  },
+  "CULTURAL SIGNIFICANCE IN BLACK MYTH: WUKONG": {
+    "message": "《黑神話：悟空》中的文化意義"
+  },
+  "Black Myth: Wukong holds significant cultural importance as it draws from the rich Chinese literary tradition and mythology, particularly the classic novel \"Journey to the West\" and its iconic character Sun Wukong.": {
+    "message": "《黑神話：悟空》具有重要的文化意義，因為它汲取了豐富的中國文學傳統和神話，尤其是經典小說《西遊記》及其標誌性角色孫悟空。"
+  },
+  "While based on 'Journey to the West,' the game offers a fresh perspective on the story, potentially exploring themes of rebellion, free will, and the complex relationships between gods, humans, and demons (Yaoguai).": {
+    "message": "雖然基於《西遊記》，遊戲提供了對故事的新視角，可能探討反叛、自由意志以及神、人、妖（妖怪）之間的複雜關係。"
+  },
+  "The game serves as a vehicle for introducing elements of Chinese culture, mythology, and storytelling to a wider international audience. It has the potential to spark interest in Chinese literature and folklore among players unfamiliar with these traditions.": {
+    "message": "遊戲作為介紹中國文化、神話和敘事元素給更廣泛國際觀眾的媒介。它有可能激發不熟悉這些傳統的玩家對中國文學和民間故事的興趣。"
+  },
+  "The game emphasizes Sun Wukong's role as a powerful warrior deity (Fighting and Warring Deity), focusing on his combat prowess and legendary battles. This interpretation aligns with his portrayal in Chinese folklore as a symbol of rebellion and a hero of justice.": {
+    "message": "遊戲強調孫悟空作為強大的戰神（戰鬥與戰爭之神）的角色，專注於他的戰鬥能力和傳奇戰役。這種解釋與他在中國民間傳說中作為反叛象徵和正義英雄的描繪相符。"
+  },
+  "GAMEPLAY AND FEATURES IN BLACK MYTH: WUKONG": {
+    "message": "《黑神話：悟空》中的遊戲玩法與特色"
+  },
+  "Black Myth: Wukong aims to provide an immersive experience with top-notch graphics, detailed environments, and engaging combat mechanics. The game features:": {
+    "message": "黑神話悟空旨在提供沉浸式的遊戲體驗，擁有頂級的圖形效果、細緻的環境設計和引人入勝的戰鬥機制。遊戲特色包括："
+  },
+  "Stunning Visuals: Utilizing Unreal Engine 5, the game boasts high-quality graphics and realistic animations.": {
+    "message": "驚艷視覺：利用虛幻引擎5，遊戲展現了高品質的圖形和逼真的動畫。"
+  },
+  "Rich Storyline: The narrative is inspired by 'Journey to the West,' offering a deep and engaging story that explores the lore and mythology of ancient China.": {
+    "message": "豐富劇情：故事靈感來自《西遊記》，提供了一個深入且引人入勝的故事，探索古代中國的傳說和神話。"
+  },
+  "Dynamic Combat: Players can engage in fast-paced combat, utilizing Sun Wukong's martial arts skills and magical abilities to defeat enemies.": {
+    "message": "動態戰鬥：玩家可以參與快節奏的戰鬥，利用孫悟空的武術技能和魔法能力擊敗敵人。"
+  },
+  "Exploration: The game world is expansive, filled with hidden secrets, diverse landscapes, and formidable bosses.": {
+    "message": "探索：遊戲世界廣闊，充滿了隱藏的秘密、多樣的景觀和強大的Boss。"
+  },
+  "SUN WUKONG SKILLS IN BLACK MYTH: WUKONG": {
+    "message": "黑神話悟空中的孫悟空技能"
+  },
+  "In Black Myth: Wukong, Sun Wukong possesses a range of powerful abilities that not only faithfully recreate his capabilities from the original story but also enhance gameplay and challenge:": {
+    "message": "在黑神話悟空中，孫悟空擁有一系列強大的能力，不僅忠實再現了原故事中的能力，還增強了遊戲性和挑戰性："
+  },
+  "Ruyi Jingu Bang: Sun Wukong's iconic weapon can change size at will. In the game, players can use it for both melee attacks and long-range strikes, and even solve puzzles and overcome obstacles through its transformation.": {
+    "message": "如意金箍棒：孫悟空的標誌性武器可以隨心所欲改變大小。在遊戲中，玩家可以用它進行近戰攻擊和遠程打擊，甚至通過其變形來解決謎題和克服障礙。"
+  },
+  "Cloud Somersault: Sun Wukong can summon a magical cloud for rapid movement, increasing the game's mobility and exploration aspects.": {
+    "message": "筋斗雲：孫悟空可以召喚一朵魔法雲進行快速移動，增加了遊戲的移動性和探索性。"
+  },
+  "72 Transformations: The ability to transform into various animals and objects to adapt to different combat situations and environmental needs. This skill provides multiple strategic options and tactical variations in the game.": {
+    "message": "七十二變：能夠變化成各種動物和物體以適應不同的戰鬥情況和環境需求。這項技能在遊戲中提供了多種戰略選擇和戰術變化。"
+  },
+  "Clone Technique: Sun Wukong can summon clones of himself to confuse enemies or perform coordinated attacks.": {
+    "message": "分身術：孫悟空可以召喚自己的分身來迷惑敵人或進行協同攻擊。"
+  },
+  "Fiery Eyes: Features skill trees for ability enhancement.": {
+    "message": "火眼金睛：特點是技能樹，用於能力增強。"
+  },
+  "BLACK MYTH: WUKONG WALLPAPERS": {
+    "message": "黑神話悟空壁紙"
+  },
+  "WHEN DID BLACK MYTH: WUKONG RELEASE?": {
+    "message": "黑神話悟空何時發布？"
+  },
+  "Black Myth: Wukong is set to release on August 20, 2024. The game will launch simultaneously on PlayStation 5 and PC platforms, while the Xbox Series X/S version has been delayed with no specific release date announced yet.": {
+    "message": "黑神話悟空預計於2024年8月20日發布。遊戲將在PlayStation 5和PC平台上同時推出，而Xbox Series X/S版本已延期，尚未公布具體發布日期。"
+  },
+  "WHAT PLATFORMS IS BLACK MYTH: WUKONG ON?": {
+    "message": "黑神話悟空在哪些平台上可玩？"
+  },
+  "Black Myth: Wukong will be available on the following platforms:": {
+    "message": "黑神話悟空將在以下平台上可用："
+  },
+  "PlayStation 5": {
+    "message": "PlayStation 5"
+  },
+  "PC (Windows)": {
+    "message": "PC (Windows)"
+  },
+  "Xbox Series X/S (delayed, release date to be announced)": {
+    "message": "Xbox Series X/S (延期，發售日期待公布)"
+  },
+  "The game will launch simultaneously on PS5 and PC on August 20, 2024. However, the Xbox Series X/S version has been delayed, with developers working to optimize it for the platform.": {
+    "message": "遊戲將於2024年8月20日同步在PS5和PC上發售。然而，Xbox Series X/S版本已延期，開發者正致力於優化該平台版本。"
+  },
+  "HOW LONG HAVE THEY BEEN WORKING ON BLACK MYTH: WUKONG?": {
+    "message": "他們已經開發《黑神話：悟空》多久了？"
+  },
+  "Game Science, the developer of Black Myth: Wukong, began working on the game in 2017. The project was first revealed to the public on August 20, 2020, with a 13-minute pre-alpha gameplay video that quickly went viral, garnering millions of views on YouTube and Bilibili.": {
+    "message": "《黑神話：悟空》的開發商Game Science自2017年開始著手開發該遊戲。該項目於2020年8月20日首次向公眾揭露，當時釋出了一段13分鐘的pre-alpha遊戲影片，迅速在網路上爆紅，在YouTube和Bilibili上獲得了數百萬的觀看次數。"
+  },
+  "BLACK MYTH: WUKONG SYSTEM REQUIREMENTS": {
+    "message": "《黑神話：悟空》系統需求"
+  },
+  "Minimum Requirements": {
+    "message": "最低需求"
+  },
+  "OS: Windows 10 64-bit": {
+    "message": "作業系統：Windows 10 64位元"
+  },
+  "CPU: Intel Core i5-8400 or AMD Ryzen 5 1600": {
+    "message": "處理器：Intel Core i5-8400 或 AMD Ryzen 5 1600"
+  },
+  "Memory: 16 GB RAM": {
+    "message": "記憶體：16 GB RAM"
+  },
+  "Graphics: NVIDIA GeForce GTX 1060 6GB or AMD Radeon RX 580 8GB": {
+    "message": "顯示卡：NVIDIA GeForce GTX 1060 6GB 或 AMD Radeon RX 580 8GB"
+  },
+  "DirectX: Version 11": {
+    "message": "DirectX：版本11"
+  },
+  "Storage: 130 GB available space (HDD supported, SSD recommended)": {
+    "message": "儲存空間：130 GB可用空間（支援HDD，建議使用SSD）"
+  },
+  "Sound Card: Windows compatible audio device": {
+    "message": "音效卡：相容於Windows的音訊裝置"
+  },
+  "Recommended Requirements": {
+    "message": "建議需求"
+  },
+  "CPU: Intel Core i7-9700 or AMD Ryzen 5 5500": {
+    "message": "處理器：Intel Core i7-9700 或 AMD Ryzen 5 5500"
+  },
+  "Graphics: NVIDIA GeForce RTX 2060 or AMD Radeon RX 5700 XT or INTEL Arc A750": {
+    "message": "顯示卡：NVIDIA GeForce RTX 2060 或 AMD Radeon RX 5700 XT 或 INTEL Arc A750"
+  },
+  "DirectX: Version 12": {
+    "message": "DirectX：版本12"
+  },
+  "Storage: 130 GB available space (SSD required)": {
+    "message": "儲存空間：130 GB可用空間（需使用SSD）"
+  },
+  "Minimum Ray Tracing Configuration (Medium settings, Low RT, 1080P)": {
+    "message": "最低光線追蹤配置（中等設定，低光追，1080P）"
+  },
+  "CPU: Intel Core i5-9400 or AMD Ryzen 5 1600": {
+    "message": "處理器：Intel Core i5-9400 或 AMD Ryzen 5 1600"
+  },
+  "Graphics: NVIDIA GeForce RTX 3060": {
+    "message": "顯示卡：NVIDIA GeForce RTX 3060"
+  },
+  "VRAM: 8 GB": {
+    "message": "顯示記憶體：8 GB"
+  },
+  "Ultra Ray Tracing Configuration (High settings, Ultra RT, 4K)": {
+    "message": "極致光線追蹤配置（高設定，極致光追，4K）"
+  },
+  "Graphics: NVIDIA GeForce RTX 4080 Super": {
+    "message": "顯示卡：NVIDIA GeForce RTX 4080 Super"
+  },
+  "VRAM: 16 GB": {
+    "message": "顯示記憶體：16 GB"
+  },
+  "RAM: 32 GB": {
+    "message": "記憶體：32 GB"
+  },
+  "LATEST BLACK MYTH: WUKONG NEWS": {
+    "message": "最新《黑神話：悟空》新聞"
+  },
+  "Black Myth: Wukong Pre-order Editions Detailed": {
+    "message": "《黑神話：悟空》預購版本詳情"
+  },
+  "Black Myth: Wukong has become the most wishlisted game on Steam. This achievement highlights the immense anticipation for this action RPG based on Chinese mythology. The game offers three pre-order editions:": {
+    "message": "黑神話：悟空已成為Steam上最受期待的遊戲。這一成就凸顯了對這款基於中國神話的動作RPG的巨大期待。該遊戲提供三種預購版本："
+  },
+  "Digital Edition ($69.99): Includes various in-game items and a digital soundtrack.": {
+    "message": "數位版（$69.99）：包含多種遊戲內物品及數位原聲帶。"
+  },
+  "Deluxe Edition ($169): Features a steelbook case, 1:1 scale bronze headband replica, and additional physical and digital content.": {
+    "message": "豪華版（$169）：特點包括鋼鐵書盒、1:1比例青銅頭箍複製品，以及額外的實體和數位內容。"
+  },
+  "Collector's Edition ($399): Contains a 40cm Sun Wukong statue, silk scroll, and numerous premium collectibles.": {
+    "message": "收藏家版（$399）：包含40公分孫悟空雕像、絲綢卷軸及眾多高級收藏品。"
+  },
+  "Black Myth: Wukong Pre-order Sales Milestone": {
+    "message": "黑神話：悟空預購銷售里程碑"
+  },
+  "Reports indicate that Black Myth: Wukong received 1.1 million pre-orders within days of opening physical and digital pre-orders on June 8th and 11th, demonstrating the game's massive appeal.": {
+    "message": "報告顯示，黑神話：悟空在6月8日和11日開放實體和數位預購後的幾天內，收到了110萬份預購，顯示了該遊戲的巨大吸引力。"
+  },
+  "Development Progress": {
+    "message": "開發進度"
+  },
+  "Game Science, the developer, has stated that Black Myth: Wukong is being developed using Unreal Engine 5 and is the first game to simultaneously use this engine and NVIDIA's DLSS technology, promising exceptional visual experiences.": {
+    "message": "遊戲科學，開發者，已聲明黑神話：悟空正在使用Unreal Engine 5開發，並且是首個同時使用此引擎和NVIDIA的DLSS技術的遊戲，承諾提供卓越的視覺體驗。"
+  },
+  "Sweet Baby Controversy": {
+    "message": "甜寶貝爭議"
+  },
+  "Background": {
+    "message": "背景"
+  },
+  "Recently, a controversy erupted between Black Myth: Wukong and Sweet Baby studio. Sweet Baby is a consultancy firm that provides political correctness guidance to game developers, ensuring game content meets certain social and cultural standards.": {
+    "message": "近期，黑神話：悟空與甜寶貝工作室之間爆發了爭議。甜寶貝是一家提供政治正確指導的諮詢公司，確保遊戲內容符合特定的社會和文化標準。"
+  },
+  "Controversy Details": {
+    "message": "爭議詳情"
+  },
+  "According to reports, Sweet Baby demanded a $7 million \"guidance fee\" from Game Science, the developers of Black Myth: Wukong, to ensure the game adheres to their political correctness standards. Game Science reportedly refused this demand.": {
+    "message": "根據報導，甜寶貝向黑神話：悟空的開發者遊戲科學要求700萬美元的「指導費」，以確保遊戲符合其政治正確標準。遊戲科學據報拒絕了這一要求。"
+  },
+  "Media Attacks": {
+    "message": "媒體攻擊"
+  },
+  "Following the refusal to pay, Game Science claims they've been subjected to continuous attacks and defamation from Western media. These attacks allegedly include accusations of gender discrimination in the game. Sweet Baby is accused of using its media influence to tarnish Black Myth: Wukong's reputation in retaliation for the refused payment.": {
+    "message": "在拒絕支付後，遊戲科學聲稱他們遭受了西方媒體的持續攻擊和誹謗。這些攻擊據稱包括對遊戲中性別歧視的指控。甜寶貝被指控利用其媒體影響力來損害黑神話：悟空的聲譽，以報復拒絕支付。"
+  },
+  "Community Reaction": {
+    "message": "社群反應"
+  },
+  "This controversy has sparked widespread discussion in the gaming community. Some players and industry insiders have expressed outrage at Sweet Baby's alleged actions, considering them unethical and harmful to the gaming industry. They argue that a small number of influential consultancy firms should not control game developers' creative directions through pressure tactics.": {
+    "message": "這起爭議在遊戲社群中引起廣泛討論。一些玩家和業內人士對Sweet Baby所指控的行為感到憤怒，認為這些行為不道德且有害於遊戲產業。他們認為少數有影響力的諮詢公司不應該通過壓力手段來控制遊戲開發者的創作方向。"
+  },
+  "Official Response": {
+    "message": "官方回應"
+  },
+  "As of now, Game Science has not issued an official statement regarding this controversy. However, as the release date approaches, this dispute may impact the game's market performance.": {
+    "message": "截至目前，Game Science尚未就這一爭議發表官方聲明。然而，隨著發行日期的臨近，這一爭議可能會影響遊戲的市場表現。"
+  },
+  "Future Outlook": {
+    "message": "未來展望"
+  },
+  "Despite the controversy, Black Myth: Wukong remains one of the most anticipated games of 2024. Players are eager to explore its rich Chinese mythological world and experience its unique combat system and transformation abilities. More game details are expected to be revealed as the release date nears.": {
+    "message": "儘管有爭議，黑神話悟空仍然是2024年最受期待的遊戲之一。玩家們渴望探索其豐富的中國神話世界，體驗其獨特的戰鬥系統和變身能力。隨著發行日期的臨近，預計將公布更多遊戲細節。"
+  },
+  "BLACK MYTH: WUKONG GAMEPLAY": {
+    "message": "黑神話悟空遊戲玩法"
+  },
+  "Black Myth: Wukong, developed by Game Science, is a highly anticipated action role-playing game set to release on August 20, 2024. Based on the classic Chinese novel 'Journey to the West,' the game promises to deliver an immersive experience rich in Chinese mythology.": {
+    "message": "黑神話悟空，由Game Science開發，是一款備受期待的動作角色扮演遊戲，預定於2024年8月20日發行。基於經典中國小說《西遊記》，該遊戲承諾提供一個豐富的中國神話世界，讓玩家沉浸其中。"
+  },
+  "Dynamic Combat System": {
+    "message": "動態戰鬥系統"
+  },
+  "Black Myth: Wukong boasts a sophisticated combat system that combines fast-paced action with fluid movements. Players will wield the legendary Ruyi Jingu Bang staff, executing diverse attacks and combos. The combat encourages players to utilize agile movements and tactical thinking, leveraging the environment to gain advantages. This creates a unique and engaging fighting style that promises to keep players on their toes.": {
+    "message": "黑神話悟空擁有一個複雜的戰鬥系統，將快節奏的動作與流暢的移動結合在一起。玩家將揮舞傳說中的如意金箍棒，進行多樣的攻擊和連擊。這種戰鬥鼓勵玩家利用靈活的移動和戰術思維，利用環境獲得優勢。這創造了一種獨特而引人入勝的戰鬥風格，保證讓玩家保持警惕。"
+  },
+  "Transformation Abilities": {
+    "message": "變身能力"
+  },
+  "A standout feature of the game is the protagonist's ability to transform. Players can morph into various creatures, each with its own distinct abilities and combat style. For instance, transforming into the wolfman Guangzhi allows players to wield a fire glaive for powerful melee attacks. This transformation mechanic not only adds variety to combat but also encourages strategic thinking, as players must choose the most suitable form for different enemies and battle situations.": {
+    "message": "遊戲的一個突出特點是主角的變身能力。玩家可以變身為各種生物，每種生物都有獨特的能力和戰鬥風格。例如，變身為狼人廣智可以讓玩家揮舞火焰長矛進行強力的近戰攻擊。這種變身機制不僅為戰鬥增加了變化，還鼓勵戰略思維，因為玩家必須為不同的敵人和戰鬥情況選擇最適合的形態。"
+  },
+  "Comprehensive Character Progression": {
+    "message": "全面的角色進展"
+  },
+  "Black Myth: Wukong implements a rich skill tree system, allowing players to continuously upgrade their character and unlock new abilities throughout the game. This progression mechanism enables players to customize their gameplay style, choosing skill combinations that suit their preferences. As characters grow stronger, players will experience more powerful abilities and increasingly complex combat strategies, enhancing the game's replay value.": {
+    "message": "黑神話悟空實施了一個豐富的技能樹系統，讓玩家可以在整個遊戲中不斷升級角色並解鎖新能力。這種進展機制使玩家可以自定義他們的遊戲風格，選擇符合自己喜好的技能組合。隨著角色變得更強，玩家將體驗到更強大的能力和越來越複雜的戰鬥策略，增強了遊戲的重玩價值。"
+  },
+  "Impressive Boss Battles": {
+    "message": "令人印象深刻的Boss戰"
+  },
+  "Boss fights are a core highlight of the game. Each boss is uniquely designed with its own fighting style, challenging players to adapt and find weaknesses. These encounters not only test players' reflexes and tactical thinking but also provide a great sense of accomplishment. Defeating powerful bosses rewards players with valuable items and achievements, adding to the game's appeal.": {
+    "message": "Boss戰是遊戲的核心亮點。每個Boss都經過獨特設計，具有自己的戰鬥風格，挑戰玩家去適應並找到弱點。這些戰鬥不僅考驗玩家的反應速度和戰術思維，還帶來極大的成就感。打敗強大的Boss會獎勵玩家寶貴的物品和成就，增加遊戲的吸引力。"
+  },
+  "Rich Exploration Elements": {
+    "message": "豐富的探索元素"
+  },
+  "While the main storyline follows a linear progression, Black Myth: Wukong features vast areas for exploration. Players are encouraged to investigate every corner, discovering hidden items, facing elite enemies, and uncovering more about the game's mythological world. This exploration element enhances the game's immersion and ensures that each playthrough is filled with surprises.": {
+    "message": "雖然主線故事遵循線性進展，但黑神話悟空提供廣闊的探索區域。鼓勵玩家探索每個角落，發現隱藏的物品，面對精英敵人，並揭示更多關於遊戲神話世界的秘密。這種探索元素增強了遊戲的沉浸感，確保每次遊玩都充滿驚喜。"
+  },
+  "Stunning Visual Effects": {
+    "message": "令人驚豔的視覺效果"
+  },
+  "Developed using Unreal Engine 5, Black Myth: Wukong delivers breathtaking visual effects and smooth animations. The game's scenery draws inspiration from traditional Chinese culture, taking players through majestic mountains, dense forests, and mysterious ancient ruins, all imbued with a strong mythological atmosphere. Detailed character modeling and fluid action animations make every frame of the game look like a work of art.": {
+    "message": "採用Unreal Engine 5開發，《黑神話：悟空》呈現出令人驚嘆的視覺效果和流暢的動畫。遊戲場景汲取了中國傳統文化的靈感，帶領玩家穿越雄偉的山脈、茂密的森林和神秘的古代遺跡，充滿了濃厚的神話氛圍。精細的角色建模和流暢的動作動畫使得遊戲的每一幀都像是一件藝術品。"
+  },
+  "Rich Cultural Depth": {
+    "message": "豐富的文化深度"
+  },
+  "The game's storyline is deeply rooted in Chinese mythology, allowing players to interact with classic characters like Sun Wukong and Tang Sanzang. This cultural depth not only enriches the game's backstory but also allows players to experience the charm of traditional Chinese culture while enjoying the game.": {
+    "message": "遊戲的故事情節深深植根於中國神話，讓玩家能與孫悟空、唐三藏等經典角色互動。這種文化深度不僅豐富了遊戲的背景故事，也讓玩家在享受遊戲的同時體驗到傳統中國文化的魅力。"
+  },
+  "BLACK MYTH: WUKONG STORY OVERVIEW": {
+    "message": "黑神話：悟空故事概覽"
+  },
+  "Set in a mythical version of ancient China, Black Myth: Wukong draws its inspiration from the classic Chinese novel 'Journey to the West.' However, the game presents a unique interpretation of this well-known tale, blending familiar elements with new narrative twists.": {
+    "message": "設定在古代中國的神話版本中，《黑神話：悟空》從中國古典小說《西遊記》中汲取靈感。然而，遊戲對這個眾所周知的故事進行了獨特的詮釋，將熟悉的元素與新的敘事轉折相結合。"
+  },
+  "Central Character": {
+    "message": "核心角色"
+  },
+  "The player takes on the role of the \"Destined One,\" a character based on Sun Wukong, the legendary Monkey King. While sharing similarities with the novel is protagonist, this version of Wukong is shrouded in mystery, with his true identity and purpose gradually revealed throughout the game.": {
+    "message": "玩家扮演「天命之人」，這個角色基於傳說中的猴王孫悟空。雖然與小說中的主角有相似之處，但這個版本的悟空充滿了神秘感，他的真實身份和目的將在遊戲中逐漸揭曉。"
+  },
+  "Setting and World": {
+    "message": "設定與世界"
+  },
+  "The game world is a vast, perilous landscape filled with mythical creatures, ancient ruins, and supernatural phenomena. Players will journey through diverse environments, from misty mountains and dense forests to hidden temples and celestial realms. Each area is steeped in Chinese mythology, offering a rich tapestry of lore and history to uncover.": {
+    "message": "遊戲世界是一個廣闊而危險的景觀，充滿了神話生物、古代遺跡和超自然現象。玩家將穿越多樣化的環境，從迷霧繚繞的山脈和茂密的森林到隱藏的寺廟和天界。每個區域都浸透了中國神話，提供了豐富的傳說和歷史供玩家探索。"
+  },
+  "Main Quest": {
+    "message": "主線任務"
+  },
+  "The Destined One embarks on a dangerous journey to uncover the truth behind ancient legends. This quest is not just about reaching the West, as in the original story, but about uncovering hidden truths that could reshape the understanding of the world and the protagonist's place in it.": {
+    "message": "天命之人踏上了一場危險的旅程，以揭開古老傳說背後的真相。這個任務不僅僅是像原故事中那樣到達西方，而是關於揭露隱藏的真相，這些真相可能會重塑對世界和主角在其中的位置的理解。"
+  },
+  "Antagonists": {
+    "message": "反派角色"
+  },
+  "The game features a variety of antagonists, from rival demon kings and jealous deities to corrupted heroes and cosmic entities. Each adversary presents unique challenges and contributes to the overall narrative.": {
+    "message": "遊戲中包含了多樣化的反派角色，從對立的妖王和嫉妒的神祇到腐化的英雄和宇宙實體。每個對手都帶來獨特的挑戰，並對整體敘事做出貢獻。"
+  },
+  "Conclusion": {
+    "message": "結論"
+  },
+  "As players progress through the story, they'll unravel a complex narrative that questions the nature of destiny, power, and the responsibility that comes with great abilities. The journey of the Destined One is not just a physical one to the West, but a spiritual and philosophical exploration that challenges players to think about the consequences of their actions in a world where myths come to life.": {
+    "message": "隨著玩家在故事中前進，他們將揭開一個複雜的敘事，探討命運、力量以及與強大能力相伴的責任。天命之人的旅程不僅僅是一場物理上的西行，更是一場精神和哲學上的探索，挑戰玩家思考在神話成真的世界中行動的後果。"
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "此頁已當機。",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "回到頂部",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.archive.title": {
+    "message": "歷史文章",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "歷史文章",
+    "description": "The page & hero description of the blog archive page"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "部落格文章列表分頁導覽",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "較新的文章",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "較舊的文章",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "部落格文章分頁導覽",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "較新一篇",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "較舊一篇",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.blog.post.plurals": {
+    "message": "{count} 篇文章",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} 含有標籤「{tagName}」",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "檢視所有標籤",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "切換淺色/暗黑模式（當前為{mode}）",
+    "description": "The ARIA label for the navbar color mode toggle"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "暗黑模式",
+    "description": "The name for the dark color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "淺色模式",
+    "description": "The name for the light color mode"
+  },
+  "theme.docs.DocCard.categoryDescription.plurals": {
+    "message": "{count} 個項目",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "頁面路徑",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "文件選項卡",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "上一頁",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "下一頁",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "{count} 篇文件帶有標籤",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged}「{tagName}」",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "版本：{versionLabel}"
+  },
+  "theme.common.editThisPage": {
+    "message": "編輯此頁",
+    "description": "The link label to edit the current page"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "{heading}的直接連結",
+    "description": "Title for link to heading"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "此為 {siteTitle} {versionLabel} 版尚未發行的文件。",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "此為 {siteTitle} {versionLabel} 版的文件，現已不再積極維護。",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "最新的文件請參閱 {latestVersionLink} ({versionLabel})。",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "最新版本",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": "於 {date} ",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": "由 {user} ",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "最後{byUser}{atDate}更新",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.NotFound.title": {
+    "message": "找不到頁面",
+    "description": "The title of the 404 page"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "選擇版本",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "標籤：",
+    "description": "The label alongside a tag list"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "關閉",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.admonition.caution": {
+    "message": "警告",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.admonition.danger": {
+    "message": "危險",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "信息",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.note": {
+    "message": "備註",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "提示",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.warning": {
+    "message": "warning",
+    "description": "The default label used for the Warning admonition (:::warning)"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "最近部落格文章導覽",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "複製成功",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "複製代碼至剪貼簿",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "複製",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.DocSidebarItem.expandCategoryAriaLabel": {
+    "message": "Expand sidebar category '{label}'",
+    "description": "The ARIA label to expand the sidebar category"
+  },
+  "theme.DocSidebarItem.collapseCategoryAriaLabel": {
+    "message": "Collapse sidebar category '{label}'",
+    "description": "The ARIA label to collapse the sidebar category"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "切換自動換行",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.NavBar.navAriaLabel": {
+    "message": "主導航",
+    "description": "The ARIA label for the main navigation"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "選擇語言",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.blog.post.readMore": {
+    "message": "閱讀更多",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "閱讀 {title} 全文",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "本頁導覽",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "閱讀時間約 {readingTime} 分鐘",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.NotFound.p1": {
+    "message": "我們沒有您要找的頁面。",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "請聯絡原始連結來源網站的所有者，並通知他們連結已毀損。",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "主頁面",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "收起側邊欄",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "收起側邊欄",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "文件側邊欄",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "Close navigation bar",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "Toggle navigation bar",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← 回到主選單",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "展開側邊欄",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "展開側邊欄",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "重試",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "跳至主要内容",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "標籤",
+    "description": "The title of the tag list page"
+  },
+  "theme.unlistedContent.title": {
+    "message": "未列出頁",
+    "description": "The unlisted content banner title"
+  },
+  "theme.unlistedContent.message": {
+    "message": "此頁面未列出。搜索引擎不會對其索引，只有擁有直接連結的用戶才能訪問。",
+    "description": "The unlisted content banner message"
+  },
+  "Videos": {
+    "message": "影片"
+  },
+  "BLACK MYTH: WUKONG WIKI": {
+    "message": "黑神話悟空百科"
+  },
+  "REAL MACHINE DEMONSTRATION": {
+    "message": "實機演示"
+  },
+  "Loading...": {
+    "message": "載入中..."
+  },
+  "BLACK MYTH WUKONG REVIEW": {
+    "message": "黑神話悟空評論"
+  },
+  "Latest Information": {
+    "message": "最新資訊"
+  },
+  "Combat": {
+    "message": "戰鬥"
+  },
+  "Gameplay": {
+    "message": "遊戲玩法"
+  },
+  "FAQs & News": {
+    "message": "常見問題與新聞"
+  },
+  "Wallpapers": {
+    "message": "桌布"
+  },
+  "Sun WuKong": {
+    "message": "孫悟空"
+  },
+  "Stats": {
+    "message": "統計數據"
+  },
+  "Skills": {
+    "message": "技能"
+  },
+  "Builds": {
+    "message": "建構"
+  },
+  "Buffs & Debuffs": {
+    "message": "增益與減益"
+  },
+  "WORLD INFORMATION": {
+    "message": "世界資訊"
+  },
+  "Maps": {
+    "message": "地圖"
+  },
+  "Bosses": {
+    "message": "首領"
+  },
+  "NPCs": {
+    "message": "非玩家角色"
+  },
+  "Back Story": {
+    "message": "背景故事"
+  },
+  "Creatures & Enemies": {
+    "message": "生物與敵人"
+  },
+  "index.href": {
+    "message": "/zh-TW"
+  }
+}

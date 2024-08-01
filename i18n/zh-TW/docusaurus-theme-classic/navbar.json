@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "黑神話悟空百科",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "黑神話悟空百科",
+    "description": "The alt text of navbar logo"
+  }
+}

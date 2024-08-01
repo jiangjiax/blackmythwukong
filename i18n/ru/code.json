@@ -1,0 +1,790 @@
+{
+  "COMBAT": {
+    "message": "БОЙ"
+  },
+  "patchnotes.tagline1": {
+    "message": "Сунь Укун, также известный как Обезьяний Царь, является главным героем в "
+  },
+  "patchnotes.tagline2": {
+    "message": "Black Myth: Wukong. "
+  },
+  "patchnotes.tagline3": {
+    "message": "Он является легендарной фигурой в китайской мифологии и литературе, особенно прославившись в романе 'Путешествие на Запад'. В игре игроки берут на себя роль Сунь Укуна, переживая его легендарную историю и захватывающие приключения."
+  },
+  "BLACK MYTH WUKONG WIKI": {
+    "message": "BLACK MYTH WUKONG ВИКИ"
+  },
+  "GENERAL INFORMATION": {
+    "message": "ОБЩАЯ ИНФОРМАЦИЯ"
+  },
+  "DODGING IN BLACK MYTH: WUKONG": {
+    "message": "УКЛОНЕНИЕ В BLACK MYTH: WUKONG"
+  },
+  "Dodging is a crucial defensive maneuver in Black Myth: Wukong. The game allows for near-instantaneous dodges, giving players the ability to quickly evade enemy attacks. However, it's important to manage your stamina, as excessive dodging can leave you vulnerable. As you progress, you can unlock a skill that creates a phantom copy when performing a perfect dodge, automatically counterattacking enemies.": {
+    "message": "Уклонение является важным защитным манёвром в Black Myth: Wukong. Игра позволяет выполнять почти мгновенные уклонения, давая игрокам возможность быстро уклоняться от атак врагов. Однако важно управлять своей выносливостью, так как излишнее уклонение может оставить вас уязвимым. По мере продвижения вы можете разблокировать навык, который создаёт призрачную копию при выполнении идеального уклонения, автоматически контратакуя врагов."
+  },
+  "STANCES AND WEAPON SKILLS IN BLACK MYTH: WUKONG": {
+    "message": "СТАТУСЫ И НАВЫКИ ОРУЖИЯ В BLACK MYTH: WUKONG"
+  },
+  "Combat revolves around Sun Wukong's magical staff, the Ruyi Jingu Bang. Players can switch between three different stances:": {
+    "message": "Бой вращается вокруг волшебного посоха Сунь Укуна, Руи Джиньгу Банга. Игроки могут переключаться между тремя различными статусами:"
+  },
+  "Smash Form": {
+    "message": "Форма Сокрушения"
+  },
+  "Pillar Form": {
+    "message": "Форма Столба"
+  },
+  "Thrust Form": {
+    "message": "Форма Удара"
+  },
+  "Each stance offers unique attack patterns and combos. The Pillar Form, for example, allows Wukong to perch atop the staff and slam down on enemies or perform spinning attacks. Switching between stances mid-combat allows for diverse and fluid combos.": {
+    "message": "Каждый статус предлагает уникальные паттерны атак и комбинации. Например, в Форме Столба Укун может усесться на вершину посоха и нанести удар по врагам или выполнить вращающиеся атаки. Переключение между статусами во время боя позволяет создавать разнообразные и плавные комбинации."
+  },
+  "COMBAT STRATEGY IN BLACK MYTH: WUKONG": {
+    "message": "СТРАТЕГИЯ БОЯ В BLACK MYTH: WUKONG"
+  },
+  "Unlike slower-paced Souls-like games, Black Myth: Wukong emphasizes speed and relentless offense. Players should:": {
+    "message": "В отличие от игр Souls-like с более медленным темпом, Black Myth: Wukong подчеркивает скорость и неудержимую оборону. Игроки должны:"
+  },
+  "Utilize Sun Wukong's agility to maintain pressure on enemies": {
+    "message": "Использовать ловкость Сунь Укуна для поддержания давления на врагов"
+  },
+  "Learn enemy attack patterns to time dodges effectively": {
+    "message": "Изучать паттерны атак врагов для эффективного времени уклонений"
+  },
+  "Manage stamina to avoid exhaustion during crucial moments": {
+    "message": "Управлять выносливостью, чтобы избежать истощения в критические моменты"
+  },
+  "Combine different stances and abilities for varied attack strategies": {
+    "message": "Комбинировать различные статусы и способности для разнообразных стратегий атаки"
+  },
+  "TRANSFORMATIONS IN BLACK MYTH: WUKONG": {
+    "message": "ПРЕОБРАЗОВАНИЯ В BLACK MYTH: WUKONG"
+  },
+  "Sun Wukong can shapeshift into different forms, adding variety to combat encounters. Known transformations include:": {
+    "message": "Сунь Укун может превращаться в различные формы, добавляя разнообразие в боевые столкновения. Известные преобразования включают:"
+  },
+  "A flying insect for evasion and exploration": {
+    "message": "Летающий насекомое для уклонения и исследования"
+  },
+  "A giant monster for powerful attacks": {
+    "message": "Гигантское чудовище для мощных атак"
+  },
+  "SPECIAL ABILITIES IN BLACK MYTH: WUKONG": {
+    "message": "ОСОБЕННЫЕ СПОСОБНОСТИ В BLACK MYTH: WUKONG"
+  },
+  "The game features various special abilities, including:": {
+    "message": "В игре представлены различные особые способности, включая:"
+  },
+  "Monkey Fur Duplication: Summon clones to distract enemies or absorb damage": {
+    "message": "Дублирование Обезьяньей Шерсти: Призыв клонов для отвлечения врагов или поглощения урона"
+  },
+  "Stone Form: An unlockable ability that allows Wukong to absorb hits and counterattack, similar to mechanics in Mortal Shell": {
+    "message": "Каменная форма: Разблокируемая способность, позволяющая Вуконгу поглощать удары и контратаковать, подобно механике в Mortal Shell"
+  },
+  "RESTING AND CHECKPOINTS IN BLACK MYTH: WUKONG": {
+    "message": "ОТДЫХ И ЧЕКПОИНТЫ В BLACK MYTH: WUKONG"
+  },
+  "The game features incense altars that serve as checkpoints, similar to Elden Ring's Sites of Grace. At these altars, players can:": {
+    "message": "В игре есть ку incense алтаря, которые служат чекпоинтами, подобно Святым местам в Elden Ring. На этих алтарях игроки могут:"
+  },
+  "Restore health, mana, and status effects": {
+    "message": "Восстановить здоровье, ману и статусные эффекты"
+  },
+  "Replenish healing items": {
+    "message": "Пополнить лечащие предметы"
+  },
+  "Consider strategy before continuing": {
+    "message": "Обдумать стратегию перед продолжением"
+  },
+  "HomePage": {
+    "message": "Главная страница"
+  },
+  "homepage.tagline1": {
+    "message": "Black Myth WuKong Wiki Guide: Помощь всем предназначенным игрокам в погружении во все детали игры"
+  },
+  "homepage.tagline2": {
+    "message": "Black Myth: WuKong"
+  },
+  "homepage.tagline3": {
+    "message": ", включая её навыки, оружие, предысторию, персонажей и многое другое!"
+  },
+  "Black Myth: WuKong is an action-adventure game inspired by the iconic character Sun Wukong from the classic Chinese literary masterpiece 'Journey to the West.'": {
+    "message": "Black Myth: WuKong - это экшн-адвенчура, вдохновленная знаменитым персонажем Сунь Укуном из классического китайского литературного шедевра 'Путешествие на Запад.'"
+  },
+  "The game has garnered significant anticipation due to its stunning visual effects, fluid combat mechanics, and rich cultural heritage. Players will take on the role of Sun Wukong, venturing into a mystical and perilous fantasy world, utilizing a diverse array of unique skills and weapons to combat enemies.": {
+    "message": "Игра вызвала значительный интерес благодаря своим потрясающим визуальным эффектам, плавным боевым механикам и богатому культурному наследию. Игроки возьмут на себя роль Сунь Укуна, отправляясь в мистический и опасный фэнтезийный мир, используя разнообразный набор уникальных навыков и оружия для борьбы с врагами."
+  },
+  "SUN WUKONG": {
+    "message": "СУНЬ ВУКОНГ"
+  },
+  "CHARACTER INFORMATION": {
+    "message": "ИНФОРМАЦИЯ О ПЕРСОНАЖЕ"
+  },
+  "CHARACTER BACKGROUND": {
+    "message": "ФОН ПЕРСОНАЖА"
+  },
+  "Sun Wukong is portrayed as a powerful and rebellious warrior with extraordinary abilities. He possesses immense strength, agility, and a variety of magical powers, including shape-shifting and the ability to summon clones of himself. His iconic weapon is the Ruyi Jingu Bang, a magical staff that can change its size at will. Sun Wukong's character is deeply rooted in Chinese culture, symbolizing rebellion, freedom, and the quest for enlightenment.": {
+    "message": "Сунь Вуконга изображают как могучего и мятежного воина с необычайными способностями. У него невероятная сила, ловкость и множество магических сил, включая способность менять форму и призывать клонов себя. Его знаменитое оружие - Руи Джиньгу Банг, волшебный посох, который может менять свой размер по желанию. Характер Сунь Вуконга глубоко укоренен в китайской культуре, символизируя мятеж, свободу и поиск просветления."
+  },
+  "CULTURAL SIGNIFICANCE IN BLACK MYTH: WUKONG": {
+    "message": "КУЛЬТУРНАЯ ЗНАЧИМОСТЬ В BLACK MYTH: WUKONG"
+  },
+  "Black Myth: Wukong holds significant cultural importance as it draws from the rich Chinese literary tradition and mythology, particularly the classic novel \"Journey to the West\" and its iconic character Sun Wukong.": {
+    "message": "Black Myth: Wukong имеет значительную культурную важность, так как черпает из богатой китайской литературной традиции и мифологии, особенно из классического романа \"Путешествие на Запад\" и его знаменитого персонажа Сунь Вуконга."
+  },
+  "While based on 'Journey to the West,' the game offers a fresh perspective on the story, potentially exploring themes of rebellion, free will, and the complex relationships between gods, humans, and demons (Yaoguai).": {
+    "message": "Основываясь на 'Путешествии на Запад', игра предлагает свежий взгляд на историю, потенциально исследуя темы мятежа, свободы воли и сложных отношений между богами, людьми и демонами (Яогуай)."
+  },
+  "The game serves as a vehicle for introducing elements of Chinese culture, mythology, and storytelling to a wider international audience. It has the potential to spark interest in Chinese literature and folklore among players unfamiliar with these traditions.": {
+    "message": "Игра служит средством для знакомства с элементами китайской культуры, мифологии и рассказывания историй более широкой международной аудитории. У нее есть потенциал вызвать интерес к китайской литературе и фольклору у игроков, незнакомых с этими традициями."
+  },
+  "The game emphasizes Sun Wukong's role as a powerful warrior deity (Fighting and Warring Deity), focusing on his combat prowess and legendary battles. This interpretation aligns with his portrayal in Chinese folklore as a symbol of rebellion and a hero of justice.": {
+    "message": "Игра подчеркивает роль Сунь Вуконга как могущественного бога-воина (Бога Войны и Борьбы), сосредотачиваясь на его боевом мастерстве и легендарных битвах. Это толкование согласуется с его изображением в китайском фольклоре как символа мятежа и героя справедливости."
+  },
+  "GAMEPLAY AND FEATURES IN BLACK MYTH: WUKONG": {
+    "message": "ИГРОВЫЕ МЕХАНИКИ И ОСОБЕННОСТИ В BLACK MYTH: WUKONG"
+  },
+  "Black Myth: Wukong aims to provide an immersive experience with top-notch graphics, detailed environments, and engaging combat mechanics. The game features:": {
+    "message": "Black Myth: Wukong стремится предоставить погружающийся опыт с высококлассной графикой, детализированными окружениями и захватывающими боевыми механиками. Игра включает в себя:"
+  },
+  "Stunning Visuals: Utilizing Unreal Engine 5, the game boasts high-quality graphics and realistic animations.": {
+    "message": "Сногсшибательная графика: Используя Unreal Engine 5, игра отличается высококачественной графикой и реалистичной анимацией."
+  },
+  "Rich Storyline: The narrative is inspired by 'Journey to the West,' offering a deep and engaging story that explores the lore and mythology of ancient China.": {
+    "message": "Богатая сюжетная линия: Сюжет вдохновлен 'Путешествием на Запад', предлагая глубокую и захватывающую историю, которая исследует легенды и мифологию древнего Китая."
+  },
+  "Dynamic Combat: Players can engage in fast-paced combat, utilizing Sun Wukong's martial arts skills and magical abilities to defeat enemies.": {
+    "message": "Динамичные бои: Игроки могут участвовать в быстром бою, используя боевые искусства Сунь Укуна и магические способности для победы над врагами."
+  },
+  "Exploration: The game world is expansive, filled with hidden secrets, diverse landscapes, and formidable bosses.": {
+    "message": "Исследование: Игровой мир обширен, наполнен скрытыми тайнами, разнообразными пейзажами и могущественными боссами."
+  },
+  "SUN WUKONG SKILLS IN BLACK MYTH: WUKONG": {
+    "message": "СПОСОБНОСТИ СУНЬ УКУНА В BLACK MYTH: WUKONG"
+  },
+  "In Black Myth: Wukong, Sun Wukong possesses a range of powerful abilities that not only faithfully recreate his capabilities from the original story but also enhance gameplay and challenge:": {
+    "message": "В Black Myth: Wukong, Сунь Укун обладает рядом мощных способностей, которые не только верно воспроизводят его возможности из оригинальной истории, но и усиливают геймплей и вызов:"
+  },
+  "Ruyi Jingu Bang: Sun Wukong's iconic weapon can change size at will. In the game, players can use it for both melee attacks and long-range strikes, and even solve puzzles and overcome obstacles through its transformation.": {
+    "message": "Руи Джинь Гу Банг: Иконическое оружие Сунь Укуна может менять размер по желанию. В игре игроки могут использовать его как для ближнего боя, так и для дальних атак, а также решать головоломки и преодолевать препятствия благодаря его трансформации."
+  },
+  "Cloud Somersault: Sun Wukong can summon a magical cloud for rapid movement, increasing the game's mobility and exploration aspects.": {
+    "message": "Облачный кувырок: Сунь Укун может призвать магическое облако для быстрого перемещения, увеличивая мобильность и аспекты исследования игры."
+  },
+  "72 Transformations: The ability to transform into various animals and objects to adapt to different combat situations and environmental needs. This skill provides multiple strategic options and tactical variations in the game.": {
+    "message": "72 Трансформации: Способность превращаться в различных животных и предметы для адаптации к разным боевым ситуациям и потребностям окружения. Этот навык предоставляет множество стратегических опций и тактических вариаций в игре."
+  },
+  "Clone Technique: Sun Wukong can summon clones of himself to confuse enemies or perform coordinated attacks.": {
+    "message": "Техника клонирования: Сунь Укун может призывать клонов себя, чтобы сбить с толку врагов или выполнить скоординированные атаки."
+  },
+  "Fiery Eyes: Features skill trees for ability enhancement.": {
+    "message": "Огненные глаза: Включает деревья навыков для улучшения способностей."
+  },
+  "BLACK MYTH: WUKONG WALLPAPERS": {
+    "message": "ОБОИ BLACK MYTH: WUKONG"
+  },
+  "WHEN DID BLACK MYTH: WUKONG RELEASE?": {
+    "message": "КОГДА ВЫШЛА BLACK MYTH: WUKONG?"
+  },
+  "Black Myth: Wukong is set to release on August 20, 2024. The game will launch simultaneously on PlayStation 5 and PC platforms, while the Xbox Series X/S version has been delayed with no specific release date announced yet.": {
+    "message": "Black Myth: Wukong планируется выпустить 20 августа 2024 года. Игра будет запущена одновременно на платформах PlayStation 5 и PC, в то время как версия для Xbox Series X/S была отложена без указания конкретной даты выпуска."
+  },
+  "WHAT PLATFORMS IS BLACK MYTH: WUKONG ON?": {
+    "message": "НА КАКИХ ПЛАТФОРМАХ ДОСТУПНА BLACK MYTH: WUKONG?"
+  },
+  "Black Myth: Wukong will be available on the following platforms:": {
+    "message": "Black Myth: Wukong будет доступен на следующих платформах:"
+  },
+  "PlayStation 5": {
+    "message": "PlayStation 5"
+  },
+  "PC (Windows)": {
+    "message": "PC (Windows)"
+  },
+  "Xbox Series X/S (delayed, release date to be announced)": {
+    "message": "Xbox Series X/S (отложено, дата выпуска будет объявлена позже)"
+  },
+  "The game will launch simultaneously on PS5 and PC on August 20, 2024. However, the Xbox Series X/S version has been delayed, with developers working to optimize it for the platform.": {
+    "message": "Игра выйдет одновременно на PS5 и PC 20 августа 2024 года. Однако версия для Xbox Series X/S была отложена, разработчики работают над её оптимизацией для этой платформы."
+  },
+  "HOW LONG HAVE THEY BEEN WORKING ON BLACK MYTH: WUKONG?": {
+    "message": "СКОЛЬКО ВРЕМЕНИ ОНИ РАБОТАЮТ НАД «ЧЕРНОЙ БЫЛЬЮ ОБОНЬКИ»?"
+  },
+  "Game Science, the developer of Black Myth: Wukong, began working on the game in 2017. The project was first revealed to the public on August 20, 2020, with a 13-minute pre-alpha gameplay video that quickly went viral, garnering millions of views on YouTube and Bilibili.": {
+    "message": "Game Science, разработчик игры «Черная быль Обоняки», начал работу над игрой в 2017 году. Проект был впервые представлен общественности 20 августа 2020 года, с 13-минутным видеороликом пре-альфа игрового процесса, который быстро стал вирусным, собрав миллионы просмотров на YouTube и Bilibili."
+  },
+  "BLACK MYTH: WUKONG SYSTEM REQUIREMENTS": {
+    "message": "ТРЕБОВАНИЯ СИСТЕМЫ ДЛЯ «ЧЕРНОЙ БЫЛИ ОБОНЬКИ»"
+  },
+  "Minimum Requirements": {
+    "message": "Минимальные требования"
+  },
+  "OS: Windows 10 64-bit": {
+    "message": "ОС: Windows 10 64-bit"
+  },
+  "CPU: Intel Core i5-8400 or AMD Ryzen 5 1600": {
+    "message": "Процессор: Intel Core i5-8400 или AMD Ryzen 5 1600"
+  },
+  "Memory: 16 GB RAM": {
+    "message": "Память: 16 ГБ ОЗУ"
+  },
+  "Graphics: NVIDIA GeForce GTX 1060 6GB or AMD Radeon RX 580 8GB": {
+    "message": "Графика: NVIDIA GeForce GTX 1060 6GB или AMD Radeon RX 580 8GB"
+  },
+  "DirectX: Version 11": {
+    "message": "DirectX: Версия 11"
+  },
+  "Storage: 130 GB available space (HDD supported, SSD recommended)": {
+    "message": "Хранилище: 130 ГБ свободного места (поддерживается HDD, рекомендуется SSD)"
+  },
+  "Sound Card: Windows compatible audio device": {
+    "message": "Звуковая карта: аудиоустройство, совместимое с Windows"
+  },
+  "Recommended Requirements": {
+    "message": "Рекомендуемые требования"
+  },
+  "CPU: Intel Core i7-9700 or AMD Ryzen 5 5500": {
+    "message": "Процессор: Intel Core i7-9700 или AMD Ryzen 5 5500"
+  },
+  "Graphics: NVIDIA GeForce RTX 2060 or AMD Radeon RX 5700 XT or INTEL Arc A750": {
+    "message": "Графика: NVIDIA GeForce RTX 2060 или AMD Radeon RX 5700 XT или INTEL Arc A750"
+  },
+  "DirectX: Version 12": {
+    "message": "DirectX: Версия 12"
+  },
+  "Storage: 130 GB available space (SSD required)": {
+    "message": "Хранилище: 130 ГБ свободного места (требуется SSD)"
+  },
+  "Minimum Ray Tracing Configuration (Medium settings, Low RT, 1080P)": {
+    "message": "Минимальная конфигурация трассировки лучей (средние настройки, низкий уровень RT, 1080P)"
+  },
+  "CPU: Intel Core i5-9400 or AMD Ryzen 5 1600": {
+    "message": "Процессор: Intel Core i5-9400 или AMD Ryzen 5 1600"
+  },
+  "Graphics: NVIDIA GeForce RTX 3060": {
+    "message": "Графика: NVIDIA GeForce RTX 3060"
+  },
+  "VRAM: 8 GB": {
+    "message": "Видеопамять: 8 ГБ"
+  },
+  "Ultra Ray Tracing Configuration (High settings, Ultra RT, 4K)": {
+    "message": "Ультра конфигурация трассировки лучей (высокие настройки, ультра уровень RT, 4K)"
+  },
+  "Graphics: NVIDIA GeForce RTX 4080 Super": {
+    "message": "Графика: NVIDIA GeForce RTX 4080 Super"
+  },
+  "VRAM: 16 GB": {
+    "message": "Видеопамять: 16 ГБ"
+  },
+  "RAM: 32 GB": {
+    "message": "ОЗУ: 32 ГБ"
+  },
+  "LATEST BLACK MYTH: WUKONG NEWS": {
+    "message": "ПОСЛЕДНИЕ НОВОСТИ О «ЧЕРНОЙ БЫЛИ ОБОНЬКИ»"
+  },
+  "Black Myth: Wukong Pre-order Editions Detailed": {
+    "message": "Детали предзаказа для «Черной были Обоняки»"
+  },
+  "Black Myth: Wukong has become the most wishlisted game on Steam. This achievement highlights the immense anticipation for this action RPG based on Chinese mythology. The game offers three pre-order editions:": {
+    "message": "Black Myth: Wukong стал самым желанным игровым проектом на Steam. Это достижение подчеркивает огромное ожидание этой RPG-игры, основанной на китайской мифологии. Игра предлагает три издания для предварительного заказа:"
+  },
+  "Digital Edition ($69.99): Includes various in-game items and a digital soundtrack.": {
+    "message": "Цифровое издание ($69.99): Включает различные предметы в игре и цифровой саундтрек."
+  },
+  "Deluxe Edition ($169): Features a steelbook case, 1:1 scale bronze headband replica, and additional physical and digital content.": {
+    "message": "Deluxe издание ($169): Представляет собой стальной кейс, реплику бронзового головного убора в масштабе 1:1 и дополнительный физический и цифровой контент."
+  },
+  "Collector's Edition ($399): Contains a 40cm Sun Wukong statue, silk scroll, and numerous premium collectibles.": {
+    "message": "Коллекционное издание ($399): Содержит статую Сунь Укуна высотой 40 см, шелковую свиток и множество премиальных коллекционных предметов."
+  },
+  "Black Myth: Wukong Pre-order Sales Milestone": {
+    "message": "Веха продаж предварительного заказа Black Myth: Wukong"
+  },
+  "Reports indicate that Black Myth: Wukong received 1.1 million pre-orders within days of opening physical and digital pre-orders on June 8th and 11th, demonstrating the game's massive appeal.": {
+    "message": "Отчеты указывают, что Black Myth: Wukong получил 1,1 миллиона предварительных заказов в течение нескольких дней после открытия физических и цифровых предварительных заказов 8 и 11 июня, демонстрируя массивное привлечение игры."
+  },
+  "Development Progress": {
+    "message": "Ход разработки"
+  },
+  "Game Science, the developer, has stated that Black Myth: Wukong is being developed using Unreal Engine 5 and is the first game to simultaneously use this engine and NVIDIA's DLSS technology, promising exceptional visual experiences.": {
+    "message": "Game Science, разработчик, заявил, что Black Myth: Wukong разрабатывается с использованием Unreal Engine 5 и является первой игрой, которая одновременно использует эту движок и технологию NVIDIA's DLSS, обещая исключительные визуальные впечатления."
+  },
+  "Sweet Baby Controversy": {
+    "message": "Спор с Sweet Baby"
+  },
+  "Background": {
+    "message": "Предыстория"
+  },
+  "Recently, a controversy erupted between Black Myth: Wukong and Sweet Baby studio. Sweet Baby is a consultancy firm that provides political correctness guidance to game developers, ensuring game content meets certain social and cultural standards.": {
+    "message": "Недавно разгорелся спор между Black Myth: Wukong и студией Sweet Baby. Sweet Baby является консультационной фирмой, которая предоставляет руководство по политической корректности разработчикам игр, обеспечивая соответствие игрового контента определенным социальным и культурным стандартам."
+  },
+  "Controversy Details": {
+    "message": "Детали спора"
+  },
+  "According to reports, Sweet Baby demanded a $7 million \"guidance fee\" from Game Science, the developers of Black Myth: Wukong, to ensure the game adheres to their political correctness standards. Game Science reportedly refused this demand.": {
+    "message": "По данным отчетов, Sweet Baby потребовала от Game Science, разработчиков Black Myth: Wukong, $7 миллионов в качестве \"платы за руководство\", чтобы обеспечить соответствие игры их стандартам политической корректности. Game Science, как сообщается, отказалась от этого требования."
+  },
+  "Media Attacks": {
+    "message": "Атаки в СМИ"
+  },
+  "Following the refusal to pay, Game Science claims they've been subjected to continuous attacks and defamation from Western media. These attacks allegedly include accusations of gender discrimination in the game. Sweet Baby is accused of using its media influence to tarnish Black Myth: Wukong's reputation in retaliation for the refused payment.": {
+    "message": "После отказа платить, Game Science утверждает, что подверглась непрерывным атакам и клевете со стороны западных СМИ. Эти атаки, как утверждается, включают обвинения в дискриминации по признаку пола в игре. Sweet Baby обвиняют в использовании своего влияния в СМИ для очернения репутации Black Myth: Wukong в ответ на отказ от оплаты."
+  },
+  "Community Reaction": {
+    "message": "Реакция сообщества"
+  },
+  "This controversy has sparked widespread discussion in the gaming community. Some players and industry insiders have expressed outrage at Sweet Baby's alleged actions, considering them unethical and harmful to the gaming industry. They argue that a small number of influential consultancy firms should not control game developers' creative directions through pressure tactics.": {
+    "message": "Этот скандал вызвал широкое обсуждение в игровом сообществе. Некоторые игроки и специалисты отрасли выразили возмущение по поводу предполагаемых действий Sweet Baby, считая их неэтичными и вредными для игровой индустрии. Они утверждают, что небольшое количество влиятельных консалтинговых фирм не должно контролировать творческие направления разработчиков игр с помощью тактик давления."
+  },
+  "Official Response": {
+    "message": "Официальный ответ"
+  },
+  "As of now, Game Science has not issued an official statement regarding this controversy. However, as the release date approaches, this dispute may impact the game's market performance.": {
+    "message": "Пока что Game Science не выпустила официального заявления по этому поводу. Однако, по мере приближения даты выхода, этот спор может повлиять на рыночные показатели игры."
+  },
+  "Future Outlook": {
+    "message": "Перспективы будущего"
+  },
+  "Despite the controversy, Black Myth: Wukong remains one of the most anticipated games of 2024. Players are eager to explore its rich Chinese mythological world and experience its unique combat system and transformation abilities. More game details are expected to be revealed as the release date nears.": {
+    "message": "Несмотря на скандал, Black Myth: Wukong остается одной из самых ожидаемых игр 2024 года. Игроки с нетерпением ждут возможности исследовать его богатый китайский мифологический мир и испытать уникальную боевую систему и способности трансформации. Подробности об игре ожидаются к раскрытию по мере приближения даты выхода."
+  },
+  "BLACK MYTH: WUKONG GAMEPLAY": {
+    "message": "ИГРОВОЙ ПРОЦЕСС BLACK MYTH: WUKONG"
+  },
+  "Black Myth: Wukong, developed by Game Science, is a highly anticipated action role-playing game set to release on August 20, 2024. Based on the classic Chinese novel 'Journey to the West,' the game promises to deliver an immersive experience rich in Chinese mythology.": {
+    "message": "Black Myth: Wukong, разработанная Game Science, является сильно ожидаемой action-RPG, которая выйдет 20 августа 2024 года. Основанная на классическом китайском романе 'Путешествие на Запад', игра обещает предоставить погружающийся опыт, богатый китайскими мифами."
+  },
+  "Dynamic Combat System": {
+    "message": "Динамичная боевая система"
+  },
+  "Black Myth: Wukong boasts a sophisticated combat system that combines fast-paced action with fluid movements. Players will wield the legendary Ruyi Jingu Bang staff, executing diverse attacks and combos. The combat encourages players to utilize agile movements and tactical thinking, leveraging the environment to gain advantages. This creates a unique and engaging fighting style that promises to keep players on their toes.": {
+    "message": "Black Myth: Wukong отличается сложной боевой системой, сочетающей быстрые действия с плавными движениями. Игроки будут использовать легендарный посох Руи Цзинь Гуан, выполняя разнообразные атаки и комбинации. Бой поощряет игроков к использованию ловких движений и тактического мышления, используя окружение для получения преимуществ. Это создает уникальный и захватывающий стиль боя, который обещает держать игроков в напряжении."
+  },
+  "Transformation Abilities": {
+    "message": "Способности трансформации"
+  },
+  "A standout feature of the game is the protagonist's ability to transform. Players can morph into various creatures, each with its own distinct abilities and combat style. For instance, transforming into the wolfman Guangzhi allows players to wield a fire glaive for powerful melee attacks. This transformation mechanic not only adds variety to combat but also encourages strategic thinking, as players must choose the most suitable form for different enemies and battle situations.": {
+    "message": "Выдающейся особенностью игры является способность главного героя к трансформации. Игроки могут превращаться в различных существ, каждое из которых обладает своими уникальными способностями и стилем боя. Например, превращение в волчьего человека Гуанчжи позволяет игрокам использовать огненный глефу для мощных ближних атак. Этот механизм трансформации не только добавляет разнообразия в бой, но и поощряет стратегическое мышление, так как игроки должны выбирать наиболее подходящую форму для разных врагов и боевых ситуаций."
+  },
+  "Comprehensive Character Progression": {
+    "message": "Комплексный прогресс персонажа"
+  },
+  "Black Myth: Wukong implements a rich skill tree system, allowing players to continuously upgrade their character and unlock new abilities throughout the game. This progression mechanism enables players to customize their gameplay style, choosing skill combinations that suit their preferences. As characters grow stronger, players will experience more powerful abilities and increasingly complex combat strategies, enhancing the game's replay value.": {
+    "message": "Black Myth: Wukong реализует богатый систему дерева навыков, позволяющую игрокам постоянно улучшать своего персонажа и открывать новые способности на протяжении всей игры. Этот механизм прогресса позволяет игрокам настраивать свой стиль игры, выбирая комбинации навыков, которые соответствуют их предпочтениям. По мере того как персонажи становятся сильнее, игроки будут испытывать более мощные способности и все более сложные боевые стратегии, повышая возвратное значение игры."
+  },
+  "Impressive Boss Battles": {
+    "message": "Впечатляющие битвы с боссами"
+  },
+  "Boss fights are a core highlight of the game. Each boss is uniquely designed with its own fighting style, challenging players to adapt and find weaknesses. These encounters not only test players' reflexes and tactical thinking but also provide a great sense of accomplishment. Defeating powerful bosses rewards players with valuable items and achievements, adding to the game's appeal.": {
+    "message": "Битвы с боссами являются основным изюминкой игры. Каждый босс уникально спроектирован со своим собственным стилем боя, бросая вызов игрокам адаптироваться и находить слабые места. Эти встречи не только проверяют рефлексы и тактическое мышление игроков, но и дают великолепное чувство достижения. Победа над мощными боссами вознаграждает игроков ценными предметами и достижениями, добавляя привлекательности игре."
+  },
+  "Rich Exploration Elements": {
+    "message": "Богатые элементы исследования"
+  },
+  "While the main storyline follows a linear progression, Black Myth: Wukong features vast areas for exploration. Players are encouraged to investigate every corner, discovering hidden items, facing elite enemies, and uncovering more about the game's mythological world. This exploration element enhances the game's immersion and ensures that each playthrough is filled with surprises.": {
+    "message": "Хотя основная сюжетная линия следует линейному прогрессу, Black Myth: Wukong предлагает обширные области для исследования. Игроков поощряют исследовать каждый уголок, открывая скрытые предметы, сталкиваясь с элитными врагами и раскрывая больше о мифологическом мире игры. Этот элемент исследования углубляет погружение в игру и гарантирует, что каждый проход будет полон сюрпризов."
+  },
+  "Stunning Visual Effects": {
+    "message": "Ошеломляющие визуальные эффекты"
+  },
+  "Developed using Unreal Engine 5, Black Myth: Wukong delivers breathtaking visual effects and smooth animations. The game's scenery draws inspiration from traditional Chinese culture, taking players through majestic mountains, dense forests, and mysterious ancient ruins, all imbued with a strong mythological atmosphere. Detailed character modeling and fluid action animations make every frame of the game look like a work of art.": {
+    "message": "Разработанный с использованием Unreal Engine 5, Black Myth: Wukong предлагает захватывающие визуальные эффекты и плавные анимации. Пейзажи игры вдохновлены традиционной китайской культурой, ведя игроков через величественные горы, густые леса и загадочные древние руины, все это пронизано сильной мифологической атмосферой. Детальное моделирование персонажей и плавные анимации действий делают каждый кадр игры похожим на произведение искусства."
+  },
+  "Rich Cultural Depth": {
+    "message": "Глубокая культурная составляющая"
+  },
+  "The game's storyline is deeply rooted in Chinese mythology, allowing players to interact with classic characters like Sun Wukong and Tang Sanzang. This cultural depth not only enriches the game's backstory but also allows players to experience the charm of traditional Chinese culture while enjoying the game.": {
+    "message": "Сюжет игры глубоко укоренен в китайской мифологии, позволяя игрокам взаимодействовать с классическими персонажами, такими как Сунь Укунг и Тан Сысан. Эта культурная глубина не только обогащает предысторию игры, но и позволяет игрокам ощутить очарование традиционной китайской культуры во время игры."
+  },
+  "BLACK MYTH: WUKONG STORY OVERVIEW": {
+    "message": "ОБЗОР СЮЖЕТА BLACK MYTH: WUKONG"
+  },
+  "Set in a mythical version of ancient China, Black Myth: Wukong draws its inspiration from the classic Chinese novel 'Journey to the West.' However, the game presents a unique interpretation of this well-known tale, blending familiar elements with new narrative twists.": {
+    "message": "Действие игры происходит в мифической версии древнего Китая, Black Myth: Wukong черпает вдохновение из классического китайского романа 'Путешествие на Запад'. Однако игра предлагает уникальную интерпретацию этой известной истории, сочетая знакомые элементы с новыми поворотами сюжета."
+  },
+  "Central Character": {
+    "message": "Главный персонаж"
+  },
+  "The player takes on the role of the \"Destined One,\" a character based on Sun Wukong, the legendary Monkey King. While sharing similarities with the novel is protagonist, this version of Wukong is shrouded in mystery, with his true identity and purpose gradually revealed throughout the game.": {
+    "message": "Игрок берет на себя роль \"Избранного\", персонажа, основанного на легендарном Воине-Магазине, Сунь Укунге. Хотя эта версия Укунга имеет сходства с главным героем романа, его истинное лицо и предназначение постепенно раскрываются на протяжении игры."
+  },
+  "Setting and World": {
+    "message": "Сеттинг и мир"
+  },
+  "The game world is a vast, perilous landscape filled with mythical creatures, ancient ruins, and supernatural phenomena. Players will journey through diverse environments, from misty mountains and dense forests to hidden temples and celestial realms. Each area is steeped in Chinese mythology, offering a rich tapestry of lore and history to uncover.": {
+    "message": "Игровой мир представляет собой обширный, опасный ландшафт, наполненный мифическими существами, древними руинами и сверхъестественными явлениями. Игроки будут путешествовать через разнообразные среды, от туманных гор и густых лесов до скрытых храмов и небесных царств. Каждая область пропитана китайской мифологией, предлагая богатую палитру легенд и истории для раскрытия."
+  },
+  "Main Quest": {
+    "message": "Основное задание"
+  },
+  "The Destined One embarks on a dangerous journey to uncover the truth behind ancient legends. This quest is not just about reaching the West, as in the original story, but about uncovering hidden truths that could reshape the understanding of the world and the protagonist's place in it.": {
+    "message": "Избранный отправляется в опасное путешествие, чтобы раскрыть правду, лежащую в основе древних легенд. Это задание не просто о достижении Запада, как в оригинальной истории, но о раскрытии скрытых истин, которые могут изменить понимание мира и места главного героя в нем."
+  },
+  "Antagonists": {
+    "message": "Антагонисты"
+  },
+  "The game features a variety of antagonists, from rival demon kings and jealous deities to corrupted heroes and cosmic entities. Each adversary presents unique challenges and contributes to the overall narrative.": {
+    "message": "В игре представлены различные антагонисты, от соперничающих королей демонов и завистливых божеств до коррумпированных героев и космических сущностей. Каждый противник представляет уникальные вызовы и вносит свой вклад в общую нарратив."
+  },
+  "Conclusion": {
+    "message": "Заключение"
+  },
+  "As players progress through the story, they'll unravel a complex narrative that questions the nature of destiny, power, and the responsibility that comes with great abilities. The journey of the Destined One is not just a physical one to the West, but a spiritual and philosophical exploration that challenges players to think about the consequences of their actions in a world where myths come to life.": {
+    "message": "По мере продвижения игроков по сюжету, они раскрывают сложный нарратив, ставящий под сомнение природу судьбы, силы и ответственности, которая приходит с великими способностями. Путешествие Избранного не просто физическое путешествие на Запад, но духовное и философское исследование, которое ставит игроков перед необходимостью подумать о последствиях своих действий в мире, где мифы оживают."
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "На странице произошёл сбой.",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "Прокрутка к началу",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.archive.title": {
+    "message": "Архив",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "Архив",
+    "description": "The page & hero description of the blog archive page"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "Навигация по странице списка блогов",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "Следующие записи",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "Предыдущие записи",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "Навигация по странице поста блога",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "Следующий пост",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "Предыдущий пост",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.blog.post.plurals": {
+    "message": "{count} запись|{count} записи|{count} записей",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} с тегом \"{tagName}\"",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "Посмотреть все теги",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "Переключение между темным и светлым режимом (сейчас используется {mode})",
+    "description": "The ARIA label for the navbar color mode toggle"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "Тёмный режим",
+    "description": "The name for the dark color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "Светлый режим",
+    "description": "The name for the light color mode"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "Навигационная цепочка текущей страницы",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.DocCard.categoryDescription.plurals": {
+    "message": "{count} элемент|{count} элемента|{count} элементов",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "Страница документа",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "Предыдущая страница",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "Следующая страница",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "Одна страница|{count} страницы|{count} страниц",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged} с тегом \"{tagName}\"",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "Версия: {versionLabel}"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "Это документация для будущей версии {siteTitle} {versionLabel}.",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "Это документация {siteTitle} для версии {versionLabel}, которая уже не поддерживается.",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "Актуальная документация находится на странице {latestVersionLink} ({versionLabel}).",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "последней версии",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.common.editThisPage": {
+    "message": "Отредактировать эту страницу",
+    "description": "The link label to edit the current page"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "Прямая ссылка на {heading}",
+    "description": "Title for link to heading"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": " {date}",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": " от {user}",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "Последнее обновление{atDate}{byUser}",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.NotFound.title": {
+    "message": "Страница не найдена",
+    "description": "The title of the 404 page"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "Версии",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "Теги:",
+    "description": "The label alongside a tag list"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Закрыть",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.admonition.caution": {
+    "message": "предупреждение",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.admonition.danger": {
+    "message": "осторожно",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "к сведению",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.note": {
+    "message": "примечание",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "подсказка",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.warning": {
+    "message": "warning",
+    "description": "The default label used for the Warning admonition (:::warning)"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "Скопировано",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "Скопировать в буфер обмена",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "Скопировать",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "Переключить перенос по строкам",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "Навигация по последним постам в блоге",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.DocSidebarItem.expandCategoryAriaLabel": {
+    "message": "Expand sidebar category '{label}'",
+    "description": "The ARIA label to expand the sidebar category"
+  },
+  "theme.DocSidebarItem.collapseCategoryAriaLabel": {
+    "message": "Collapse sidebar category '{label}'",
+    "description": "The ARIA label to collapse the sidebar category"
+  },
+  "theme.NavBar.navAriaLabel": {
+    "message": "Main",
+    "description": "The ARIA label for the main navigation"
+  },
+  "theme.NotFound.p1": {
+    "message": "К сожалению, мы не смогли найти запрашиваемую вами страницу.",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "Пожалуйста, обратитесь к владельцу сайта, с которого вы перешли на эту ссылку, чтобы сообщить ему, что ссылка не работает.",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "Языки",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "Содержание этой страницы",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.blog.post.readMore": {
+    "message": "Читать дальше",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "Подробнее о {title}",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "{readingTime} мин. чтения|{readingTime} мин. чтения|{readingTime} мин. чтения",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "Главная страница",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "Свернуть сайдбар",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "Свернуть сайдбар",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "Docs sidebar",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "Закрыть панель навигации",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "Развернуть сайдбар",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "Развернуть сайдбар",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "Переключить навигационную панель",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← Перейти к главному меню",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "Попробуйте ещё раз",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "Перейти к основному содержимому",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "Теги",
+    "description": "The title of the tag list page"
+  },
+  "theme.unlistedContent.title": {
+    "message": "Unlisted page",
+    "description": "The unlisted content banner title"
+  },
+  "theme.unlistedContent.message": {
+    "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
+    "description": "The unlisted content banner message"
+  },
+  "Videos": {
+    "message": "Видео"
+  },
+  "BLACK MYTH: WUKONG WIKI": {
+    "message": "BLACK MYTH: WUKONG WIKI"
+  },
+  "REAL MACHINE DEMONSTRATION": {
+    "message": "ДЕМОНСТРАЦИЯ РЕАЛЬНОЙ МАШИНЫ"
+  },
+  "Loading...": {
+    "message": "Загрузка..."
+  },
+  "BLACK MYTH WUKONG REVIEW": {
+    "message": "ОБЗОР BLACK MYTH WUKONG"
+  },
+  "Latest Information": {
+    "message": "Последние сведения"
+  },
+  "Combat": {
+    "message": "Бой"
+  },
+  "Gameplay": {
+    "message": "Геймплей"
+  },
+  "FAQs & News": {
+    "message": "ЧаВо и Новости"
+  },
+  "Wallpapers": {
+    "message": "Обои"
+  },
+  "Sun WuKong": {
+    "message": "Сунь Укун"
+  },
+  "Stats": {
+    "message": "Характеристики"
+  },
+  "Skills": {
+    "message": "Навыки"
+  },
+  "Builds": {
+    "message": "Сборки"
+  },
+  "Buffs & Debuffs": {
+    "message": "Баффы и Дебаффы"
+  },
+  "WORLD INFORMATION": {
+    "message": "ИНФОРМАЦИЯ О МИРЕ"
+  },
+  "Maps": {
+    "message": "Карты"
+  },
+  "Bosses": {
+    "message": "Боссы"
+  },
+  "NPCs": {
+    "message": "НИПы"
+  },
+  "Back Story": {
+    "message": "Предыстория"
+  },
+  "Creatures & Enemies": {
+    "message": "Существа и Враги"
+  },
+  "index.href": {
+    "message": "/ru"
+  }
+}

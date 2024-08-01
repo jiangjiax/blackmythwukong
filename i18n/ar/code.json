@@ -1,0 +1,790 @@
+{
+  "COMBAT": {
+    "message": "معركة"
+  },
+  "patchnotes.tagline1": {
+    "message": "سون ووكونغ، المعروف أيضا باسم ملك القرد، هو الشخصية الرئيسية في "
+  },
+  "patchnotes.tagline2": {
+    "message": "Black Myth: Wukong. "
+  },
+  "patchnotes.tagline3": {
+    "message": "هو شخصية أسطورية في الأساطير الصينية والأدب، وخاصة شهير من رواية 'رحلة إلى الغرب.' في اللعبة، يتخذ اللاعبون دور سون ووكونغ، ويعيشون قصته الأسطورية والمغامرات المثيرة."
+  },
+  "BLACK MYTH WUKONG WIKI": {
+    "message": "ويكيبيديا Black Myth: Wukong"
+  },
+  "GENERAL INFORMATION": {
+    "message": "معلومات عامة"
+  },
+  "DODGING IN BLACK MYTH: WUKONG": {
+    "message": "التفاف في Black Myth: Wukong"
+  },
+  "Dodging is a crucial defensive maneuver in Black Myth: Wukong. The game allows for near-instantaneous dodges, giving players the ability to quickly evade enemy attacks. However, it's important to manage your stamina, as excessive dodging can leave you vulnerable. As you progress, you can unlock a skill that creates a phantom copy when performing a perfect dodge, automatically counterattacking enemies.": {
+    "message": "التفاف هو حركة دفاعية حاسمة في Black Myth: Wukong. تسمح اللعبة بالتفافات فورية تقريبا، مما يمنح اللاعبين القدرة على الهروب بسرعة من هجمات العدو. ومع ذلك، من المهم إدارة قوتك، حيث يمكن أن يترك التفاف كثيرًاك عرضة للخطر. مع التقدم، يمكنك فتح مهارة تخلق نسخة خيالية عند أداء تفاف مثالي، مما يؤدي تلقائيًا إلى مهاجمة العدو بالرد."
+  },
+  "STANCES AND WEAPON SKILLS IN BLACK MYTH: WUKONG": {
+    "message": "الوضعيات ومهارات السلاح في Black Myth: Wukong"
+  },
+  "Combat revolves around Sun Wukong's magical staff, the Ruyi Jingu Bang. Players can switch between three different stances:": {
+    "message": "القتال يدور حول عصا سون ووكونغ السحرية، روي جينغو بانغ. يمكن للاعبين التبديل بين ثلاث وضعيات مختلفة:"
+  },
+  "Smash Form": {
+    "message": "شكل الضرب"
+  },
+  "Pillar Form": {
+    "message": "شكل العمود"
+  },
+  "Thrust Form": {
+    "message": "شكل الطعن"
+  },
+  "Each stance offers unique attack patterns and combos. The Pillar Form, for example, allows Wukong to perch atop the staff and slam down on enemies or perform spinning attacks. Switching between stances mid-combat allows for diverse and fluid combos.": {
+    "message": "كل وضعية تقدم أنماط هجوم فريدة وتوافقات. على سبيل المثال، تسمح وضعية العمود لووكونغ بالجلوس فوق العصا والضرب على الأعداء أو تنفيذ هجمات دوارة. التبديل بين الوضعيات في منتصف القتال يسمح بتوافقات متنوعة وسلسة."
+  },
+  "COMBAT STRATEGY IN BLACK MYTH: WUKONG": {
+    "message": "استراتيجية القتال في Black Myth: Wukong"
+  },
+  "Unlike slower-paced Souls-like games, Black Myth: Wukong emphasizes speed and relentless offense. Players should:": {
+    "message": "على عكس ألعاب Souls-like بسرعة منخفضة، تؤكد Black Myth: Wukong على السرعة والهجوم المستمر. يجب على اللاعبين:"
+  },
+  "Utilize Sun Wukong's agility to maintain pressure on enemies": {
+    "message": "استخدام حركة سون ووكونغ للحفاظ على الضغط على الأعداء"
+  },
+  "Learn enemy attack patterns to time dodges effectively": {
+    "message": "تعلم أنماط هجوم العدو لتوقيت التفافات بفعالية"
+  },
+  "Manage stamina to avoid exhaustion during crucial moments": {
+    "message": "إدارة القوة لتجنب الإرهاق في اللحظات الحاسمة"
+  },
+  "Combine different stances and abilities for varied attack strategies": {
+    "message": "دمج وضعيات وقدرات مختلفة لاستراتيجيات هجوم متنوعة"
+  },
+  "TRANSFORMATIONS IN BLACK MYTH: WUKONG": {
+    "message": "التحولات في Black Myth: Wukong"
+  },
+  "Sun Wukong can shapeshift into different forms, adding variety to combat encounters. Known transformations include:": {
+    "message": "يمكن لسون ووكونغ التحول إلى أشكال مختلفة، مما يضيف تنوعًا للمواجهات القتالية. تشمل التحولات المعروفة:"
+  },
+  "A flying insect for evasion and exploration": {
+    "message": "حشرة طائرة للهروب والاستكشاف"
+  },
+  "A giant monster for powerful attacks": {
+    "message": "وحش عملاق لهجمات قوية"
+  },
+  "SPECIAL ABILITIES IN BLACK MYTH: WUKONG": {
+    "message": "القدرات الخاصة في Black Myth: Wukong"
+  },
+  "The game features various special abilities, including:": {
+    "message": "تتضمن اللعبة العديد من القدرات الخاصة، بما في ذلك:"
+  },
+  "Monkey Fur Duplication: Summon clones to distract enemies or absorb damage": {
+    "message": "تكرار شعر القرد: استدعاء نسخ لتشتيت الأعداء أو امتصاص الضرر"
+  },
+  "Stone Form: An unlockable ability that allows Wukong to absorb hits and counterattack, similar to mechanics in Mortal Shell": {
+    "message": "الشكل الحجري: قدرة قابلة للإصدار تسمح لوكونغ بامتصاص الضربات والهجوم المضاد، على غرار الآليات في Mortal Shell"
+  },
+  "RESTING AND CHECKPOINTS IN BLACK MYTH: WUKONG": {
+    "message": "الراحة ونقاط التحقق في BLACK MYTH: WUKONG"
+  },
+  "The game features incense altars that serve as checkpoints, similar to Elden Ring's Sites of Grace. At these altars, players can:": {
+    "message": "تتميز اللعبة بمذابح البخور التي تعمل كنقاط تحقق، على غرار مواقع النعمة في Elden Ring. عند هذه المذابح، يمكن للاعبين:"
+  },
+  "Restore health, mana, and status effects": {
+    "message": "استعادة الصحة والمانا وتأثيرات الحالة"
+  },
+  "Replenish healing items": {
+    "message": "تجديد عناصر الشفاء"
+  },
+  "Consider strategy before continuing": {
+    "message": "النظر في الاستراتيجية قبل المتابعة"
+  },
+  "HomePage": {
+    "message": "الصفحة الرئيسية"
+  },
+  "homepage.tagline1": {
+    "message": "دليل ويكي BLACK MYTH WUKONG: مساعدة جميع اللاعبين المصيريين في التعمق في كل تفصيل من تفاصيل اللعبة"
+  },
+  "homepage.tagline2": {
+    "message": "BLACK MYTH: WUKONG"
+  },
+  "homepage.tagline3": {
+    "message": "، بما في ذلك مهاراتها، أسلحتها، خلفيتها، شخصياتها، وأكثر! "
+  },
+  "Black Myth: WuKong is an action-adventure game inspired by the iconic character Sun Wukong from the classic Chinese literary masterpiece 'Journey to the West.'": {
+    "message": "BLACK MYTH: WUKONG هي لعبة مغامرات أكشن مستوحاة من الشخصية الشهيرة سون ووكونغ من العمل الأدبي الكلاسيكي الصيني 'رحلة إلى الغرب'."
+  },
+  "The game has garnered significant anticipation due to its stunning visual effects, fluid combat mechanics, and rich cultural heritage. Players will take on the role of Sun Wukong, venturing into a mystical and perilous fantasy world, utilizing a diverse array of unique skills and weapons to combat enemies.": {
+    "message": "حظيت اللعبة بتوقعات كبيرة بسبب تأثيراتها البصرية المذهلة، وآليات القتال السلسة، والتراث الثقافي الغني. سيتولى اللاعبون دور سون ووكونغ، ويغامرون في عالم خيالي خطير وسحري، مستخدمين مجموعة متنوعة من المهارات والأسلحة الفريدة لمواجهة الأعداء."
+  },
+  "SUN WUKONG": {
+    "message": "سون ووكونغ"
+  },
+  "CHARACTER INFORMATION": {
+    "message": "معلومات الشخصية"
+  },
+  "CHARACTER BACKGROUND": {
+    "message": "خلفية الشخصية"
+  },
+  "Sun Wukong is portrayed as a powerful and rebellious warrior with extraordinary abilities. He possesses immense strength, agility, and a variety of magical powers, including shape-shifting and the ability to summon clones of himself. His iconic weapon is the Ruyi Jingu Bang, a magical staff that can change its size at will. Sun Wukong's character is deeply rooted in Chinese culture, symbolizing rebellion, freedom, and the quest for enlightenment.": {
+    "message": "يتم تصوير سون ووكونغ كمحارب قوي ومتمرد بقدرات استثنائية. لديه قوة هائلة، ومرونة، ومجموعة متنوعة من القوى السحرية، بما في ذلك التحول والقدرة على استدعاء نسخ من نفسه. سلاحه الشهير هو روي جينغو بانغ، عصا سحرية يمكن أن تغير حجمها حسب الرغبة. شخصية سون ووكونغ متعمقة في الثقافة الصينية، وتمثل التمرد والحرية والسعي نحو التبصر."
+  },
+  "CULTURAL SIGNIFICANCE IN BLACK MYTH: WUKONG": {
+    "message": "الأهمية الثقافية في BLACK MYTH: WUKONG"
+  },
+  "Black Myth: Wukong holds significant cultural importance as it draws from the rich Chinese literary tradition and mythology, particularly the classic novel \"Journey to the West\" and its iconic character Sun Wukong.": {
+    "message": "BLACK MYTH: WUKONG تحمل أهمية ثقافية كبيرة لأنها تستمد من التقاليد الأدبية الصينية الغنية والأساطير، وتحديداً الرواية الكلاسيكية \"رحلة إلى الغرب\" وشخصيتها الشهيرة سون ووكونغ."
+  },
+  "While based on 'Journey to the West,' the game offers a fresh perspective on the story, potentially exploring themes of rebellion, free will, and the complex relationships between gods, humans, and demons (Yaoguai).": {
+    "message": "بينما تستند على 'رحلة إلى الغرب'، تقدم اللعبة وجهة نظر جديدة على القصة، مما قد يستكشف مواضيع التمرد والإرادة الحرة والعلاقات المعقدة بين الآلهة والبشر والشياطين (ياوجاي)."
+  },
+  "The game serves as a vehicle for introducing elements of Chinese culture, mythology, and storytelling to a wider international audience. It has the potential to spark interest in Chinese literature and folklore among players unfamiliar with these traditions.": {
+    "message": "تعمل اللعبة كوسيلة لتقديم عناصر من الثقافة الصينية والأساطير وفن القصة لجمهور دولي أوسع. لديها القدرة على إثارة الاهتمام بالأدب الصيني والأسطورة لدى اللاعبين غير المعتادين على هذه التقاليد."
+  },
+  "The game emphasizes Sun Wukong's role as a powerful warrior deity (Fighting and Warring Deity), focusing on his combat prowess and legendary battles. This interpretation aligns with his portrayal in Chinese folklore as a symbol of rebellion and a hero of justice.": {
+    "message": "تؤكد اللعبة على دور سون ووكونغ كإله محارب قوي (إله القتال والحرب)، مع التركيز على مهاراته القتالية والمعارك الأسطورية. هذا التفسير يتماشى مع تصويره في الأسطورة الصينية كرمز للتمرد وبطل العدل."
+  },
+  "GAMEPLAY AND FEATURES IN BLACK MYTH: WUKONG": {
+    "message": "آليات اللعب والميزات في BLACK MYTH: WUKONG"
+  },
+  "Black Myth: Wukong aims to provide an immersive experience with top-notch graphics, detailed environments, and engaging combat mechanics. The game features:": {
+    "message": "Black Myth: Wukong يهدف إلى تقديم تجربة غامرة برسومات متميزة، بيئات مفصلة، وآليات قتال مشوقة. تتضمن اللعبة:"
+  },
+  "Stunning Visuals: Utilizing Unreal Engine 5, the game boasts high-quality graphics and realistic animations.": {
+    "message": "الرؤى المذهلة: باستخدام Unreal Engine 5، تتميز اللعبة برسومات عالية الجودة ورسوم متحركة حقيقية."
+  },
+  "Rich Storyline: The narrative is inspired by 'Journey to the West,' offering a deep and engaging story that explores the lore and mythology of ancient China.": {
+    "message": "سرد قصة معقد: السرد مستوحى من 'رحلة إلى الغرب'، يقدم قصة عميقة ومشوقة تستكشف أساطير وتاريخ الصين القديمة."
+  },
+  "Dynamic Combat: Players can engage in fast-paced combat, utilizing Sun Wukong's martial arts skills and magical abilities to defeat enemies.": {
+    "message": "القتال الديناميكي: يمكن للاعبين الانخراط في قتال سريع الوتيرة، باستخدام مهارات الفنون القتالية لسان ووكونغ وقدراته السحرية للهزيمة أعداء."
+  },
+  "Exploration: The game world is expansive, filled with hidden secrets, diverse landscapes, and formidable bosses.": {
+    "message": "الاستكشاف: عالم اللعبة واسع، مليء بالأسرار المخفية، المناظر الطبيعية المتنوعة، ورؤوس الأعداء الشرسة."
+  },
+  "SUN WUKONG SKILLS IN BLACK MYTH: WUKONG": {
+    "message": "مهارات سان ووكونغ في Black Myth: Wukong"
+  },
+  "In Black Myth: Wukong, Sun Wukong possesses a range of powerful abilities that not only faithfully recreate his capabilities from the original story but also enhance gameplay and challenge:": {
+    "message": "في Black Myth: Wukong، يمتلك سان ووكونغ مجموعة من القدرات القوية التي لا تعيد إنشاء قدراته من القصة الأصلية بأمانة فحسب، بل تعزز أيضًا اللعب والتحدي:"
+  },
+  "Ruyi Jingu Bang: Sun Wukong's iconic weapon can change size at will. In the game, players can use it for both melee attacks and long-range strikes, and even solve puzzles and overcome obstacles through its transformation.": {
+    "message": "روي جينغو بانغ: سلاح سان ووكونغ الشهير يمكن أن يتغير في الحجم حسب الرغبة. في اللعبة، يمكن للاعبين استخدامه لكل من الهجمات القريبة والهجمات عن بُعد، وحتى حل الألغاز والتغلب على العقبات من خلال تحوله."
+  },
+  "Cloud Somersault: Sun Wukong can summon a magical cloud for rapid movement, increasing the game's mobility and exploration aspects.": {
+    "message": "سحابة التطويف: يمكن لسان ووكونغ استدعاء سحابة سحرية للتحرك بسرعة، مما يزيد من جوانب التنقل والاستكشاف في اللعبة."
+  },
+  "72 Transformations: The ability to transform into various animals and objects to adapt to different combat situations and environmental needs. This skill provides multiple strategic options and tactical variations in the game.": {
+    "message": "72 تحول: القدرة على التحول إلى أنواع مختلفة من الحيوانات والأشياء للتكيف مع مواقف القتال المختلفة واحتياجات البيئة. هذه المهارة توفر خيارات استراتيجية متعددة وتباينات تكتيكية في اللعبة."
+  },
+  "Clone Technique: Sun Wukong can summon clones of himself to confuse enemies or perform coordinated attacks.": {
+    "message": "تقنية النسخ: يمكن لسان ووكونغ استدعاء نسخ من نفسه لخداع الأعداء أو تنفيذ هجمات منسقة."
+  },
+  "Fiery Eyes: Features skill trees for ability enhancement.": {
+    "message": "عيون النار: تتضمن شجرة مهارات لتعزيز القدرات."
+  },
+  "BLACK MYTH: WUKONG WALLPAPERS": {
+    "message": "خلفيات Black Myth: Wukong"
+  },
+  "WHEN DID BLACK MYTH: WUKONG RELEASE?": {
+    "message": "متى تم إصدار Black Myth: Wukong؟"
+  },
+  "Black Myth: Wukong is set to release on August 20, 2024. The game will launch simultaneously on PlayStation 5 and PC platforms, while the Xbox Series X/S version has been delayed with no specific release date announced yet.": {
+    "message": "Black Myth: Wukong من المقرر أن يتم إصداره في 20 أغسطس 2024. ستتم إطلاق اللعبة في نفس الوقت على منصات PlayStation 5 و PC، بينما تم تأجيل إصدار النسخة Xbox Series X/S دون إعلان تاريخ إصدار محدد حتى الآن."
+  },
+  "WHAT PLATFORMS IS BLACK MYTH: WUKONG ON?": {
+    "message": "ما هي المنصات التي سيتوفر عليها Black Myth: Wukong؟"
+  },
+  "Black Myth: Wukong will be available on the following platforms:": {
+    "message": "سيتوفر Black Myth: Wukong على المنصات التالية:"
+  },
+  "PlayStation 5": {
+    "message": "PlayStation 5"
+  },
+  "PC (Windows)": {
+    "message": "PC (Windows)"
+  },
+  "Xbox Series X/S (delayed, release date to be announced)": {
+    "message": "Xbox Series X/S (تأجيل، تاريخ الإصدار سيُعلن لاحقًا)"
+  },
+  "The game will launch simultaneously on PS5 and PC on August 20, 2024. However, the Xbox Series X/S version has been delayed, with developers working to optimize it for the platform.": {
+    "message": "ستُطلق اللعبة في نفس الوقت على PS5 و PC في 20 أغسطس 2024. ومع ذلك، تم تأجيل إصدار Xbox Series X/S، حيث يعمل المطورون على تحسينها لهذه المنصة."
+  },
+  "HOW LONG HAVE THEY BEEN WORKING ON BLACK MYTH: WUKONG?": {
+    "message": "كم من الوقت كانوا يعملون على أسطورة سوداء: ووكونغ؟"
+  },
+  "Game Science, the developer of Black Myth: Wukong, began working on the game in 2017. The project was first revealed to the public on August 20, 2020, with a 13-minute pre-alpha gameplay video that quickly went viral, garnering millions of views on YouTube and Bilibili.": {
+    "message": "بدأت Game Science، المطورة لأسطورة سوداء: ووكونغ، العمل على اللعبة في عام 2017. تم الكشف عن المشروع للجمهور لأول مرة في 20 أغسطس 2020، مع فيديو لعب ما قبل الألفا يستغرق 13 دقيقة سرعان ما أصبح شائعًا، وحصل على ملايين المشاهدات على YouTube وBilibili."
+  },
+  "BLACK MYTH: WUKONG SYSTEM REQUIREMENTS": {
+    "message": "متطلبات نظام أسطورة سوداء: ووكونغ"
+  },
+  "Minimum Requirements": {
+    "message": "الحد الأدنى من المتطلبات"
+  },
+  "OS: Windows 10 64-bit": {
+    "message": "نظام التشغيل: Windows 10 64-bit"
+  },
+  "CPU: Intel Core i5-8400 or AMD Ryzen 5 1600": {
+    "message": "المعالج: Intel Core i5-8400 أو AMD Ryzen 5 1600"
+  },
+  "Memory: 16 GB RAM": {
+    "message": "الذاكرة: 16 GB RAM"
+  },
+  "Graphics: NVIDIA GeForce GTX 1060 6GB or AMD Radeon RX 580 8GB": {
+    "message": "الرسوميات: NVIDIA GeForce GTX 1060 6GB أو AMD Radeon RX 580 8GB"
+  },
+  "DirectX: Version 11": {
+    "message": "DirectX: الإصدار 11"
+  },
+  "Storage: 130 GB available space (HDD supported, SSD recommended)": {
+    "message": "التخزين: 130 GB من المساحة المتاحة (يدعم HDD، موصى بـ SSD)"
+  },
+  "Sound Card: Windows compatible audio device": {
+    "message": "كرت الصوت: جهاز صوت متوافق مع Windows"
+  },
+  "Recommended Requirements": {
+    "message": "المتطلبات الموصى بها"
+  },
+  "CPU: Intel Core i7-9700 or AMD Ryzen 5 5500": {
+    "message": "المعالج: Intel Core i7-9700 أو AMD Ryzen 5 5500"
+  },
+  "Graphics: NVIDIA GeForce RTX 2060 or AMD Radeon RX 5700 XT or INTEL Arc A750": {
+    "message": "الرسوميات: NVIDIA GeForce RTX 2060 أو AMD Radeon RX 5700 XT أو INTEL Arc A750"
+  },
+  "DirectX: Version 12": {
+    "message": "DirectX: الإصدار 12"
+  },
+  "Storage: 130 GB available space (SSD required)": {
+    "message": "التخزين: 130 GB من المساحة المتاحة (مطلوب SSD)"
+  },
+  "Minimum Ray Tracing Configuration (Medium settings, Low RT, 1080P)": {
+    "message": "التكوين الأدنى للتتبع الضوئي (إعدادات متوسطة، تتبع ضوئي منخفض، 1080P)"
+  },
+  "CPU: Intel Core i5-9400 or AMD Ryzen 5 1600": {
+    "message": "المعالج: Intel Core i5-9400 أو AMD Ryzen 5 1600"
+  },
+  "Graphics: NVIDIA GeForce RTX 3060": {
+    "message": "الرسوميات: NVIDIA GeForce RTX 3060"
+  },
+  "VRAM: 8 GB": {
+    "message": "VRAM: 8 GB"
+  },
+  "Ultra Ray Tracing Configuration (High settings, Ultra RT, 4K)": {
+    "message": "تكوين التتبع الضوئي الفائق (إعدادات عالية، تتبع ضوئي فائق، 4K)"
+  },
+  "Graphics: NVIDIA GeForce RTX 4080 Super": {
+    "message": "الرسوميات: NVIDIA GeForce RTX 4080 Super"
+  },
+  "VRAM: 16 GB": {
+    "message": "VRAM: 16 GB"
+  },
+  "RAM: 32 GB": {
+    "message": "الذاكرة: 32 GB"
+  },
+  "LATEST BLACK MYTH: WUKONG NEWS": {
+    "message": "أحدث أخبار أسطورة سوداء: ووكونغ"
+  },
+  "Black Myth: Wukong Pre-order Editions Detailed": {
+    "message": "تفاصيل طلبات الإيداع لأسطورة سوداء: ووكونغ"
+  },
+  "Black Myth: Wukong has become the most wishlisted game on Steam. This achievement highlights the immense anticipation for this action RPG based on Chinese mythology. The game offers three pre-order editions:": {
+    "message": "Black Myth: Wukong أصبح أكثر لعبة مطلوبة في Steam. هذا الإنجاز يبرز التوقع الهائل لهذه اللعبة الأكشن RPG المستندة إلى الأساطير الصينية. تقدم اللعبة ثلاثة إصدارات مسبقة الطلب:"
+  },
+  "Digital Edition ($69.99): Includes various in-game items and a digital soundtrack.": {
+    "message": "الإصدار الرقمي ($69.99): يشمل عناصر متنوعة داخل اللعبة وموسيقى رقمية."
+  },
+  "Deluxe Edition ($169): Features a steelbook case, 1:1 scale bronze headband replica, and additional physical and digital content.": {
+    "message": "الإصدار الفاخر ($169): يتضمن علبة ستيلبوك، نسخة نطاق نحاسية بمقاس 1:1، ومحتوى فيزيائي ورقمي إضافي."
+  },
+  "Collector's Edition ($399): Contains a 40cm Sun Wukong statue, silk scroll, and numerous premium collectibles.": {
+    "message": "إصدار المجموعة ($399): يحتوي على تمثال Sun Wukong بطول 40 سم، برقع حريري، وعدد كبير من التحف الفاخرة."
+  },
+  "Black Myth: Wukong Pre-order Sales Milestone": {
+    "message": "معلم مبيعات مسبقة الطلب لـ Black Myth: Wukong"
+  },
+  "Reports indicate that Black Myth: Wukong received 1.1 million pre-orders within days of opening physical and digital pre-orders on June 8th and 11th, demonstrating the game's massive appeal.": {
+    "message": "تشير التقارير إلى أن Black Myth: Wukong تلقت 1.1 مليون طلب مسبق خلال أيام فتح الطلبات المادية والرقمية في 8 و 11 يونيو، مما يظهر جاذبية اللعبة الهائلة."
+  },
+  "Development Progress": {
+    "message": "تقدم التطوير"
+  },
+  "Game Science, the developer, has stated that Black Myth: Wukong is being developed using Unreal Engine 5 and is the first game to simultaneously use this engine and NVIDIA's DLSS technology, promising exceptional visual experiences.": {
+    "message": "ذكرت Game Science، المطورة، أن Black Myth: Wukong يتم تطويرها باستخدام Unreal Engine 5 وهي أول لعبة تستخدم هذه المحرك وتكنولوجيا NVIDIA's DLSS في نفس الوقت، مما يعد بتجارب بصرية استثنائية."
+  },
+  "Sweet Baby Controversy": {
+    "message": "جدل Sweet Baby"
+  },
+  "Background": {
+    "message": "خلفية"
+  },
+  "Recently, a controversy erupted between Black Myth: Wukong and Sweet Baby studio. Sweet Baby is a consultancy firm that provides political correctness guidance to game developers, ensuring game content meets certain social and cultural standards.": {
+    "message": "مؤخرًا، اندلع جدل بين Black Myth: Wukong واستوديو Sweet Baby. Sweet Baby هي شركة استشارية تقدم إرشادات الصحة السياسية لمطوري الألعاب، مما يضمن تلبية محتوى اللعبة لمعايير اجتماعية وثقافية معينة."
+  },
+  "Controversy Details": {
+    "message": "تفاصيل الجدل"
+  },
+  "According to reports, Sweet Baby demanded a $7 million \"guidance fee\" from Game Science, the developers of Black Myth: Wukong, to ensure the game adheres to their political correctness standards. Game Science reportedly refused this demand.": {
+    "message": "وفقًا للتقارير، طلبت Sweet Baby رسومًا إرشادية بقيمة 7 ملايين دولار من Game Science، مطوري Black Myth: Wukong، لضمان موافقة اللعبة على معايير الصحة السياسية الخاصة بهم. كما يبدو أن Game Science رفضت هذا الطلب."
+  },
+  "Media Attacks": {
+    "message": "هجمات الإعلام"
+  },
+  "Following the refusal to pay, Game Science claims they've been subjected to continuous attacks and defamation from Western media. These attacks allegedly include accusations of gender discrimination in the game. Sweet Baby is accused of using its media influence to tarnish Black Myth: Wukong's reputation in retaliation for the refused payment.": {
+    "message": "بعد رفض الدفع، تدعي Game Science أنها تعرضت لهجمات مستمرة وتشويه للسمعة من الإعلام الغربي. تشمل هذه الهجمات، حسب الادعاء، الاتهامات بالتمييز على أساس الجندر في اللعبة. يتهم بعضهم Sweet Baby باستخدام تأثيرها الإعلامي لتشويه سمعة Black Myth: Wukong احتجاجًا على الدفع المرفوض."
+  },
+  "Community Reaction": {
+    "message": "رد فعل المجتمع"
+  },
+  "This controversy has sparked widespread discussion in the gaming community. Some players and industry insiders have expressed outrage at Sweet Baby's alleged actions, considering them unethical and harmful to the gaming industry. They argue that a small number of influential consultancy firms should not control game developers' creative directions through pressure tactics.": {
+    "message": "هذه الجدل أثار مناقشات واسعة في مجتمع الألعاب. بعض اللاعبين والخبراء في الصناعة اعتبروا الإجراءات المزعومة لـ Sweet Baby غير أخلاقية وضارة بصناعة الألعاب. يجادلون بأن عددًا قليلاً من الشركات الاستشارية المؤثرة لا ينبغي أن تتحكم في اتجاهات الإبداع لمطوري الألعاب من خلال تكتيكات الضغط."
+  },
+  "Official Response": {
+    "message": "الرد الرسمي"
+  },
+  "As of now, Game Science has not issued an official statement regarding this controversy. However, as the release date approaches, this dispute may impact the game's market performance.": {
+    "message": "حتى الآن، لم تصدر Game Science بيانًا رسميًا بخصوص هذا الجدل. ومع ذلك، مع اقتراب تاريخ الإصدار، قد يؤثر هذا النزاع على أداء اللعبة في السوق."
+  },
+  "Future Outlook": {
+    "message": "التوقعات المستقبلية"
+  },
+  "Despite the controversy, Black Myth: Wukong remains one of the most anticipated games of 2024. Players are eager to explore its rich Chinese mythological world and experience its unique combat system and transformation abilities. More game details are expected to be revealed as the release date nears.": {
+    "message": "على الرغم من الجدل، لا يزال Black Myth: Wukong من أكثر الألعاب المنتظرة في عام 2024. اللاعبون متحمسون لاستكشاف عالمها الغني بالأساطير الصينية وتجربة نظام القتال الفريد وقدرات التحول. من المتوقع أن يتم الكشف عن مزيد من تفاصيل اللعبة مع اقتراب تاريخ الإصدار."
+  },
+  "BLACK MYTH: WUKONG GAMEPLAY": {
+    "message": "BLACK MYTH: WUKONG GAMEPLAY"
+  },
+  "Black Myth: Wukong, developed by Game Science, is a highly anticipated action role-playing game set to release on August 20, 2024. Based on the classic Chinese novel 'Journey to the West,' the game promises to deliver an immersive experience rich in Chinese mythology.": {
+    "message": "Black Myth: Wukong، المطورة من قبل Game Science، هي لعبة مغامرات أكشن متطلبة تم الترقب لها لتصدر في 20 أغسطس 2024. تستند اللعبة على رواية الأدب الصيني الكلاسيكية 'رحلة إلى الغرب'، وتعد بتقديم تجربة مغمورة غنية بالأساطير الصينية."
+  },
+  "Dynamic Combat System": {
+    "message": "نظام قتال ديناميكي"
+  },
+  "Black Myth: Wukong boasts a sophisticated combat system that combines fast-paced action with fluid movements. Players will wield the legendary Ruyi Jingu Bang staff, executing diverse attacks and combos. The combat encourages players to utilize agile movements and tactical thinking, leveraging the environment to gain advantages. This creates a unique and engaging fighting style that promises to keep players on their toes.": {
+    "message": "تتباهى Black Myth: Wukong بنظام قتال معقد يجمع بين الأفعال سريعة المعدل والحركات السلسة. سيستخدم اللاعبون العصا الأسطورية Ruyi Jingu Bang، وينفذون عدة أنواع من الهجمات والتوافقيات. يشجع القتال اللاعبين على استخدام الحركات النشطة والتفكير الإستراتيجي، والاستفادة من البيئة للحصول على مزايا. هذا يخلق نمط قتال فريد وجذاب يعد بإبقاء اللاعبين على أهبة الاستعداد."
+  },
+  "Transformation Abilities": {
+    "message": "قدرات التحول"
+  },
+  "A standout feature of the game is the protagonist's ability to transform. Players can morph into various creatures, each with its own distinct abilities and combat style. For instance, transforming into the wolfman Guangzhi allows players to wield a fire glaive for powerful melee attacks. This transformation mechanic not only adds variety to combat but also encourages strategic thinking, as players must choose the most suitable form for different enemies and battle situations.": {
+    "message": "ميزة مميزة في اللعبة هي قدرة البطل على التحول. يمكن للاعبين أن يتحولوا إلى أنواع مختلفة من المخلوقات، كل منها له قدراته الخاصة وأسلوب قتالي مميز. على سبيل المثال، التحول إلى الذئب Guangzhi يسمح للاعبين باستخدام مغارف نارية لهجمات جسدية قوية. هذه الميكانيكية للتحول لا تضيف فقط تنوعًا للقتال بل تشجع أيضًا التفكير الإستراتيجي، حيث يجب على اللاعبين اختيار الشكل الأكثر ملاءمة للأعداء المختلفة والمواقف القتالية."
+  },
+  "Comprehensive Character Progression": {
+    "message": "تطور شامل للشخصية"
+  },
+  "Black Myth: Wukong implements a rich skill tree system, allowing players to continuously upgrade their character and unlock new abilities throughout the game. This progression mechanism enables players to customize their gameplay style, choosing skill combinations that suit their preferences. As characters grow stronger, players will experience more powerful abilities and increasingly complex combat strategies, enhancing the game's replay value.": {
+    "message": "تنفذ Black Myth: Wukong نظام شجرة مهارات غني، مما يسمح للاعبين بترقية شخصياتهم باستمرار وفتح قدرات جديدة طوال اللعبة. هذه الميكانيكية للتطور تمكن اللاعبين من تخصيص أسلوب لعبهم، من خلال اختيار مجموعات المهارات التي تناسب تفضيلاتهم. مع تقوية الشخصيات، سيختبر اللاعبون قدرات أقوى واستراتيجيات قتالية أكثر تعقيدًا، مما يعزز قيمة اللعبة مرة أخرى."
+  },
+  "Impressive Boss Battles": {
+    "message": "معارك رؤوس البطولة"
+  },
+  "Boss fights are a core highlight of the game. Each boss is uniquely designed with its own fighting style, challenging players to adapt and find weaknesses. These encounters not only test players' reflexes and tactical thinking but also provide a great sense of accomplishment. Defeating powerful bosses rewards players with valuable items and achievements, adding to the game's appeal.": {
+    "message": "معارك الرؤوس الكبيرة هي جزء أساسي من اللعبة. كل رأس كبير مصمم بشكل فريد مع أسلوب قتالي خاص به، مما يتحدى اللاعبين للتكيف والعثور على الضعف. هذه المواجهات لا تختبر فقط ردود فعل اللاعبين والتفكير الإستراتيجي ولكنها توفر أيضًا شعورًا عظيمًا بالإنجاز. هزيمة الرؤوس الكبيرة القوية تكافئ اللاعبين بأغراض قيمة وإنجازات، مما يضيف إلى جاذبية اللعبة."
+  },
+  "Rich Exploration Elements": {
+    "message": "عناصر استكشاف غنية"
+  },
+  "While the main storyline follows a linear progression, Black Myth: Wukong features vast areas for exploration. Players are encouraged to investigate every corner, discovering hidden items, facing elite enemies, and uncovering more about the game's mythological world. This exploration element enhances the game's immersion and ensures that each playthrough is filled with surprises.": {
+    "message": "بينما تتبع القصة الرئيسية تقدمًا خطيًا، تتميز Black Myth: Wukong بمناطق واسعة للاستكشاف. يتم تشجيع اللاعبين على استقصاء كل زاوية، واكتشاف العناصر المخفية، ومواجهة الأعداء النخبة، وكشف المزيد عن عالم اللعبة الأسطوري. هذا العنصر الاستكشافي يعزز غموض اللعبة ويضمن أن كل مرحلة مليئة بالمفاجآت."
+  },
+  "Stunning Visual Effects": {
+    "message": "تأثيرات بصرية رائعة"
+  },
+  "Developed using Unreal Engine 5, Black Myth: Wukong delivers breathtaking visual effects and smooth animations. The game's scenery draws inspiration from traditional Chinese culture, taking players through majestic mountains, dense forests, and mysterious ancient ruins, all imbued with a strong mythological atmosphere. Detailed character modeling and fluid action animations make every frame of the game look like a work of art.": {
+    "message": "تم تطويره باستخدام Unreal Engine 5، يقدم Black Myth: Wukong تأثيرات بصرية مذهلة ورسوم متحركة ناعمة. المشهد الطبيعي للعبة يستوحي الإلهام من الثقافة الصينية التقليدية، حيث يأخذ اللاعبين عبر جبال هائلة، غابات ساحرة، ومعابد قديمة مشوهة، كل ذلك مليء بأجواء عرقية قوية. النمذجة الشخصية المفصلة والرسوم المتحركة السلسة للأفعال تجعل كل إطار من اللعبة تبدو وكأنها عمل فني."
+  },
+  "Rich Cultural Depth": {
+    "message": "عمق ثقافي غني"
+  },
+  "The game's storyline is deeply rooted in Chinese mythology, allowing players to interact with classic characters like Sun Wukong and Tang Sanzang. This cultural depth not only enriches the game's backstory but also allows players to experience the charm of traditional Chinese culture while enjoying the game.": {
+    "message": "قصة اللعبة متجذرة بعمق في الأساطير الصينية، مما يسمح للاعبين بالتفاعل مع شخصيات كلاسيكية مثل Sun Wukong وTang Sanzang. هذا العمق الثقافي لا يثري قصة اللعبة فحسب، بل يسمح أيضًا للاعبين بتجربة جاذبية الثقافة الصينية التقليدية مع الاستمتاع باللعبة."
+  },
+  "BLACK MYTH: WUKONG STORY OVERVIEW": {
+    "message": "نظرة عامة على قصة BLACK MYTH: WUKONG"
+  },
+  "Set in a mythical version of ancient China, Black Myth: Wukong draws its inspiration from the classic Chinese novel 'Journey to the West.' However, the game presents a unique interpretation of this well-known tale, blending familiar elements with new narrative twists.": {
+    "message": "تم تعيينه في نسخة خيالية من الصين القديمة، يستوحي Black Myth: Wukong إلهامه من الرواية الصينية الكلاسيكية 'رحلة إلى الغرب'. ومع ذلك، تقدم اللعبة تفسيرًا فريدًا لهذه القصة الشهيرة، مزجًا بين العناصر المألوفة مع تغييرات سردية جديدة."
+  },
+  "Central Character": {
+    "message": "الشخصية الرئيسية"
+  },
+  "The player takes on the role of the \"Destined One,\" a character based on Sun Wukong, the legendary Monkey King. While sharing similarities with the novel is protagonist, this version of Wukong is shrouded in mystery, with his true identity and purpose gradually revealed throughout the game.": {
+    "message": "يتخذ اللاعب دور \"المختار\"، شخصية تستند إلى Sun Wukong، ملك القرود الأسطوري. بينما يشارك في التشابه مع بطل الرواية، فإن هذا النسخة من Wukong مغطاة بالغموض، حيث يتم الكشف عن هويته وغايته الحقيقية تدريجيا على مدار اللعبة."
+  },
+  "Setting and World": {
+    "message": "الإعداد والعالم"
+  },
+  "The game world is a vast, perilous landscape filled with mythical creatures, ancient ruins, and supernatural phenomena. Players will journey through diverse environments, from misty mountains and dense forests to hidden temples and celestial realms. Each area is steeped in Chinese mythology, offering a rich tapestry of lore and history to uncover.": {
+    "message": "عالم اللعبة هو منظر واسع وخطير مليء بالمخلوقات الأسطورية والأطلال القديمة والظواهر خارقة للطبيعة. سيقوم اللاعبون برحلة عبر بيئات متنوعة، من الجبال المغطاة بالضباب والغابات الكثيفة إلى المعابد المخفية والعوالم السماوية. كل منطقة مليئة بالأساطير الصينية، مما يقدم صوفيا غنية من الأسطور والتاريخ لاكتشافها."
+  },
+  "Main Quest": {
+    "message": "المهمة الرئيسية"
+  },
+  "The Destined One embarks on a dangerous journey to uncover the truth behind ancient legends. This quest is not just about reaching the West, as in the original story, but about uncovering hidden truths that could reshape the understanding of the world and the protagonist's place in it.": {
+    "message": "يبدأ \"المختار\" رحلة خطرة لكشف الحقيقة وراء الأساطير القديمة. هذه المهمة ليست مجرد الوصول إلى الغرب، كما في القصة الأصلية، ولكن حول اكتشاف الحقائق المخفية التي يمكن أن تعيد تشكيل فهم العالم ومكان البطل فيه."
+  },
+  "Antagonists": {
+    "message": "الخصوم"
+  },
+  "The game features a variety of antagonists, from rival demon kings and jealous deities to corrupted heroes and cosmic entities. Each adversary presents unique challenges and contributes to the overall narrative.": {
+    "message": "تتضمن اللعبة مجموعة متنوعة من الخصوم، من ملوك الشياطين المنافسين والآلهة المحسودة إلى الأبطال الفاسدين والكيانات الكونية. كل خصم يقدم تحديات فريدة ويساهم في السرد العام."
+  },
+  "Conclusion": {
+    "message": "الخاتمة"
+  },
+  "As players progress through the story, they'll unravel a complex narrative that questions the nature of destiny, power, and the responsibility that comes with great abilities. The journey of the Destined One is not just a physical one to the West, but a spiritual and philosophical exploration that challenges players to think about the consequences of their actions in a world where myths come to life.": {
+    "message": "عندما يتقدم اللاعبون في القصة، سيكشفون عن سرد معقد يطرح أسئلة حول طبيعة المصير والقوة والمسؤولية التي تأتي مع القدرات العظيمة. رحلة \"المختار\" ليست مجرد رحلة جسدية إلى الغرب، ولكن استكشاف روحي وفلسفي يتحدى اللاعبين للتفكير في عواقب أفعالهم في عالم حيث تتحقق الأساطير."
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "هذه الصفحة لا تستجيب.",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "أنتقل للأعلى",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.archive.title": {
+    "message": "أرشيف",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "أرشيف",
+    "description": "The page & hero description of the blog archive page"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "التنقل في صفحة قائمة المدونة",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "إدخالات أحدث",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "إدخالات أقدم",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "التنقل في صفحة مقالات المدونة",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "مقالات أحدث",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "مقالات أقدم",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.blog.post.plurals": {
+    "message": "مقاله واحده|{count} مقالات",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} موسومة ب \"{tagName}\"",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "عرض كل الوسوم",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "التنقل التفصيلي",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "صفحة التوثيق",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "السابق",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "التالي",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "التبديل بين الوضع الداكن والفاتح (الحالي {mode})",
+    "description": "The ARIA label for the navbar color mode toggle"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "الوضع الداكن",
+    "description": "The name for the dark color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "الوضع الفاتح",
+    "description": "The name for the light color mode"
+  },
+  "theme.docs.DocCard.categoryDescription.plurals": {
+    "message": "{count} مواد",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "مستند موسوم واحد|{count} مستندات موسومة",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged} مستند موسوم بـ \"{tagName}\"",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "الأصدار: {versionLabel}"
+  },
+  "theme.common.editThisPage": {
+    "message": "تعديل هذه الصفحة",
+    "description": "The link label to edit the current page"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "ارتباط مباشر بالعنوان {heading}",
+    "description": "Title for link to heading"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "هذه وثائق لم يتم طرحها للإصدار {siteTitle} {versionLabel}.",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "هذه هي وثائق {siteTitle} {versionLabel}، التي لم تعد تتم صيانتها بشكل نشط.",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "للحصول على أحدث الوثائق، راجع {latestVersionLink} ({versionLabel}).",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "احدث اصدار",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": " في {date}",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": " بواسطة {user}",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "آخر تحديث{atDate}{byUser}",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "إصدارات",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.NotFound.title": {
+    "message": "الصفحة غير موجودة",
+    "description": "The title of the 404 page"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "الوسوم:",
+    "description": "The label alongside a tag list"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "إغلاق",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.admonition.caution": {
+    "message": "حذر",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.admonition.danger": {
+    "message": "خطر",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "معلومات",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.note": {
+    "message": "ملاحظة",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "تلميح",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.warning": {
+    "message": "warning",
+    "description": "The default label used for the Warning admonition (:::warning)"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "تم النسخ",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "نسخ الرمز إلى الحافظة",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "نسخ",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "تبديل التفاف النص",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "أحدث مشاركات المدونة",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.DocSidebarItem.expandCategoryAriaLabel": {
+    "message": "Expand sidebar category '{label}'",
+    "description": "The ARIA label to expand the sidebar category"
+  },
+  "theme.DocSidebarItem.collapseCategoryAriaLabel": {
+    "message": "Collapse sidebar category '{label}'",
+    "description": "The ARIA label to collapse the sidebar category"
+  },
+  "theme.NavBar.navAriaLabel": {
+    "message": "Main",
+    "description": "The ARIA label for the main navigation"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "اللغات",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "محتويات هذه الصفحة",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.NotFound.p1": {
+    "message": "لم نتمكن من العثور على ما كنت تبحث عنه.",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "يرجى الاتصال بمالك الموقع الذي ربطك بعنوان URL الأصلي وإخباره بأن الارتباط الخاص به معطل.",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.blog.post.readMore": {
+    "message": "اقرأ المزيد",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "اقراء المزيد {title}",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "الرئيسية",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "{readingTime} دقائق قراءة|{readingTime} دقائق قراءة",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "طي الشريط الجانبي",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "طي الشريط الجانبي",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "Docs sidebar",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "Close navigation bar",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "→ العودة إلى القائمة الرئيسية",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "Toggle navigation bar",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "توسيع الشريط الجانبي",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "توسيع الشريط الجانبي",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "المحاولة مجددا",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "انتقل إلى المحتوى الرئيسي",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "الوسوم",
+    "description": "The title of the tag list page"
+  },
+  "theme.unlistedContent.title": {
+    "message": "Unlisted page",
+    "description": "The unlisted content banner title"
+  },
+  "theme.unlistedContent.message": {
+    "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
+    "description": "The unlisted content banner message"
+  },
+  "Videos": {
+    "message": "فيديوهات"
+  },
+  "BLACK MYTH: WUKONG WIKI": {
+    "message": "BLACK MYTH: WUKONG WIKI"
+  },
+  "REAL MACHINE DEMONSTRATION": {
+    "message": "عرض حقيقي للآلة"
+  },
+  "Loading...": {
+    "message": "جار التحميل..."
+  },
+  "BLACK MYTH WUKONG REVIEW": {
+    "message": "مراجعة BLACK MYTH WUKONG"
+  },
+  "Latest Information": {
+    "message": "أحدث المعلومات"
+  },
+  "Combat": {
+    "message": "قتال"
+  },
+  "Gameplay": {
+    "message": "جولة اللعب"
+  },
+  "FAQs & News": {
+    "message": "الأسئلة الشائعة والأخبار"
+  },
+  "Wallpapers": {
+    "message": "خلفيات"
+  },
+  "Sun WuKong": {
+    "message": "سون ووكونغ"
+  },
+  "Stats": {
+    "message": "إحصائيات"
+  },
+  "Skills": {
+    "message": "مهارات"
+  },
+  "Builds": {
+    "message": "بناءات"
+  },
+  "Buffs & Debuffs": {
+    "message": "تعزيزات وتضعيفات"
+  },
+  "WORLD INFORMATION": {
+    "message": "معلومات العالم"
+  },
+  "Maps": {
+    "message": "خرائط"
+  },
+  "Bosses": {
+    "message": "رؤساء"
+  },
+  "NPCs": {
+    "message": "شخصيات NPC"
+  },
+  "Back Story": {
+    "message": "قصة خلفية"
+  },
+  "Creatures & Enemies": {
+    "message": "مخلوقات وأعداء"
+  },
+  "index.href": {
+    "message": "/ar"
+  }
+}
