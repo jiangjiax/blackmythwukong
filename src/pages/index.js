@@ -41,8 +41,6 @@ function HomepageHeader() {
           <p className="leading-relaxed text-lg mt-2">{tagline1}<span className={styles.descriptionTitle}> {tagline2} </span>{tagline3}</p>
           <p className="leading-relaxed text-lg">
             <Translate>Black Myth: WuKong is an action-adventure game inspired by the iconic character Sun Wukong from the classic Chinese literary masterpiece 'Journey to the West.'</Translate>
-          </p>
-          <p className="leading-relaxed text-lg">
             <Translate>The game has garnered significant anticipation due to its stunning visual effects, fluid combat mechanics, and rich cultural heritage. Players will take on the role of Sun Wukong, venturing into a mystical and perilous fantasy world, utilizing a diverse array of unique skills and weapons to combat enemies.</Translate>
           </p>
         </div>
