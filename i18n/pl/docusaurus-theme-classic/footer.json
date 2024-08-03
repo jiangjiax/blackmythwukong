@@ -1,18 +1,18 @@
 {
   "link.title.GENERAL INFORMATION": {
-    "message": "GENERAL INFORMATION",
+    "message": "OGÓLNE INFORMACJE",
     "description": "The title of the footer links column with title=GENERAL INFORMATION in the footer"
   },
   "link.title.CHARACTER INFORMATION": {
-    "message": "CHARACTER INFORMATION",
+    "message": "INFORMACJE O POSTACI",
     "description": "The title of the footer links column with title=CHARACTER INFORMATION in the footer"
   },
   "link.title.More": {
-    "message": "More",
+    "message": "Więcej",
     "description": "The title of the footer links column with title=More in the footer"
   },
   "link.item.label.Combat": {
-    "message": "Combat",
+    "message": "Walka",
     "description": "The label of footer link with label=Combat linking to /combat"
   },
   "link.item.label.SUN WUKONG": {
@@ -22,5 +22,9 @@
   "link.item.label.Steam": {
     "message": "Steam",
     "description": "The label of footer link with label=Steam linking to https://store.steampowered.com/app/2358720/_/"
+  },
+  "link.item.label.COMBAT": {
+    "message": "WALKA",
+    "description": "The label of footer link with label=COMBAT linking to /combat"
   }
 }

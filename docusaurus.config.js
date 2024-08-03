@@ -207,7 +207,7 @@ const config = {
             title: 'GENERAL INFORMATION',
             items: [
               {
-                label: 'Combat',
+                label: 'COMBAT',
                 to: '/combat',
               },
             ],

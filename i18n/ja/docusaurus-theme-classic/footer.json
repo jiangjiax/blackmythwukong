@@ -1,26 +1,30 @@
 {
   "link.title.GENERAL INFORMATION": {
-    "message": "GENERAL INFORMATION",
-    "description": "The title of the footer links column with title=GENERAL INFORMATION in the footer"
+    "message": "一般情報",
+    "description": "フッターのタイトル=一般情報のリンク列のタイトル"
   },
   "link.title.CHARACTER INFORMATION": {
-    "message": "CHARACTER INFORMATION",
-    "description": "The title of the footer links column with title=CHARACTER INFORMATION in the footer"
+    "message": "キャラクター情報",
+    "description": "フッターのタイトル=キャラクター情報のリンク列のタイトル"
   },
   "link.title.More": {
-    "message": "More",
-    "description": "The title of the footer links column with title=More in the footer"
+    "message": "もっと見る",
+    "description": "フッターのタイトル=もっと見るのリンク列のタイトル"
   },
   "link.item.label.Combat": {
-    "message": "Combat",
-    "description": "The label of footer link with label=Combat linking to /combat"
+    "message": "戦闘",
+    "description": "ラベル=戦闘のフッターリンクのラベル（/combatへのリンク）"
   },
   "link.item.label.SUN WUKONG": {
-    "message": "SUN WUKONG",
-    "description": "The label of footer link with label=SUN WUKONG linking to /sunwukong"
+    "message": "孫悟空",
+    "description": "ラベル=孫悟空のフッターリンクのラベル（/sunwukongへのリンク）"
   },
   "link.item.label.Steam": {
     "message": "Steam",
-    "description": "The label of footer link with label=Steam linking to https://store.steampowered.com/app/2358720/_/"
+    "description": "ラベル=Steamのフッターリンクのラベル（https://store.steampowered.com/app/2358720/_/へのリンク）"
+  },
+  "link.item.label.COMBAT": {
+    "message": "戦闘",
+    "description": "ラベル=戦闘のフッターリンクのラベル（/combatへのリンク）"
   }
 }
