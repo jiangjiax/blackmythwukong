@@ -786,5 +786,8 @@
   },
   "index.href": {
     "message": "/zh-CN"
+  },
+  "heroImgSrc":{
+    "message": "https://image.informedainews.com/wukongwikicn.png"
   }
 }

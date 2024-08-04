@@ -6,7 +6,7 @@
     "message": "손오공, 원숭이 왕으로도 알려진 그는 "
   },
   "patchnotes.tagline2": {
-    "message": "블랙 마시: 워쿤. "
+    "message": "검은 신화: 오공"
   },
   "patchnotes.tagline3": {
     "message": "그는 중국 신화와 문학에서 특히 '서유기'라는 소설로 유명한 전설적인 인물입니다. 게임에서 플레이어들은 손오공의 역할을 맡아 그의 전설적인 이야기와 흥미진진한 모험을 경험합니다."
@@ -18,13 +18,13 @@
     "message": "일반 정보"
   },
   "DODGING IN BLACK MYTH: WUKONG": {
-    "message": "블랙 마시: 워쿤에서의 회피"
+    "message": "블랙 마시: 워쿤 회피"
   },
   "Dodging is a crucial defensive maneuver in Black Myth: Wukong. The game allows for near-instantaneous dodges, giving players the ability to quickly evade enemy attacks. However, it's important to manage your stamina, as excessive dodging can leave you vulnerable. As you progress, you can unlock a skill that creates a phantom copy when performing a perfect dodge, automatically counterattacking enemies.": {
     "message": "회피는 블랙 마시: 워쿤에서 중요한 방어 기술입니다. 게임은 거의 순간적인 회피를 허용하여 플레이어들이 적의 공격을 빠르게 피할 수 있게 합니다. 그러나 지나친 회피는 당신을 취약하게 만들 수 있으므로 체력 관리가 중요합니다. 진행하면서 완벽한 회피를 할 때 환영 복사본을 만들어 적을 자동으로 반격하는 기술을 해금할 수 있습니다."
   },
   "STANCES AND WEAPON SKILLS IN BLACK MYTH: WUKONG": {
-    "message": "블랙 마시: 워쿤에서의 태세와 무기 기술"
+    "message": "블랙 마시: 워쿤 태세와 무기 기술"
   },
   "Combat revolves around Sun Wukong's magical staff, the Ruyi Jingu Bang. Players can switch between three different stances:": {
     "message": "전투는 손오공의 마법 지팡이인 루이 징구 방에 의해 회전합니다. 플레이어들은 세 가지 다른 태세 사이를 전환할 수 있습니다:"
@@ -42,7 +42,7 @@
     "message": "각 태세는 독특한 공격 패턴과 콤보를 제공합니다. 예를 들어, 필러 폼은 워쿤이 지팡이 위에 앉아 적을 내리치거나 회전 공격을 수행할 수 있게 합니다. 전투 중 태세를 전환하면 다양하고 유동적인 콤보를 가능하게 합니다."
   },
   "COMBAT STRATEGY IN BLACK MYTH: WUKONG": {
-    "message": "블랙 마시: 워쿤에서의 전투 전략"
+    "message": "블랙 마시: 워쿤 전투 전략"
   },
   "Unlike slower-paced Souls-like games, Black Myth: Wukong emphasizes speed and relentless offense. Players should:": {
     "message": "느린 페이스의 소울스러운 게임과 달리, 블랙 마시: 워쿤은 속도와 끊임없는 공격을 강조합니다. 플레이어들은 다음을 해야 합니다:"
@@ -60,7 +60,7 @@
     "message": "다양한 공격 전략을 위해 다른 태세와 능력을 결합하십시오"
   },
   "TRANSFORMATIONS IN BLACK MYTH: WUKONG": {
-    "message": "블랙 마시: 워쿤에서의 변신"
+    "message": "블랙 마시: 워쿤 변신"
   },
   "Sun Wukong can shapeshift into different forms, adding variety to combat encounters. Known transformations include:": {
     "message": "손오공은 다양한 형태로 변신할 수 있어 전투 만남에 다양성을 더합니다. 알려진 변신에는 다음이 포함됩니다:"
@@ -72,7 +72,7 @@
     "message": "강력한 공격을 위한 거대한 괴물"
   },
   "SPECIAL ABILITIES IN BLACK MYTH: WUKONG": {
-    "message": "블랙 마시: 워쿤에서의 특수 능력"
+    "message": "블랙 마시: 워쿤 특수 능력"
   },
   "The game features various special abilities, including:": {
     "message": "게임은 다양한 특수 능력을 특징으로 합니다:"
@@ -147,7 +147,7 @@
     "message": "블랙 미스트: 원숭이의 게임 플레이 및 기능"
   },
   "Black Myth: Wukong aims to provide an immersive experience with top-notch graphics, detailed environments, and engaging combat mechanics. The game features:": {
-    "message": "Black Myth: Wukong은 최고급 그래픽, 세밀한 환경, 그리고 매력적인 전투 메커니즘으로 몰입감 있는 경험을 제공하는 것을 목표로 합니다. 게임은 다음과 같은 특징을 가지고 있습니다:"
+    "message": "검은 신화: 오공은 최고급 그래픽, 세밀한 환경, 그리고 매력적인 전투 메커니즘으로 몰입감 있는 경험을 제공하는 것을 목표로 합니다. 게임은 다음과 같은 특징을 가지고 있습니다:"
   },
   "Stunning Visuals: Utilizing Unreal Engine 5, the game boasts high-quality graphics and realistic animations.": {
     "message": "놀라운 시각 효과: Unreal Engine 5를 활용하여 고품질 그래픽과 사실적인 애니메이션을 자랑합니다."
@@ -162,10 +162,10 @@
     "message": "탐험: 게임 세계는 넓고, 숨겨진 비밀, 다양한 풍경, 그리고 강력한 보스들로 가득 차 있습니다."
   },
   "SUN WUKONG SKILLS IN BLACK MYTH: WUKONG": {
-    "message": "BLACK MYTH: WUKONG의 손오공 스킬"
+    "message": "검은 신화: 오공의 손오공 스킬"
   },
   "In Black Myth: Wukong, Sun Wukong possesses a range of powerful abilities that not only faithfully recreate his capabilities from the original story but also enhance gameplay and challenge:": {
-    "message": "Black Myth: Wukong에서 손오공은 원작 이야기에서의 능력을 충실하게 재현할 뿐만 아니라 게임플레이와 도전을 향상시키는 다양한 강력한 능력을 보유하고 있습니다:"
+    "message": "검은 신화: 오공에서 손오공은 원작 이야기에서의 능력을 충실하게 재현할 뿐만 아니라 게임플레이와 도전을 향상시키는 다양한 강력한 능력을 보유하고 있습니다:"
   },
   "Ruyi Jingu Bang: Sun Wukong's iconic weapon can change size at will. In the game, players can use it for both melee attacks and long-range strikes, and even solve puzzles and overcome obstacles through its transformation.": {
     "message": "루이 진구 방: 손오공의 상징적인 무기는 원하는 대로 크기를 변경할 수 있습니다. 게임에서 플레이어는 이를 근접 공격과 원거리 공격에 사용할 수 있으며, 변형을 통해 퍼즐을 풀고 장애물을 극복할 수도 있습니다."
@@ -183,19 +183,19 @@
     "message": "화염의 눈: 능력 강화를 위한 스킬 트리를 특징으로 합니다."
   },
   "BLACK MYTH: WUKONG WALLPAPERS": {
-    "message": "BLACK MYTH: WUKONG 배경화면"
+    "message": "검은 신화: 오공 배경화면"
   },
   "WHEN DID BLACK MYTH: WUKONG RELEASE?": {
-    "message": "BLACK MYTH: WUKONG은 언제 출시되었나요?"
+    "message": "검은 신화: 오공 은 언제 출시되었나요?"
   },
   "Black Myth: Wukong is set to release on August 20, 2024. The game will launch simultaneously on PlayStation 5 and PC platforms, while the Xbox Series X/S version has been delayed with no specific release date announced yet.": {
-    "message": "Black Myth: Wukong은 2024년 8월 20일에 출시될 예정입니다. 게임은 PlayStation 5와 PC 플랫폼에서 동시에 출시될 것이며, Xbox Series X/S 버전은 아직 특정 출시일이 발표되지 않은 상태로 연기되었습니다."
+    "message": "검은 신화: 오공 은 2024년 8월 20일에 출시될 예정입니다. 게임은 PlayStation 5와 PC 플랫폼에서 동시에 출시될 것이며, Xbox Series X/S 버전은 아직 특정 출시일이 발표되지 않은 상태로 연기되었습니다."
   },
   "WHAT PLATFORMS IS BLACK MYTH: WUKONG ON?": {
-    "message": "BLACK MYTH: WUKONG은 어떤 플랫폼에서 이용할 수 있나요?"
+    "message": "검은 신화: 오공 은 어떤 플랫폼에서 이용할 수 있나요?"
   },
   "Black Myth: Wukong will be available on the following platforms:": {
-    "message": "Black Myth: Wukong은 다음 플랫폼에서 이용 가능합니다:"
+    "message": "검은 신화: 오공 은 다음 플랫폼에서 이용 가능합니다:"
   },
   "PlayStation 5": {
     "message": "PlayStation 5"
@@ -210,13 +210,13 @@
     "message": "이 게임은 2024년 8월 20일에 PS5와 PC에서 동시에 출시될 예정입니다. 하지만 Xbox Series X/S 버전은 연기되었으며, 개발자들이 플랫폼에 최적화하기 위해 작업 중입니다."
   },
   "HOW LONG HAVE THEY BEEN WORKING ON BLACK MYTH: WUKONG?": {
-    "message": "BLACK MYTH: WUKONG에 얼마나 오랫동안 작업해왔나요?"
+    "message": "검은 신화: 오공 에 얼마나 오랫동안 작업해왔나요?"
   },
   "Game Science, the developer of Black Myth: Wukong, began working on the game in 2017. The project was first revealed to the public on August 20, 2020, with a 13-minute pre-alpha gameplay video that quickly went viral, garnering millions of views on YouTube and Bilibili.": {
-    "message": "Black Myth: Wukong의 개발사인 Game Science는 2017년부터 이 게임 작업을 시작했습니다. 이 프로젝트는 2020년 8월 20일에 13분짜리 프리-알파 게임플레이 영상과 함께 대중에게 처음 공개되었으며, 이 영상은 빠르게 유행하며 YouTube와 Bilibili에서 수백만 뷰를 기록했습니다."
+    "message": "검은 신화: 오공 의 개발사인 Game Science는 2017년부터 이 게임 작업을 시작했습니다. 이 프로젝트는 2020년 8월 20일에 13분짜리 프리-알파 게임플레이 영상과 함께 대중에게 처음 공개되었으며, 이 영상은 빠르게 유행하며 YouTube와 Bilibili에서 수백만 뷰를 기록했습니다."
   },
   "BLACK MYTH: WUKONG SYSTEM REQUIREMENTS": {
-    "message": "BLACK MYTH: WUKONG 시스템 요구사항"
+    "message": "검은 신화: 오공 시스템 요구사항"
   },
   "Minimum Requirements": {
     "message": "최소 요구사항"
@@ -282,10 +282,10 @@
     "message": "RAM: 32 GB"
   },
   "LATEST BLACK MYTH: WUKONG NEWS": {
-    "message": "최신 BLACK MYTH: WUKONG 뉴스"
+    "message": "최신 검은 신화: 오공 뉴스"
   },
   "Black Myth: Wukong Pre-order Editions Detailed": {
-    "message": "Black Myth: Wukong 사전 예약 에디션 상세 정보"
+    "message": "검은 신화: 오공 사전 예약 에디션 상세 정보"
   },
   "Black Myth: Wukong has become the most wishlisted game on Steam. This achievement highlights the immense anticipation for this action RPG based on Chinese mythology. The game offers three pre-order editions:": {
     "message": "블랙 미스트: 워커옹이 스팀에서 가장 많이 찜된 게임이 되었습니다. 이 성과는 중국 신화를 기반으로 한 이 액션 RPG에 대한 엄청난 기대를 보여줍니다. 게임은 세 가지 사전 주문 에디션을 제공합니다:"
@@ -390,7 +390,7 @@
     "message": "놀라운 시각 효과"
   },
   "Developed using Unreal Engine 5, Black Myth: Wukong delivers breathtaking visual effects and smooth animations. The game's scenery draws inspiration from traditional Chinese culture, taking players through majestic mountains, dense forests, and mysterious ancient ruins, all imbued with a strong mythological atmosphere. Detailed character modeling and fluid action animations make every frame of the game look like a work of art.": {
-    "message": "Unreal Engine 5를 사용하여 개발된 블랙 미스트: 워콩은 눈부신 시각 효과와 부드러운 애니메이션을 제공합니다. 게임의 풍경은 전통적인 중국 문화에서 영감을 받아, 위엄 있는 산맥, 빽빽한 숲, 그리고 신비로운 고대 유적을 통해 플레이어들을 안내하며, 강한 신화적 분위기를 자아냅니다. 세밀한 캐릭터 모델링과 유동적인 액션 애니메이션은 게임의 모든 프레임이 예술 작품처럼 보이게 합니다."
+    "message": "Unreal Engine 5를 사용하여 개발된 검은 신화: 오공은 눈부신 시각 효과와 부드러운 애니메이션을 제공합니다. 게임의 풍경은 전통적인 중국 문화에서 영감을 받아, 위엄 있는 산맥, 빽빽한 숲, 그리고 신비로운 고대 유적을 통해 플레이어들을 안내하며, 강한 신화적 분위기를 자아냅니다. 세밀한 캐릭터 모델링과 유동적인 액션 애니메이션은 게임의 모든 프레임이 예술 작품처럼 보이게 합니다."
   },
   "Rich Cultural Depth": {
     "message": "풍부한 문화적 깊이"
@@ -399,10 +399,10 @@
     "message": "게임의 스토리라인은 중국 신화에 깊이 뿌리를 두고 있어, 플레이어들이 손오공이나 탕삼장과 같은 전통적인 캐릭터들과 상호작용할 수 있게 합니다. 이러한 문화적 깊이는 게임의 배경 이야기를 풍부하게 하는 것뿐만 아니라, 플레이어들이 게임을 즐기면서 전통적인 중국 문화의 매력을 경험할 수 있게 합니다."
   },
   "BLACK MYTH: WUKONG STORY OVERVIEW": {
-    "message": "블랙 미스트: 워콩 스토리 개요"
+    "message": "검은 신화: 오공 스토리 개요"
   },
   "Set in a mythical version of ancient China, Black Myth: Wukong draws its inspiration from the classic Chinese novel 'Journey to the West.' However, the game presents a unique interpretation of this well-known tale, blending familiar elements with new narrative twists.": {
-    "message": "고대 중국의 신화적인 버전에 설정된 블랙 미스트: 워콩은 고전 중국 소설 '서유기'에서 영감을 받았습니다. 그러나 이 게임은 이 잘 알려진 이야기에 대한 독특한 해석을 제시하며, 익숙한 요소와 새로운 이야기 전개를 결합합니다."
+    "message": "고대 중국의 신화적인 버전에 설정된 검은 신화: 오공은 고전 중국 소설 '서유기'에서 영감을 받았습니다. 그러나 이 게임은 이 잘 알려진 이야기에 대한 독특한 해석을 제시하며, 익숙한 요소와 새로운 이야기 전개를 결합합니다."
   },
   "Central Character": {
     "message": "중심 캐릭터"
@@ -725,7 +725,7 @@
     "message": "비디오"
   },
   "BLACK MYTH: WUKONG WIKI": {
-    "message": "BLACK MYTH: WUKONG WIKI"
+    "message": "검은 신화: 오공 WIKI"
   },
   "REAL MACHINE DEMONSTRATION": {
     "message": "실제 기계 시연"
@@ -786,5 +786,8 @@
   },
   "index.href": {
     "message": "/ko"
+  },
+  "heroImgSrc":{
+    "message": "https://image.informedainews.com/wukongwikiko.png"
   }
 }

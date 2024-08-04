@@ -31,13 +31,17 @@ const tagline3 = translate({
   message: ', encompassing its skills, weapons, background, characters, and more! '
 })
 
+const heroImgSrc = translate({
+  id: 'heroImgSrc',
+  message: 'https://image.informedainews.com/wukongwiki.png',
+})
+
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <section className="text-gray-300 body-font">
       <div className="container mx-auto flex pt-16 pb-16 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-10 md:pr-10 flex flex-col md:items-start md:text-left md:mb-0 items-center text-center">
-          <img alt="hero" src={require('@site/static/img/wukongwiki.png').default}/>
+          <img alt="hero" src={heroImgSrc}/>
           <p className="leading-relaxed text-lg mt-2">{tagline1}<span className={styles.descriptionTitle}> {tagline2} </span>{tagline3}</p>
           <p className="leading-relaxed text-lg">
             <Translate>Black Myth: WuKong is an action-adventure game inspired by the iconic character Sun Wukong from the classic Chinese literary masterpiece 'Journey to the West.'</Translate>
@@ -53,7 +57,6 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
       title={IndexTitle}

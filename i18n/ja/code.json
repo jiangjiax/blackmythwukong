@@ -6,25 +6,25 @@
     "message": "孫悟空、またの名を猿行者は、"
   },
   "patchnotes.tagline2": {
-    "message": "『ブラックミスト：悟空』"
+    "message": "『黒神話：悟空』"
   },
   "patchnotes.tagline3": {
     "message": "の主人公です。彼は中国の神話や文学、特に『西遊記』という小説で有名な伝説的な人物です。ゲームでは、プレイヤーは孫悟空として彼の伝説的な物語や刺激的な冒険を体験します。"
   },
   "BLACK MYTH WUKONG WIKI": {
-    "message": "ブラックミスト：悟空 ウィキペディア"
+    "message": "黒神話：悟空 ウィキペディア"
   },
   "GENERAL INFORMATION": {
     "message": "一般情報"
   },
   "DODGING IN BLACK MYTH: WUKONG": {
-    "message": "ブラックミスト：悟空における回避"
+    "message": "黒神話：悟空における回避"
   },
   "Dodging is a crucial defensive maneuver in Black Myth: Wukong. The game allows for near-instantaneous dodges, giving players the ability to quickly evade enemy attacks. However, it's important to manage your stamina, as excessive dodging can leave you vulnerable. As you progress, you can unlock a skill that creates a phantom copy when performing a perfect dodge, automatically counterattacking enemies.": {
-    "message": "回避は『ブラックミスト：悟空』において重要な防御行動です。ゲームではほぼ瞬時の回避が可能で、プレイヤーは敵の攻撃を素早くかわすことができます。しかし、過剰な回避は体力を消耗し、脆弱になる可能性があるため、体力の管理が重要です。進行するにつれて、完璧な回避を行うと幻影のコピーを作成し、敵に自動的に反撃するスキルを解禁できます。"
+    "message": "回避は『黒神話：悟空』において重要な防御行動です。ゲームではほぼ瞬時の回避が可能で、プレイヤーは敵の攻撃を素早くかわすことができます。しかし、過剰な回避は体力を消耗し、脆弱になる可能性があるため、体力の管理が重要です。進行するにつれて、完璧な回避を行うと幻影のコピーを作成し、敵に自動的に反撃するスキルを解禁できます。"
   },
   "STANCES AND WEAPON SKILLS IN BLACK MYTH: WUKONG": {
-    "message": "ブラックミスト：悟空における構えと武器スキル"
+    "message": "黒神話：悟空における構えと武器スキル"
   },
   "Combat revolves around Sun Wukong's magical staff, the Ruyi Jingu Bang. Players can switch between three different stances:": {
     "message": "戦闘は孫悟空の魔法の杖、如意金箍棒を中心に展開されます。プレイヤーは以下の3つの異なる構えを切り替えることができます："
@@ -42,10 +42,10 @@
     "message": "それぞれの構えは独自の攻撃パターンとコンボを提供します。例えば、ピラーフォームでは悟空は杖の上にとまり、敵に叩きつけたり、回転攻撃を行うことができます。戦闘中に構えを切り替えることで、多様で流動的なコンボが可能になります。"
   },
   "COMBAT STRATEGY IN BLACK MYTH: WUKONG": {
-    "message": "ブラックミスト：悟空における戦闘戦略"
+    "message": "黒神話：悟空における戦闘戦略"
   },
   "Unlike slower-paced Souls-like games, Black Myth: Wukong emphasizes speed and relentless offense. Players should:": {
-    "message": "ソウルライクゲームのようなゆっくりとしたペースとは異なり、『ブラックミスト：悟空』はスピードと容赦ない攻撃を重視しています。プレイヤーは以下を行うべきです："
+    "message": "ソウルライクゲームのようなゆっくりとしたペースとは異なり、『黒神話：悟空』はスピードと容赦ない攻撃を重視しています。プレイヤーは以下を行うべきです："
   },
   "Utilize Sun Wukong's agility to maintain pressure on enemies": {
     "message": "孫悟空の俊敏さを活用して敵に圧力をかける"
@@ -60,7 +60,7 @@
     "message": "異なる構えと能力を組み合わせて多様な攻撃戦略を立てる"
   },
   "TRANSFORMATIONS IN BLACK MYTH: WUKONG": {
-    "message": "ブラックミスト：悟空における変身"
+    "message": "黒神話：悟空における変身"
   },
   "Sun Wukong can shapeshift into different forms, adding variety to combat encounters. Known transformations include:": {
     "message": "孫悟空は異なる形態に変身することができ、戦闘の多様性を加えます。知られている変身には以下が含まれます："
@@ -72,7 +72,7 @@
     "message": "強力な攻撃のための巨大な怪物"
   },
   "SPECIAL ABILITIES IN BLACK MYTH: WUKONG": {
-    "message": "ブラックミスト：悟空における特殊能力"
+    "message": "黒神話：悟空における特殊能力"
   },
   "The game features various special abilities, including:": {
     "message": "ゲームにはさまざまな特殊能力があり、以下を含みます："
@@ -102,13 +102,13 @@
     "message": "ホームページ"
   },
   "homepage.tagline1": {
-    "message": "ブラックミストウーコンウィキガイド: 運命づけられたすべてのプレイヤーがゲームの詳細を深く掘り下げるのを支援します"
+    "message": "黒神話悟空百科事典ガイド：すべての天命人プレイヤーがゲーム"
   },
   "homepage.tagline2": {
-    "message": "ブラックミスト: ウーコン"
+    "message": "「黒神話：悟空」"
   },
   "homepage.tagline3": {
-    "message": "、そのスキル、武器、背景、キャラクターなどを含む！"
+    "message": "のあらゆる詳細を深く探求する手助けをします。スキル、武器、背景、キャラクターなどを網羅しています！"
   },
   "Black Myth: WuKong is an action-adventure game inspired by the iconic character Sun Wukong from the classic Chinese literary masterpiece 'Journey to the West.'": {
     "message": "ブラックミスト: ウーコンは、中国の古典文学傑作『西遊記』からインスパイアされたアクションアドベンチャーゲームです。"
@@ -147,7 +147,7 @@
     "message": "ブラックミスト: ウーコンのゲームプレイと特徴"
   },
   "Black Myth: Wukong aims to provide an immersive experience with top-notch graphics, detailed environments, and engaging combat mechanics. The game features:": {
-    "message": "Black Myth: Wukongは、最高クラスのグラフィックス、詳細な環境、魅力的な戦闘メカニクスを提供する没入型の体験を目指しています。ゲームの特徴:"
+    "message": "黒神話：悟空は、最高クラスのグラフィックス、詳細な環境、魅力的な戦闘メカニクスを提供する没入型の体験を目指しています。ゲームの特徴:"
   },
   "Stunning Visuals: Utilizing Unreal Engine 5, the game boasts high-quality graphics and realistic animations.": {
     "message": "驚くべきビジュアル: Unreal Engine 5を活用し、高品質のグラフィックスとリアルなアニメーションを誇ります。"
@@ -162,10 +162,10 @@
     "message": "探索: ゲームの世界は広大で、隠された秘密、多様な風景、そして手強いボスが満ちています。"
   },
   "SUN WUKONG SKILLS IN BLACK MYTH: WUKONG": {
-    "message": "BLACK MYTH: WUKONGにおける孫悟空のスキル"
+    "message": "黒神話：悟空における孫悟空のスキル"
   },
   "In Black Myth: Wukong, Sun Wukong possesses a range of powerful abilities that not only faithfully recreate his capabilities from the original story but also enhance gameplay and challenge:": {
-    "message": "Black Myth: Wukongでは、孫悟空は原作から忠実に再現された強力な能力を持ち、ゲームプレイと挑戦を強化します:"
+    "message": "黒神話：悟空では、孫悟空は原作から忠実に再現された強力な能力を持ち、ゲームプレイと挑戦を強化します:"
   },
   "Ruyi Jingu Bang: Sun Wukong's iconic weapon can change size at will. In the game, players can use it for both melee attacks and long-range strikes, and even solve puzzles and overcome obstacles through its transformation.": {
     "message": "如意金箍棒: 孫悟空の象徴的な武器は自由にサイズを変えることができます。ゲームでは、プレイヤーは近接攻撃と遠距離攻撃の両方に使用でき、さらにその変形を通じてパズルを解決し、障害を克服することもできます。"
@@ -183,19 +183,19 @@
     "message": "火眼金睛: 能力強化のためのスキルツリーを特徴とします。"
   },
   "BLACK MYTH: WUKONG WALLPAPERS": {
-    "message": "BLACK MYTH: WUKONG 壁紙"
+    "message": "黒神話：悟空 壁紙"
   },
   "WHEN DID BLACK MYTH: WUKONG RELEASE?": {
-    "message": "BLACK MYTH: WUKONGはいつリリースされましたか？"
+    "message": "黒神話：悟空はいつリリースされましたか？"
   },
   "Black Myth: Wukong is set to release on August 20, 2024. The game will launch simultaneously on PlayStation 5 and PC platforms, while the Xbox Series X/S version has been delayed with no specific release date announced yet.": {
-    "message": "Black Myth: Wukongは2024年8月20日にリリース予定です。ゲームはPlayStation 5およびPCプラットフォームで同時にリリースされますが、Xbox Series X/Sバージョンはリリース日が未発表のまま遅延しています。"
+    "message": "黒神話：悟空は2024年8月20日にリリース予定です。ゲームはPlayStation 5およびPCプラットフォームで同時にリリースされますが、Xbox Series X/Sバージョンはリリース日が未発表のまま遅延しています。"
   },
   "WHAT PLATFORMS IS BLACK MYTH: WUKONG ON?": {
-    "message": "BLACK MYTH: WUKONGはどのプラットフォームで利用できますか？"
+    "message": "黒神話：悟空はどのプラットフォームで利用できますか？"
   },
   "Black Myth: Wukong will be available on the following platforms:": {
-    "message": "Black Myth: Wukongは以下のプラットフォームで利用可能です:"
+    "message": "黒神話：悟空は以下のプラットフォームで利用可能です:"
   },
   "PlayStation 5": {
     "message": "PlayStation 5"
@@ -210,13 +210,13 @@
     "message": "このゲームは2024年8月20日にPS5とPCで同時にリリースされます。しかし、Xbox Series X/S版は遅延しており、開発者はプラットフォームに最適化するために作業を行っています。"
   },
   "HOW LONG HAVE THEY BEEN WORKING ON BLACK MYTH: WUKONG?": {
-    "message": "BLACK MYTH: WUKONGの開発にどれくらいの期間取り組んでいますか？"
+    "message": "黒神話：悟空の開発にどれくらいの期間取り組んでいますか？"
   },
   "Game Science, the developer of Black Myth: Wukong, began working on the game in 2017. The project was first revealed to the public on August 20, 2020, with a 13-minute pre-alpha gameplay video that quickly went viral, garnering millions of views on YouTube and Bilibili.": {
-    "message": "BLACK MYTH: WUKONGの開発元であるGame Scienceは、2017年からこのゲームの開発を開始しました。プロジェクトは2020年8月20日に13分間のプレアルファゲームプレイビデオとともに公開され、すぐにバイラルとなり、YouTubeやBilibiliで何百万もの視聴を集めました。"
+    "message": "黒神話：悟空の開発元であるGame Scienceは、2017年からこのゲームの開発を開始しました。プロジェクトは2020年8月20日に13分間のプレアルファゲームプレイビデオとともに公開され、すぐにバイラルとなり、YouTubeやBilibiliで何百万もの視聴を集めました。"
   },
   "BLACK MYTH: WUKONG SYSTEM REQUIREMENTS": {
-    "message": "BLACK MYTH: WUKONG システム要件"
+    "message": "黒神話：悟空 システム要件"
   },
   "Minimum Requirements": {
     "message": "最低要件"
@@ -282,13 +282,13 @@
     "message": "RAM: 32 GB"
   },
   "LATEST BLACK MYTH: WUKONG NEWS": {
-    "message": "最新のBLACK MYTH: WUKONGニュース"
+    "message": "最新の黒神話：悟空ニュース"
   },
   "Black Myth: Wukong Pre-order Editions Detailed": {
-    "message": "Black Myth: Wukong プレオーダー版の詳細"
+    "message": "黒神話：悟空 プレオーダー版の詳細"
   },
   "Black Myth: Wukong has become the most wishlisted game on Steam. This achievement highlights the immense anticipation for this action RPG based on Chinese mythology. The game offers three pre-order editions:": {
-    "message": "『Black Myth: Wukong』がSteamで最もウィッシュリストに入れられたゲームとなりました。この成果は、中国神話に基づくこのアクションRPGに対する大きな期待を示しています。ゲームは3つのプレオーダー版を提供しています："
+    "message": "『黒神話：悟空』がSteamで最もウィッシュリストに入れられたゲームとなりました。この成果は、中国神話に基づくこのアクションRPGに対する大きな期待を示しています。ゲームは3つのプレオーダー版を提供しています："
   },
   "Digital Edition ($69.99): Includes various in-game items and a digital soundtrack.": {
     "message": "デジタル版（$69.99）：様々なゲーム内アイテムとデジタルサウンドトラックが含まれます。"
@@ -300,16 +300,16 @@
     "message": "コレクターズエディション（$399）：40cmの孫悟空像、シルクスクロール、そして多数のプレミアムコレクティブルが含まれています。"
   },
   "Black Myth: Wukong Pre-order Sales Milestone": {
-    "message": "『Black Myth: Wukong』プレオーダー売上マイルストーン"
+    "message": "『黒神話：悟空』プレオーダー売上マイルストーン"
   },
   "Reports indicate that Black Myth: Wukong received 1.1 million pre-orders within days of opening physical and digital pre-orders on June 8th and 11th, demonstrating the game's massive appeal.": {
-    "message": "報告によると、『Black Myth: Wukong』は6月8日と11日に物理的およびデジタルプレオーダーを開始してから数日で110万件のプレオーダーを受け取り、ゲームの大きな魅力を示しています。"
+    "message": "報告によると、『黒神話：悟空』は6月8日と11日に物理的およびデジタルプレオーダーを開始してから数日で110万件のプレオーダーを受け取り、ゲームの大きな魅力を示しています。"
   },
   "Development Progress": {
     "message": "開発進捗"
   },
   "Game Science, the developer, has stated that Black Myth: Wukong is being developed using Unreal Engine 5 and is the first game to simultaneously use this engine and NVIDIA's DLSS technology, promising exceptional visual experiences.": {
-    "message": "開発者であるGame Scienceは、『Black Myth: Wukong』がUnreal Engine 5を使用して開発されており、このエンジンとNVIDIAのDLSS技術を同時に使用する最初のゲームであり、卓越した視覚体験を約束しています。"
+    "message": "開発者であるGame Scienceは、『黒神話：悟空』がUnreal Engine 5を使用して開発されており、このエンジンとNVIDIAのDLSS技術を同時に使用する最初のゲームであり、卓越した視覚体験を約束しています。"
   },
   "Sweet Baby Controversy": {
     "message": "Sweet Baby論争"
@@ -318,13 +318,13 @@
     "message": "背景"
   },
   "Recently, a controversy erupted between Black Myth: Wukong and Sweet Baby studio. Sweet Baby is a consultancy firm that provides political correctness guidance to game developers, ensuring game content meets certain social and cultural standards.": {
-    "message": "最近、『Black Myth: Wukong』とSweet Babyスタジオの間で論争が勃発しました。Sweet Babyは、ゲーム開発者に政治的正確性のガイダンスを提供するコンサルティング会社であり、ゲームのコンテンツが特定の社会的および文化的基準を満たすことを保証します。"
+    "message": "最近、『黒神話：悟空』とSweet Babyスタジオの間で論争が勃発しました。Sweet Babyは、ゲーム開発者に政治的正確性のガイダンスを提供するコンサルティング会社であり、ゲームのコンテンツが特定の社会的および文化的基準を満たすことを保証します。"
   },
   "Controversy Details": {
     "message": "論争の詳細"
   },
   "According to reports, Sweet Baby demanded a $7 million \"guidance fee\" from Game Science, the developers of Black Myth: Wukong, to ensure the game adheres to their political correctness standards. Game Science reportedly refused this demand.": {
-    "message": "報告によると、Sweet Babyは『Black Myth: Wukong』の開発者であるGame Scienceに700万ドルの「ガイダンス料」を要求し、ゲームが彼らの政治的正確性基準に従うことを保証しました。Game Scienceはこの要求を拒否したと報告されています。"
+    "message": "報告によると、Sweet Babyは『黒神話：悟空』の開発者であるGame Scienceに700万ドルの「ガイダンス料」を要求し、ゲームが彼らの政治的正確性基準に従うことを保証しました。Game Scienceはこの要求を拒否したと報告されています。"
   },
   "Media Attacks": {
     "message": "メディア攻撃"
@@ -348,19 +348,19 @@
     "message": "将来の見通し"
   },
   "Despite the controversy, Black Myth: Wukong remains one of the most anticipated games of 2024. Players are eager to explore its rich Chinese mythological world and experience its unique combat system and transformation abilities. More game details are expected to be revealed as the release date nears.": {
-    "message": "論争にもかかわらず、Black Myth: Wukongは2024年最も期待されているゲームの一つです。プレイヤーはその豊かな中国神話の世界を探求し、独自の戦闘システムと変身能力を体験することを熱望しています。リリース日が近づくにつれて、より多くのゲームの詳細が明らかになることが期待されています。"
+    "message": "論争にもかかわらず、黒神話：悟空は2024年最も期待されているゲームの一つです。プレイヤーはその豊かな中国神話の世界を探求し、独自の戦闘システムと変身能力を体験することを熱望しています。リリース日が近づくにつれて、より多くのゲームの詳細が明らかになることが期待されています。"
   },
   "BLACK MYTH: WUKONG GAMEPLAY": {
-    "message": "ブラック神話：悟空 ゲームプレイ"
+    "message": "黒神話：悟空 ゲームプレイ"
   },
   "Black Myth: Wukong, developed by Game Science, is a highly anticipated action role-playing game set to release on August 20, 2024. Based on the classic Chinese novel 'Journey to the West,' the game promises to deliver an immersive experience rich in Chinese mythology.": {
-    "message": "Black Myth: Wukongは、Game Scienceによって開発された、2024年8月20日にリリース予定の非常に期待されているアクションロールプレイングゲームです。古典中国小説『西遊記』に基づいており、中国神話に富んだ没入感ある体験を約束しています。"
+    "message": "黒神話：悟空は、Game Scienceによって開発された、2024年8月20日にリリース予定の非常に期待されているアクションロールプレイングゲームです。古典中国小説『西遊記』に基づいており、中国神話に富んだ没入感ある体験を約束しています。"
   },
   "Dynamic Combat System": {
     "message": "ダイナミックな戦闘システム"
   },
   "Black Myth: Wukong boasts a sophisticated combat system that combines fast-paced action with fluid movements. Players will wield the legendary Ruyi Jingu Bang staff, executing diverse attacks and combos. The combat encourages players to utilize agile movements and tactical thinking, leveraging the environment to gain advantages. This creates a unique and engaging fighting style that promises to keep players on their toes.": {
-    "message": "Black Myth: Wukongは、速いペースのアクションと流動的な動きを組み合わせた洗練された戦闘システムを誇ります。プレイヤーは伝説の如意金箍棒を振るい、多様な攻撃とコンボを実行します。戦闘はプレイヤーに俊敏な動きと戦術的思考を活用することを促し、環境を利用して優位を得ることができます。これにより、プレイヤーを常に緊張させる独自の魅力的な戦闘スタイルが生まれます。"
+    "message": "黒神話：悟空は、速いペースのアクションと流動的な動きを組み合わせた洗練された戦闘システムを誇ります。プレイヤーは伝説の如意金箍棒を振るい、多様な攻撃とコンボを実行します。戦闘はプレイヤーに俊敏な動きと戦術的思考を活用することを促し、環境を利用して優位を得ることができます。これにより、プレイヤーを常に緊張させる独自の魅力的な戦闘スタイルが生まれます。"
   },
   "Transformation Abilities": {
     "message": "変身能力"
@@ -372,7 +372,7 @@
     "message": "包括的なキャラクター進化"
   },
   "Black Myth: Wukong implements a rich skill tree system, allowing players to continuously upgrade their character and unlock new abilities throughout the game. This progression mechanism enables players to customize their gameplay style, choosing skill combinations that suit their preferences. As characters grow stronger, players will experience more powerful abilities and increasingly complex combat strategies, enhancing the game's replay value.": {
-    "message": "『Black Myth: Wukong』は、豊富なスキルツリーシステムを実装し、プレイヤーがゲーム中にキャラクターを継続的にアップグレードし、新しい能力を解禁できるようにします。この進行メカニズムにより、プレイヤーは自分の好みに合わせたスキルの組み合わせを選択し、ゲームプレイスタイルをカスタマイズできます。キャラクターが強くなるにつれて、プレイヤーはより強力な能力と、ますます複雑な戦闘戦略を体験し、ゲームのリプレイ価値を高めます。"
+    "message": "『黒神話：悟空』は、豊富なスキルツリーシステムを実装し、プレイヤーがゲーム中にキャラクターを継続的にアップグレードし、新しい能力を解禁できるようにします。この進行メカニズムにより、プレイヤーは自分の好みに合わせたスキルの組み合わせを選択し、ゲームプレイスタイルをカスタマイズできます。キャラクターが強くなるにつれて、プレイヤーはより強力な能力と、ますます複雑な戦闘戦略を体験し、ゲームのリプレイ価値を高めます。"
   },
   "Impressive Boss Battles": {
     "message": "印象的なボスバトル"
@@ -384,13 +384,13 @@
     "message": "豊富な探索要素"
   },
   "While the main storyline follows a linear progression, Black Myth: Wukong features vast areas for exploration. Players are encouraged to investigate every corner, discovering hidden items, facing elite enemies, and uncovering more about the game's mythological world. This exploration element enhances the game's immersion and ensures that each playthrough is filled with surprises.": {
-    "message": "メインストーリーが直線的な進行をたどる中で、『Black Myth: Wukong』は広大な探索エリアを提供します。プレイヤーはあらゆる隅を調査し、隠されたアイテムを発見し、エリート敵と対峙し、ゲームの神話的世界についてより多くを明らかにすることを奨励されます。この探索要素はゲームの没入感を高め、各プレイスルーが驚きで満たされることを保証します。"
+    "message": "メインストーリーが直線的な進行をたどる中で、『黒神話：悟空』は広大な探索エリアを提供します。プレイヤーはあらゆる隅を調査し、隠されたアイテムを発見し、エリート敵と対峙し、ゲームの神話的世界についてより多くを明らかにすることを奨励されます。この探索要素はゲームの没入感を高め、各プレイスルーが驚きで満たされることを保証します。"
   },
   "Stunning Visual Effects": {
     "message": "驚くべき視覚効果"
   },
   "Developed using Unreal Engine 5, Black Myth: Wukong delivers breathtaking visual effects and smooth animations. The game's scenery draws inspiration from traditional Chinese culture, taking players through majestic mountains, dense forests, and mysterious ancient ruins, all imbued with a strong mythological atmosphere. Detailed character modeling and fluid action animations make every frame of the game look like a work of art.": {
-    "message": "Unreal Engine 5を使用して開発された『Black Myth: Wukong』は、息をのむような視覚効果と滑らかなアニメーションを提供します。ゲームのシーンは、伝統的な中国文化からインスピレーションを受け、雄大な山々、茂密な森、神秘的な古代遺跡を通してプレイヤーを連れて行きます。詳細なキャラクターモデリングと流動的なアクションアニメーションにより、ゲームのフレームはどれも芸術作品のように見えます。"
+    "message": "Unreal Engine 5を使用して開発された『黒神話：悟空』は、息をのむような視覚効果と滑らかなアニメーションを提供します。ゲームのシーンは、伝統的な中国文化からインスピレーションを受け、雄大な山々、茂密な森、神秘的な古代遺跡を通してプレイヤーを連れて行きます。詳細なキャラクターモデリングと流動的なアクションアニメーションにより、ゲームのフレームはどれも芸術作品のように見えます。"
   },
   "Rich Cultural Depth": {
     "message": "豊かな文化的深度"
@@ -402,7 +402,7 @@
     "message": "『黑神话悟空』ストーリーオーバービュー"
   },
   "Set in a mythical version of ancient China, Black Myth: Wukong draws its inspiration from the classic Chinese novel 'Journey to the West.' However, the game presents a unique interpretation of this well-known tale, blending familiar elements with new narrative twists.": {
-    "message": "古代中国の神話的なバージョンに設定された『Black Myth: Wukong』は、古典的な中国小説『西遊記』からインスピレーションを受けています。しかし、ゲームはこのよく知られた物語に独自の解釈を加え、馴染み深い要素と新しいナラティブのひねりを組み合わせています。"
+    "message": "古代中国の神話的なバージョンに設定された『黒神話：悟空』は、古典的な中国小説『西遊記』からインスピレーションを受けています。しかし、ゲームはこのよく知られた物語に独自の解釈を加え、馴染み深い要素と新しいナラティブのひねりを組み合わせています。"
   },
   "Central Character": {
     "message": "主要キャラクター"
@@ -725,7 +725,7 @@
     "message": "ビデオ"
   },
   "BLACK MYTH: WUKONG WIKI": {
-    "message": "BLACK MYTH: WUKONG WIKI"
+    "message": "黒神話：悟空 WIKI"
   },
   "REAL MACHINE DEMONSTRATION": {
     "message": "実機デモンストレーション"
@@ -786,5 +786,8 @@
   },
   "index.href": {
     "message": "/ja"
+  },
+  "heroImgSrc":{
+    "message": "https://image.informedainews.com/wukongwikicn.png"
   }
 }

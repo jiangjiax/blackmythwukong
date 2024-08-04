@@ -102,13 +102,13 @@
     "message": "首頁"
   },
   "homepage.tagline1": {
-    "message": "黑神話悟空百科指南：協助所有天命人玩家深入探索遊戲的每一個細節"
+    "message": "黑神話悟空百科指南：協助所有天命人玩家深入探索遊戲"
   },
   "homepage.tagline2": {
     "message": "黑神話：悟空"
   },
   "homepage.tagline3": {
-    "message": "，涵蓋其技能、武器、背景、角色等！"
+    "message": "的每一個細節，涵蓋其技能、武器、背景、角色等！"
   },
   "Black Myth: WuKong is an action-adventure game inspired by the iconic character Sun Wukong from the classic Chinese literary masterpiece 'Journey to the West.'": {
     "message": "《黑神話：悟空》是一款動作冒險遊戲，靈感來自中國古典文學巨著《西遊記》中的標誌性角色孫悟空。"
@@ -786,5 +786,8 @@
   },
   "index.href": {
     "message": "/zh-TW"
+  },
+  "heroImgSrc":{
+    "message": "https://image.informedainews.com/wukongwikicn.png"
   }
 }
