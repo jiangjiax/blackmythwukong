@@ -182,7 +182,7 @@
   "Fiery Eyes: Features skill trees for ability enhancement.": {
     "message": "화염의 눈: 능력 강화를 위한 스킬 트리를 특징으로 합니다."
   },
-  "BLACK MYTH: WUKONG WALLPAPERS": {
+  "BLACK MYTH: WUKONG WIKI WALLPAPERS": {
     "message": "검은 신화: 오공 배경화면"
   },
   "WHEN DID BLACK MYTH: WUKONG RELEASE?": {
@@ -288,7 +288,7 @@
     "message": "검은 신화: 오공 사전 예약 에디션 상세 정보"
   },
   "Black Myth: Wukong has become the most wishlisted game on Steam. This achievement highlights the immense anticipation for this action RPG based on Chinese mythology. The game offers three pre-order editions:": {
-    "message": "블랙 미스트: 워커옹이 스팀에서 가장 많이 찜된 게임이 되었습니다. 이 성과는 중국 신화를 기반으로 한 이 액션 RPG에 대한 엄청난 기대를 보여줍니다. 게임은 세 가지 사전 주문 에디션을 제공합니다:"
+    "message": "블랙 검은 신화: 오공 스팀에서 가장 많이 찜된 게임이 되었습니다. 이 성과는 중국 신화를 기반으로 한 이 액션 RPG에 대한 엄청난 기대를 보여줍니다. 게임은 세 가지 사전 주문 에디션을 제공합니다:"
   },
   "Digital Edition ($69.99): Includes various in-game items and a digital soundtrack.": {
     "message": "디지털 에디션 ($69.99): 다양한 게임 내 아이템과 디지털 사운드트랙을 포함합니다."
@@ -300,16 +300,16 @@
     "message": "컬렉터스 에디션 ($399): 40cm 손 오공 동상, 비단 스크롤, 그리고 수많은 프리미엄 수집품을 포함합니다."
   },
   "Black Myth: Wukong Pre-order Sales Milestone": {
-    "message": "블랙 미스트: 워커옹 사전 주문 판매 이정표"
+    "message": "블랙 검은 신화: 오공 사전 주문 판매 이정표"
   },
   "Reports indicate that Black Myth: Wukong received 1.1 million pre-orders within days of opening physical and digital pre-orders on June 8th and 11th, demonstrating the game's massive appeal.": {
-    "message": "보고서에 따르면 블랙 미스트: 워커옹은 6월 8일과 11일에 물리적 및 디지털 사전 주문을 시작한 지 며칠 만에 110만 건의 사전 주문을 받았으며, 게임의 엄청난 인기를 입증했습니다."
+    "message": "보고서에 따르면 블랙 검은 신화: 오공 6월 8일과 11일에 물리적 및 디지털 사전 주문을 시작한 지 며칠 만에 110만 건의 사전 주문을 받았으며, 게임의 엄청난 인기를 입증했습니다."
   },
-  "Development Progress": {
-    "message": "개발 진행 상황"
+  "Black Myth: Wukong Development Progress": {
+    "message": "검은 신화: 오공 개발 진행 상황"
   },
   "Game Science, the developer, has stated that Black Myth: Wukong is being developed using Unreal Engine 5 and is the first game to simultaneously use this engine and NVIDIA's DLSS technology, promising exceptional visual experiences.": {
-    "message": "개발사인 게임 사이언스는 블랙 미스트: 워커옹이 언리얼 엔진 5를 사용하여 개발되고 있으며, 이 엔진과 NVIDIA의 DLSS 기술을 동시에 사용하는 최초의 게임으로, 뛰어난 시각적 경험을 약속한다고 밝혔습니다."
+    "message": "개발사인 게임 사이언스는 블랙 검은 신화: 오공 언리얼 엔진 5를 사용하여 개발되고 있으며, 이 엔진과 NVIDIA의 DLSS 기술을 동시에 사용하는 최초의 게임으로, 뛰어난 시각적 경험을 약속한다고 밝혔습니다."
   },
   "Sweet Baby Controversy": {
     "message": "스위트 베이비 논란"
@@ -318,19 +318,19 @@
     "message": "배경"
   },
   "Recently, a controversy erupted between Black Myth: Wukong and Sweet Baby studio. Sweet Baby is a consultancy firm that provides political correctness guidance to game developers, ensuring game content meets certain social and cultural standards.": {
-    "message": "최근 블랙 미스트: 워커옹과 스위트 베이비 스튜디오 사이에 논란이 발생했습니다. 스위트 베이비는 게임 개발자들에게 정치적 올바름 지침을 제공하는 컨설팅 회사로, 게임 콘텐츠가 특정 사회 및 문화 기준을 충족하는지 확인합니다."
+    "message": "최근 블랙 검은 신화: 오공 스위트 베이비 스튜디오 사이에 논란이 발생했습니다. 스위트 베이비는 게임 개발자들에게 정치적 올바름 지침을 제공하는 컨설팅 회사로, 게임 콘텐츠가 특정 사회 및 문화 기준을 충족하는지 확인합니다."
   },
   "Controversy Details": {
     "message": "논란 세부 사항"
   },
   "According to reports, Sweet Baby demanded a $7 million \"guidance fee\" from Game Science, the developers of Black Myth: Wukong, to ensure the game adheres to their political correctness standards. Game Science reportedly refused this demand.": {
-    "message": "보고서에 따르면, 스위트 베이비는 블랙 미스트: 워커옹의 개발사인 게임 사이언스에게 게임이 그들의 정치적 올바름 기준을 준수하는지 확인하기 위해 700만 달러의 \"지침료\"를 요구했습니다. 게임 사이언스는 이 요구를 거부했다고 알려져 있습니다."
+    "message": "보고서에 따르면, 스위트 베이비는 블랙 검은 신화: 오공 개발사인 게임 사이언스에게 게임이 그들의 정치적 올바름 기준을 준수하는지 확인하기 위해 700만 달러의 \"지침료\"를 요구했습니다. 게임 사이언스는 이 요구를 거부했다고 알려져 있습니다."
   },
   "Media Attacks": {
     "message": "미디어 공격"
   },
   "Following the refusal to pay, Game Science claims they've been subjected to continuous attacks and defamation from Western media. These attacks allegedly include accusations of gender discrimination in the game. Sweet Baby is accused of using its media influence to tarnish Black Myth: Wukong's reputation in retaliation for the refused payment.": {
-    "message": "지불을 거부한 후, 게임 사이언스는 서양 언론으로부터 지속적인 공격과 비방을 받았다고 주장합니다. 이 공격에는 게임 내 성별 차별에 대한 비판이 포함되어 있다고 합니다. 스위트 베이비는 거부된 지불에 대한 보복으로 미디어 영향력을 사용하여 블랙 미스트: 워커옹의 평판을 훼손했다는 비난을 받고 있습니다."
+    "message": "지불을 거부한 후, 게임 사이언스는 서양 언론으로부터 지속적인 공격과 비방을 받았다고 주장합니다. 이 공격에는 게임 내 성별 차별에 대한 비판이 포함되어 있다고 합니다. 스위트 베이비는 거부된 지불에 대한 보복으로 미디어 영향력을 사용하여 블랙 검은 신화: 오공 평판을 훼손했다는 비난을 받고 있습니다."
   },
   "Community Reaction": {
     "message": "커뮤니티 반응"

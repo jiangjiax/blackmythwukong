@@ -23,7 +23,7 @@ export default function HomeVideos() {
     <section className="text-gray-400 body-font">
       <div className="container pt-10 pb-10 mx-auto flex flex-wrap">
         <div className="flex flex-col text-center w-full mb-3">
-          <h2 className="text-base text-yellow-400 tracking-widest font-medium title-font mb-1"><Translate>Videos</Translate></h2>
+          <p className="text-base text-yellow-400 tracking-widest font-medium title-font mb-1"><Translate>Videos</Translate></p>
           <h1 className="sm:text-3xl text-2xl font-medium title-font text-white"><Translate>BLACK MYTH: WUKONG WIKI</Translate></h1>
         </div>
         <div className="flex flex-wrap w-full justify-center">
