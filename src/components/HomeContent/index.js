@@ -46,16 +46,16 @@ export default function HomeContent() {
             </div>
             <div className='text-gray-100'>
               <Translate>Set in a mythical version of ancient China, Black Myth: Wukong draws its inspiration from the classic Chinese novel 'Journey to the West.' However, the game presents a unique interpretation of this well-known tale, blending familiar elements with new narrative twists.</Translate>
-              <h3 className='text-xl mt-4'><Translate>Central Character</Translate></h3>
+              <h3 className='text-xl mt-4'><Translate>Central Character In Black Myth: Wukong</Translate></h3>
               <Translate>The player takes on the role of the "Destined One," a character based on Sun Wukong, the legendary Monkey King. While sharing similarities with the novel is protagonist, this version of Wukong is shrouded in mystery, with his true identity and purpose gradually revealed throughout the game.</Translate>
               <img src="/img/boss2.jpg" alt="Black Myth: Wukong Gameplay" className="mt-3" />
-              <h3 className='text-xl mt-4'><Translate>Setting and World</Translate></h3>
+              <h3 className='text-xl mt-4'><Translate>Setting and World In Black Myth: Wukong</Translate></h3>
               <Translate>The game world is a vast, perilous landscape filled with mythical creatures, ancient ruins, and supernatural phenomena. Players will journey through diverse environments, from misty mountains and dense forests to hidden temples and celestial realms. Each area is steeped in Chinese mythology, offering a rich tapestry of lore and history to uncover.</Translate>
               <img src="/img/combat2.jpg" alt="Black Myth: Wukong Gameplay" className="mt-3" />
-              <h3 className='text-xl mt-4'><Translate>Main Quest</Translate></h3>
+              <h3 className='text-xl mt-4'><Translate>Main Quest In Black Myth: Wukong</Translate></h3>
               <Translate>The Destined One embarks on a dangerous journey to uncover the truth behind ancient legends. This quest is not just about reaching the West, as in the original story, but about uncovering hidden truths that could reshape the understanding of the world and the protagonist's place in it.</Translate>
               <img src="/img/transformation.jpg" alt="Black Myth: Wukong Gameplay" className="mt-3" />
-              <h3 className='text-xl mt-4'><Translate>Antagonists</Translate></h3>
+              <h3 className='text-xl mt-4'><Translate>Antagonists In Black Myth: Wukong</Translate></h3>
               <Translate>The game features a variety of antagonists, from rival demon kings and jealous deities to corrupted heroes and cosmic entities. Each adversary presents unique challenges and contributes to the overall narrative.</Translate>
               <img src="/img/bosss.jpg" alt="Black Myth: Wukong Gameplay" className="mt-3" />
               <h3 className='text-xl mt-4'><Translate>Conclusion</Translate></h3>

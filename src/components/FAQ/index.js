@@ -92,7 +92,7 @@ export default function FAQ() {
               </ul>
               <h3 className='text-xl mt-4'><Translate>Black Myth: Wukong Pre-order Sales Milestone</Translate></h3>
               <Translate>Reports indicate that Black Myth: Wukong received 1.1 million pre-orders within days of opening physical and digital pre-orders on June 8th and 11th, demonstrating the game's massive appeal.</Translate>
-              <h3 className='text-xl mt-4'><Translate>Black Myth: Wukong Black Myth: Wukong Development Progress</Translate></h3>
+              <h3 className='text-xl mt-4'><Translate>Black Myth: Wukong Development Progress</Translate></h3>
               <Translate>Game Science, the developer, has stated that Black Myth: Wukong is being developed using Unreal Engine 5 and is the first game to simultaneously use this engine and NVIDIA's DLSS technology, promising exceptional visual experiences.</Translate>
               <h3 className='text-xl mt-4'><Translate>Sweet Baby Controversy</Translate></h3>
               <h4 className='text-lg mt-4'><Translate>Background</Translate></h4>
