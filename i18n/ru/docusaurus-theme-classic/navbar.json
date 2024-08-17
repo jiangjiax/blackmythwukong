@@ -1,10 +1,66 @@
 {
   "title": {
-    "message": "BLACK MYTH WUKONG WIKI",
+    "message": "ЧЕРНАЯ МИФОЛОГИЯ ВУКОНГ ВИКИ",
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "BLACK MYTH WUKONG WIKI",
+    "message": "ЧЕРНАЯ МИФОЛОГИЯ ВУКОНГ ВИКИ",
     "description": "The alt text of navbar logo"
+  },
+  "item.label.GENERAL INFORMATION": {
+    "message": "ОБЩАЯ ИНФОРМАЦИЯ",
+    "description": "Navbar item with label GENERAL INFORMATION"
+  },
+  "item.label.CHARACTER INFORMATION": {
+    "message": "ИНФОРМАЦИЯ О ПЕРСОНАЖАХ",
+    "description": "Navbar item with label CHARACTER INFORMATION"
+  },
+  "item.label.WORLD INFORMATION": {
+    "message": "ИНФОРМАЦИЯ О МИРЕ",
+    "description": "Navbar item with label WORLD INFORMATION"
+  },
+  "item.label.Combat": {
+    "message": "Бой",
+    "description": "Navbar item with label Combat"
+  },
+  "item.label.Gameplay": {
+    "message": "Геймплей",
+    "description": "Navbar item with label Gameplay"
+  },
+  "item.label.FAQs & News": {
+    "message": "ЧАВО и Новости",
+    "description": "Navbar item with label FAQs & News"
+  },
+  "item.label.Wallpapers": {
+    "message": "Обои",
+    "description": "Navbar item with label Wallpapers"
+  },
+  "item.label.Sun WuKong": {
+    "message": "Сунь Укун",
+    "description": "Navbar item with label Sun WuKong"
+  },
+  "item.label.Stats": {
+    "message": "Характеристики",
+    "description": "Navbar item with label Stats"
+  },
+  "item.label.Spells": {
+    "message": "Заклинания",
+    "description": "Navbar item with label Spells"
+  },
+  "item.label.Equip": {
+    "message": "Экипировка",
+    "description": "Navbar item with label Equip"
+  },
+  "item.label.Maps": {
+    "message": "Карты",
+    "description": "Navbar item with label Maps"
+  },
+  "item.label.Bosses": {
+    "message": "Боссы",
+    "description": "Navbar item with label Bosses"
+  },
+  "item.label.Back Story": {
+    "message": "Предыстория",
+    "description": "Navbar item with label Back Story"
   }
 }

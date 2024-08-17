@@ -69,7 +69,7 @@ function Content() {
                             </h2>
                         </div>
                         <div className='text-gray-100'>
-                            <Translate>Combat revolves around Sun Wukong's magical staff, the Ruyi Jingu Bang. Players can switch between three different stances:</Translate>
+                            <Translate>Combat revolves around Sun Wukong's spellsal staff, the Ruyi Jingu Bang. Players can switch between three different stances:</Translate>
                             <ul className='mt-1 mb-1'>
                                 <li><Translate>Smash Form</Translate></li>
                                 <li><Translate>Pillar Form</Translate></li>

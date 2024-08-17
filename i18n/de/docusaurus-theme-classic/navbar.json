@@ -6,5 +6,61 @@
   "logo.alt": {
     "message": "BLACK MYTH WUKONG WIKI",
     "description": "The alt text of navbar logo"
+  },
+  "item.label.GENERAL INFORMATION": {
+    "message": "ALLGEMEINE INFORMATIONEN",
+    "description": "Navbar item with label GENERAL INFORMATION"
+  },
+  "item.label.CHARACTER INFORMATION": {
+    "message": "CHARAKTERINFORMATIONEN",
+    "description": "Navbar item with label CHARACTER INFORMATION"
+  },
+  "item.label.WORLD INFORMATION": {
+    "message": "WELTINFORMATIONEN",
+    "description": "Navbar item with label WORLD INFORMATION"
+  },
+  "item.label.Combat": {
+    "message": "Kampf",
+    "description": "Navbar item with label Combat"
+  },
+  "item.label.Gameplay": {
+    "message": "Spielmechanik",
+    "description": "Navbar item with label Gameplay"
+  },
+  "item.label.FAQs & News": {
+    "message": "FAQs & Neuigkeiten",
+    "description": "Navbar item with label FAQs & News"
+  },
+  "item.label.Wallpapers": {
+    "message": "Hintergrundbilder",
+    "description": "Navbar item with label Wallpapers"
+  },
+  "item.label.Sun WuKong": {
+    "message": "Sun WuKong",
+    "description": "Navbar item with label Sun WuKong"
+  },
+  "item.label.Stats": {
+    "message": "Statistiken",
+    "description": "Navbar item with label Stats"
+  },
+  "item.label.Spells": {
+    "message": "Zauber",
+    "description": "Navbar item with label Spells"
+  },
+  "item.label.Equip": {
+    "message": "Ausrüstung",
+    "description": "Navbar item with label Equip"
+  },
+  "item.label.Maps": {
+    "message": "Karten",
+    "description": "Navbar item with label Maps"
+  },
+  "item.label.Bosses": {
+    "message": "Bosse",
+    "description": "Navbar item with label Bosses"
+  },
+  "item.label.Back Story": {
+    "message": "Hintergrundgeschichte",
+    "description": "Navbar item with label Back Story"
   }
 }

@@ -7,6 +7,10 @@
     "message": "INFORMACJE O POSTACI",
     "description": "The title of the footer links column with title=CHARACTER INFORMATION in the footer"
   },
+  "link.title.WORLD INFORMATION": {
+    "message": "INFORMACJE O ŚWIECIE",
+    "description": "The title of the footer links column with title=WORLD INFORMATION in the footer"
+  },
   "link.title.More": {
     "message": "Więcej",
     "description": "The title of the footer links column with title=More in the footer"
@@ -15,16 +19,48 @@
     "message": "Walka",
     "description": "The label of footer link with label=Combat linking to /combat"
   },
-  "link.item.label.SUN WUKONG": {
-    "message": "SUN WUKONG",
-    "description": "The label of footer link with label=SUN WUKONG linking to /sunwukong"
+  "link.item.label.Gameplay": {
+    "message": "Rozgrywka",
+    "description": "The label of footer link with label=Gameplay linking to /#gameplay"
+  },
+  "link.item.label.FAQs & News": {
+    "message": "FAQs & Aktualności",
+    "description": "The label of footer link with label=FAQs & News linking to /#faq"
+  },
+  "link.item.label.Wallpapers": {
+    "message": "Tapety",
+    "description": "The label of footer link with label=Wallpapers linking to /#wallpapers"
+  },
+  "link.item.label.Sun WuKong": {
+    "message": "Sun WuKong",
+    "description": "The label of footer link with label=Sun WuKong linking to /combat"
+  },
+  "link.item.label.Stats": {
+    "message": "Statystyki",
+    "description": "The label of footer link with label=Stats linking to /docs/stats"
+  },
+  "link.item.label.Spells": {
+    "message": "Czary",
+    "description": "The label of footer link with label=Spells linking to /docs/spells"
+  },
+  "link.item.label.Equip": {
+    "message": "Ekwipunek",
+    "description": "The label of footer link with label=Equip linking to /docs/equip"
+  },
+  "link.item.label.Maps": {
+    "message": "Mapy",
+    "description": "The label of footer link with label=Maps linking to /docs/maps"
+  },
+  "link.item.label.Bosses": {
+    "message": "Bossowie",
+    "description": "The label of footer link with label=Bosses linking to /docs/bosses"
+  },
+  "link.item.label.Back Story": {
+    "message": "Historia",
+    "description": "The label of footer link with label=Back Story linking to /docs/back-story"
   },
   "link.item.label.Steam": {
     "message": "Steam",
     "description": "The label of footer link with label=Steam linking to https://store.steampowered.com/app/2358720/_/"
-  },
-  "link.item.label.COMBAT": {
-    "message": "WALKA",
-    "description": "The label of footer link with label=COMBAT linking to /combat"
   }
 }

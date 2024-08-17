@@ -59,7 +59,7 @@ function Content() {
                             </h2>
                         </div>
                         <div className='text-gray-100'>
-                            <Translate>Sun Wukong is portrayed as a powerful and rebellious warrior with extraordinary abilities. He possesses immense strength, agility, and a variety of magical powers, including shape-shifting and the ability to summon clones of himself. His iconic weapon is the Ruyi Jingu Bang, a magical staff that can change its size at will. Sun Wukong's character is deeply rooted in Chinese culture, symbolizing rebellion, freedom, and the quest for enlightenment.</Translate>
+                            <Translate>Sun Wukong is portrayed as a powerful and rebellious warrior with extraordinary abilities. He possesses immense strength, agility, and a variety of spellsal powers, including shape-shifting and the ability to summon clones of himself. His iconic weapon is the Ruyi Jingu Bang, a spellsal staff that can change its size at will. Sun Wukong's character is deeply rooted in Chinese culture, symbolizing rebellion, freedom, and the quest for enlightenment.</Translate>
                             <img src="/img/wukongrole.jpg" alt="Black Myth: Wukong wiki" className="mt-3" />
                         </div>
                         <div className="flex items-start w-full space-x-2 mb-2 mt-5">
@@ -89,7 +89,7 @@ function Content() {
                             <ul className='mt-1 mb-1'>
                                 <li><Translate>Stunning Visuals: Utilizing Unreal Engine 5, the game boasts high-quality graphics and realistic animations.</Translate></li>
                                 <li><Translate>Rich Storyline: The narrative is inspired by 'Journey to the West,' offering a deep and engaging story that explores the lore and mythology of ancient China.</Translate></li>
-                                <li><Translate>Dynamic Combat: Players can engage in fast-paced combat, utilizing Sun Wukong's martial arts skills and magical abilities to defeat enemies.</Translate></li>
+                                <li><Translate>Dynamic Combat: Players can engage in fast-paced combat, utilizing Sun Wukong's martial arts skills and spellsal abilities to defeat enemies.</Translate></li>
                                 <li><Translate>Exploration: The game world is expansive, filled with hidden secrets, diverse landscapes, and formidable bosses.</Translate></li>
                             </ul>
                         </div>
@@ -105,7 +105,7 @@ function Content() {
                             <Translate>In Black Myth: Wukong, Sun Wukong possesses a range of powerful abilities that not only faithfully recreate his capabilities from the original story but also enhance gameplay and challenge:</Translate>
                             <ul className='mt-1 mb-1'>
                                 <li><Translate>Ruyi Jingu Bang: Sun Wukong's iconic weapon can change size at will. In the game, players can use it for both melee attacks and long-range strikes, and even solve puzzles and overcome obstacles through its transformation.</Translate></li>
-                                <li><Translate>Cloud Somersault: Sun Wukong can summon a magical cloud for rapid movement, increasing the game's mobility and exploration aspects.</Translate></li>
+                                <li><Translate>Cloud Somersault: Sun Wukong can summon a spellsal cloud for rapid movement, increasing the game's mobility and exploration aspects.</Translate></li>
                                 <li><Translate>72 Transformations: The ability to transform into various animals and objects to adapt to different combat situations and environmental needs. This skill provides multiple strategic options and tactical variations in the game.</Translate></li>
                                 <li><Translate>Clone Technique: Sun Wukong can summon clones of himself to confuse enemies or perform coordinated attacks.</Translate></li>
                                 <li><Translate>Fiery Eyes: Features skill trees for ability enhancement.</Translate></li>

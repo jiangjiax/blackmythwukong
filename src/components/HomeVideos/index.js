@@ -48,7 +48,7 @@ export default function HomeVideos() {
           <div className="md:w-1/2 p-4">
             <div className="flex flex-col text-center w-full mb-1">
               <a className='text-yellow-400'>
-                <h2 className="text-xl font-medium title-font"><Translate>BLACK MYTH WUKONG REVIEW</Translate></h2>
+                <h2 className="text-xl font-medium title-font"><Translate>BLACK MYTH WUKONG FINAL TRAILER</Translate></h2>
               </a>
             </div>
             {!iframeLoaded && (
@@ -58,7 +58,7 @@ export default function HomeVideos() {
             )}
             <iframe
               className={clsx("w-full h-80 rounded-md", { hidden: !iframeLoaded })}
-              src="https://www.youtube.com/embed/1xGiPUeevCM?si=19aTFLUiDJ_2NGhB"
+              src="https://www.youtube.com/embed/bzyMLoSwYvk?si=BAl1D_SAW1QC2Ek1"
               title="Black Myth WuKong Wiki"
               onLoad={() => setIframeLoaded(true)}
             ></iframe>

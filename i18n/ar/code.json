@@ -26,7 +26,7 @@
   "STANCES AND WEAPON SKILLS IN BLACK MYTH: WUKONG": {
     "message": "الوضعيات ومهارات السلاح في Black Myth: Wukong"
   },
-  "Combat revolves around Sun Wukong's magical staff, the Ruyi Jingu Bang. Players can switch between three different stances:": {
+  "Combat revolves around Sun Wukong's spellsal staff, the Ruyi Jingu Bang. Players can switch between three different stances:": {
     "message": "القتال يدور حول عصا سون ووكونغ السحرية، روي جينغو بانغ. يمكن للاعبين التبديل بين ثلاث وضعيات مختلفة:"
   },
   "Smash Form": {
@@ -113,7 +113,7 @@
   "Black Myth: WuKong is an action-adventure game inspired by the iconic character Sun Wukong from the classic Chinese literary masterpiece 'Journey to the West.'": {
     "message": "BLACK MYTH: WUKONG هي لعبة مغامرات أكشن مستوحاة من الشخصية الشهيرة سون ووكونغ من العمل الأدبي الكلاسيكي الصيني 'رحلة إلى الغرب'."
   },
-  "The game has garnered significant anticipation due to its stunning visual effects, fluid combat mechanics, and rich cultural heritage. Players will take on the role of Sun Wukong, venturing into a mystical and perilous fantasy world, utilizing a diverse array of unique skills and weapons to combat enemies.": {
+  "The game has garnered significant anticipation due to its Stunning Visual Effects In Black Myth: Wukong, fluid combat mechanics, and rich cultural heritage. Players will take on the role of Destined One, venturing into a mystical and perilous fantasy world, utilizing a diverse array of unique skills and weapons to combat enemies.": {
     "message": "حظيت اللعبة بتوقعات كبيرة بسبب تأثيراتها البصرية المذهلة، وآليات القتال السلسة، والتراث الثقافي الغني. سيتولى اللاعبون دور سون ووكونغ، ويغامرون في عالم خيالي خطير وسحري، مستخدمين مجموعة متنوعة من المهارات والأسلحة الفريدة لمواجهة الأعداء."
   },
   "SUN WUKONG": {
@@ -125,7 +125,7 @@
   "CHARACTER BACKGROUND": {
     "message": "خلفية الشخصية"
   },
-  "Sun Wukong is portrayed as a powerful and rebellious warrior with extraordinary abilities. He possesses immense strength, agility, and a variety of magical powers, including shape-shifting and the ability to summon clones of himself. His iconic weapon is the Ruyi Jingu Bang, a magical staff that can change its size at will. Sun Wukong's character is deeply rooted in Chinese culture, symbolizing rebellion, freedom, and the quest for enlightenment.": {
+  "Sun Wukong is portrayed as a powerful and rebellious warrior with extraordinary abilities. He possesses immense strength, agility, and a variety of spellsal powers, including shape-shifting and the ability to summon clones of himself. His iconic weapon is the Ruyi Jingu Bang, a spellsal staff that can change its size at will. Sun Wukong's character is deeply rooted in Chinese culture, symbolizing rebellion, freedom, and the quest for enlightenment.": {
     "message": "يتم تصوير سون ووكونغ كمحارب قوي ومتمرد بقدرات استثنائية. لديه قوة هائلة، ومرونة، ومجموعة متنوعة من القوى السحرية، بما في ذلك التحول والقدرة على استدعاء نسخ من نفسه. سلاحه الشهير هو روي جينغو بانغ، عصا سحرية يمكن أن تغير حجمها حسب الرغبة. شخصية سون ووكونغ متعمقة في الثقافة الصينية، وتمثل التمرد والحرية والسعي نحو التبصر."
   },
   "CULTURAL SIGNIFICANCE IN BLACK MYTH: WUKONG": {
@@ -155,7 +155,7 @@
   "Rich Storyline: The narrative is inspired by 'Journey to the West,' offering a deep and engaging story that explores the lore and mythology of ancient China.": {
     "message": "سرد قصة معقد: السرد مستوحى من 'رحلة إلى الغرب'، يقدم قصة عميقة ومشوقة تستكشف أساطير وتاريخ الصين القديمة."
   },
-  "Dynamic Combat: Players can engage in fast-paced combat, utilizing Sun Wukong's martial arts skills and magical abilities to defeat enemies.": {
+  "Dynamic Combat: Players can engage in fast-paced combat, utilizing Sun Wukong's martial arts skills and spellsal abilities to defeat enemies.": {
     "message": "القتال الديناميكي: يمكن للاعبين الانخراط في قتال سريع الوتيرة، باستخدام مهارات الفنون القتالية لسان ووكونغ وقدراته السحرية للهزيمة أعداء."
   },
   "Exploration: The game world is expansive, filled with hidden secrets, diverse landscapes, and formidable bosses.": {
@@ -170,7 +170,7 @@
   "Ruyi Jingu Bang: Sun Wukong's iconic weapon can change size at will. In the game, players can use it for both melee attacks and long-range strikes, and even solve puzzles and overcome obstacles through its transformation.": {
     "message": "روي جينغو بانغ: سلاح سان ووكونغ الشهير يمكن أن يتغير في الحجم حسب الرغبة. في اللعبة، يمكن للاعبين استخدامه لكل من الهجمات القريبة والهجمات عن بُعد، وحتى حل الألغاز والتغلب على العقبات من خلال تحوله."
   },
-  "Cloud Somersault: Sun Wukong can summon a magical cloud for rapid movement, increasing the game's mobility and exploration aspects.": {
+  "Cloud Somersault: Sun Wukong can summon a spellsal cloud for rapid movement, increasing the game's mobility and exploration aspects.": {
     "message": "سحابة التطويف: يمكن لسان ووكونغ استدعاء سحابة سحرية للتحرك بسرعة، مما يزيد من جوانب التنقل والاستكشاف في اللعبة."
   },
   "72 Transformations: The ability to transform into various animals and objects to adapt to different combat situations and environmental needs. This skill provides multiple strategic options and tactical variations in the game.": {
@@ -311,8 +311,8 @@
   "Game Science, the developer, has stated that Black Myth: Wukong is being developed using Unreal Engine 5 and is the first game to simultaneously use this engine and NVIDIA's DLSS technology, promising exceptional visual experiences.": {
     "message": "ذكرت Game Science، المطورة، أن Black Myth: Wukong يتم تطويرها باستخدام Unreal Engine 5 وهي أول لعبة تستخدم هذه المحرك وتكنولوجيا NVIDIA's DLSS في نفس الوقت، مما يعد بتجارب بصرية استثنائية."
   },
-  "Sweet Baby Controversy": {
-    "message": "جدل Sweet Baby"
+  "The Controversy Surrounding Black Myth: Wukong and Sweet Baby": {
+    "message": "الجدل المحيط بـ Black Myth: Wukong و Sweet Baby"
   },
   "Background": {
     "message": "خلفية"
@@ -347,7 +347,7 @@
   "Future Outlook": {
     "message": "التوقعات المستقبلية"
   },
-  "Despite the controversy, Black Myth: Wukong remains one of the most anticipated games of 2024. Players are eager to explore its rich Chinese mythological world and experience its unique combat system and transformation abilities. More game details are expected to be revealed as the release date nears.": {
+  "Despite the controversy, Black Myth: Wukong remains one of the most anticipated games of 2024. Players are eager to explore its rich Chinese mythological world and experience its unique combat system and Transformation Abilities In Black Myth: Wukong. More game details are expected to be revealed as the release date nears.": {
     "message": "على الرغم من الجدل، لا يزال Black Myth: Wukong من أكثر الألعاب المنتظرة في عام 2024. اللاعبون متحمسون لاستكشاف عالمها الغني بالأساطير الصينية وتجربة نظام القتال الفريد وقدرات التحول. من المتوقع أن يتم الكشف عن مزيد من تفاصيل اللعبة مع اقتراب تاريخ الإصدار."
   },
   "BLACK MYTH: WUKONG GAMEPLAY": {
@@ -356,43 +356,43 @@
   "Black Myth: Wukong, developed by Game Science, is a highly anticipated action role-playing game set to release on August 20, 2024. Based on the classic Chinese novel 'Journey to the West,' the game promises to deliver an immersive experience rich in Chinese mythology.": {
     "message": "Black Myth: Wukong، المطورة من قبل Game Science، هي لعبة مغامرات أكشن متطلبة تم الترقب لها لتصدر في 20 أغسطس 2024. تستند اللعبة على رواية الأدب الصيني الكلاسيكية 'رحلة إلى الغرب'، وتعد بتقديم تجربة مغمورة غنية بالأساطير الصينية."
   },
-  "Dynamic Combat System": {
+  "Dynamic Combat System In Black Myth: Wukong": {
     "message": "نظام قتال ديناميكي"
   },
   "Black Myth: Wukong boasts a sophisticated combat system that combines fast-paced action with fluid movements. Players will wield the legendary Ruyi Jingu Bang staff, executing diverse attacks and combos. The combat encourages players to utilize agile movements and tactical thinking, leveraging the environment to gain advantages. This creates a unique and engaging fighting style that promises to keep players on their toes.": {
     "message": "تتباهى Black Myth: Wukong بنظام قتال معقد يجمع بين الأفعال سريعة المعدل والحركات السلسة. سيستخدم اللاعبون العصا الأسطورية Ruyi Jingu Bang، وينفذون عدة أنواع من الهجمات والتوافقيات. يشجع القتال اللاعبين على استخدام الحركات النشطة والتفكير الإستراتيجي، والاستفادة من البيئة للحصول على مزايا. هذا يخلق نمط قتال فريد وجذاب يعد بإبقاء اللاعبين على أهبة الاستعداد."
   },
-  "Transformation Abilities": {
+  "Transformation Abilities In Black Myth: Wukong": {
     "message": "قدرات التحول"
   },
   "A standout feature of the game is the protagonist's ability to transform. Players can morph into various creatures, each with its own distinct abilities and combat style. For instance, transforming into the wolfman Guangzhi allows players to wield a fire glaive for powerful melee attacks. This transformation mechanic not only adds variety to combat but also encourages strategic thinking, as players must choose the most suitable form for different enemies and battle situations.": {
     "message": "ميزة مميزة في اللعبة هي قدرة البطل على التحول. يمكن للاعبين أن يتحولوا إلى أنواع مختلفة من المخلوقات، كل منها له قدراته الخاصة وأسلوب قتالي مميز. على سبيل المثال، التحول إلى الذئب Guangzhi يسمح للاعبين باستخدام مغارف نارية لهجمات جسدية قوية. هذه الميكانيكية للتحول لا تضيف فقط تنوعًا للقتال بل تشجع أيضًا التفكير الإستراتيجي، حيث يجب على اللاعبين اختيار الشكل الأكثر ملاءمة للأعداء المختلفة والمواقف القتالية."
   },
-  "Comprehensive Character Progression": {
+  "Comprehensive Character Progression In Black Myth: Wukong": {
     "message": "تطور شامل للشخصية"
   },
   "Black Myth: Wukong implements a rich skill tree system, allowing players to continuously upgrade their character and unlock new abilities throughout the game. This progression mechanism enables players to customize their gameplay style, choosing skill combinations that suit their preferences. As characters grow stronger, players will experience more powerful abilities and increasingly complex combat strategies, enhancing the game's replay value.": {
     "message": "تنفذ Black Myth: Wukong نظام شجرة مهارات غني، مما يسمح للاعبين بترقية شخصياتهم باستمرار وفتح قدرات جديدة طوال اللعبة. هذه الميكانيكية للتطور تمكن اللاعبين من تخصيص أسلوب لعبهم، من خلال اختيار مجموعات المهارات التي تناسب تفضيلاتهم. مع تقوية الشخصيات، سيختبر اللاعبون قدرات أقوى واستراتيجيات قتالية أكثر تعقيدًا، مما يعزز قيمة اللعبة مرة أخرى."
   },
-  "Impressive Boss Battles": {
+  "Impressive Boss Battles In Black Myth: Wukong": {
     "message": "معارك رؤوس البطولة"
   },
   "Boss fights are a core highlight of the game. Each boss is uniquely designed with its own fighting style, challenging players to adapt and find weaknesses. These encounters not only test players' reflexes and tactical thinking but also provide a great sense of accomplishment. Defeating powerful bosses rewards players with valuable items and achievements, adding to the game's appeal.": {
     "message": "معارك الرؤوس الكبيرة هي جزء أساسي من اللعبة. كل رأس كبير مصمم بشكل فريد مع أسلوب قتالي خاص به، مما يتحدى اللاعبين للتكيف والعثور على الضعف. هذه المواجهات لا تختبر فقط ردود فعل اللاعبين والتفكير الإستراتيجي ولكنها توفر أيضًا شعورًا عظيمًا بالإنجاز. هزيمة الرؤوس الكبيرة القوية تكافئ اللاعبين بأغراض قيمة وإنجازات، مما يضيف إلى جاذبية اللعبة."
   },
-  "Rich Exploration Elements": {
+  "Rich Exploration Elements In Black Myth: Wukong": {
     "message": "عناصر استكشاف غنية"
   },
   "While the main storyline follows a linear progression, Black Myth: Wukong features vast areas for exploration. Players are encouraged to investigate every corner, discovering hidden items, facing elite enemies, and uncovering more about the game's mythological world. This exploration element enhances the game's immersion and ensures that each playthrough is filled with surprises.": {
     "message": "بينما تتبع القصة الرئيسية تقدمًا خطيًا، تتميز Black Myth: Wukong بمناطق واسعة للاستكشاف. يتم تشجيع اللاعبين على استقصاء كل زاوية، واكتشاف العناصر المخفية، ومواجهة الأعداء النخبة، وكشف المزيد عن عالم اللعبة الأسطوري. هذا العنصر الاستكشافي يعزز غموض اللعبة ويضمن أن كل مرحلة مليئة بالمفاجآت."
   },
-  "Stunning Visual Effects": {
+  "Stunning Visual Effects In Black Myth: Wukong": {
     "message": "تأثيرات بصرية رائعة"
   },
   "Developed using Unreal Engine 5, Black Myth: Wukong delivers breathtaking visual effects and smooth animations. The game's scenery draws inspiration from traditional Chinese culture, taking players through majestic mountains, dense forests, and mysterious ancient ruins, all imbued with a strong mythological atmosphere. Detailed character modeling and fluid action animations make every frame of the game look like a work of art.": {
     "message": "تم تطويره باستخدام Unreal Engine 5، يقدم Black Myth: Wukong تأثيرات بصرية مذهلة ورسوم متحركة ناعمة. المشهد الطبيعي للعبة يستوحي الإلهام من الثقافة الصينية التقليدية، حيث يأخذ اللاعبين عبر جبال هائلة، غابات ساحرة، ومعابد قديمة مشوهة، كل ذلك مليء بأجواء عرقية قوية. النمذجة الشخصية المفصلة والرسوم المتحركة السلسة للأفعال تجعل كل إطار من اللعبة تبدو وكأنها عمل فني."
   },
-  "Rich Cultural Depth": {
+  "Rich Cultural Depth In Black Myth: Wukong": {
     "message": "عمق ثقافي غني"
   },
   "The game's storyline is deeply rooted in Chinese mythology, allowing players to interact with classic characters like Sun Wukong and Tang Sanzang. This cultural depth not only enriches the game's backstory but also allows players to experience the charm of traditional Chinese culture while enjoying the game.": {
@@ -789,5 +789,26 @@
   },
   "heroImgSrc": {
     "message": "https://image.informedainews.com/wukongwiki.png"
+  },
+  "Welcome to the Black Myth Wukong Wiki: Delving into the Depths of Mythology": {
+    "message": "مرحبًا بك في ويكي Black Myth Wukong: التنقيب في أعماق الأساطير"
+  },
+  "\"Black Myth: Wukong\" is a single-player action role-playing game meticulously crafted by the Chinese game development company Game Science. The game is based on the classic tale \"Journey to the West,\" focusing on the legendary story of Sun Wukong, but infused with the developers' unique creativity and the essence of modern game design.": {
+    "message": "\"Black Myth: Wukong\" هي لعبة أكشن ورول بلايينج للاعب واحد مصنوعة بعناية من قبل شركة تطوير الألعاب الصينية Game Science. اللعبة مبنية على القصة الكلاسيكية \"رحلة إلى الغرب\"، وتركيز على القصة الأسطورية لـ Sun Wukong، ولكن مع إضافة الإبداع الفريد للمطورين وجوهر تصميم الألعاب الحديث."
+  },
+  "Black Myth Wukong Wiki: Your Knowledge Repository": {
+    "message": "ويكي Black Myth Wukong: مستودع المعرفة الخاص بك"
+  },
+  "On the Black Myth Wukong Wiki, we provide comprehensive game backgrounds, character introductions, combat techniques, worldview analyses, and the latest game updates. Whether you are an experienced player seeking a deep understanding of the game mechanics or a newcomer interested in \"Black Myth: Wukong,\" our Wiki is an indispensable resource for you.": {
+    "message": "في ويكي Black Myth Wukong، نقدم خلفيات لعبة شاملة، مقدمات للشخصيات، تقنيات القتال، تحليلات الوجهة العالمية، وآخر تحديثات اللعبة. سواء كنت لاعبًا ذو خبرة تبحث عن فهم عميق لآليات اللعبة أو مستجد مهتم بـ \"Black Myth: Wukong\"، فإن ويكينا هو مصدر لا يمكن الاستغناء عنه بالنسبة لك."
+  },
+  "spells": {
+    "message": "إملاءات"
+  },
+  "Equip": {
+    "message": "تجهيز"
+  },
+  "BLACK MYTH WUKONG FINAL TRAILER": {
+    "message": "BLACK MYTH WUKONG المقطورة النهائية"
   }
 }

@@ -1,10 +1,66 @@
 {
   "title": {
-    "message": "BLACK MYTH WUKONG WIKI",
+    "message": "قصة سوداء: ووكونغ ويكي",
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "BLACK MYTH WUKONG WIKI",
+    "message": "قصة سوداء: ووكونغ ويكي",
     "description": "The alt text of navbar logo"
+  },
+  "item.label.GENERAL INFORMATION": {
+    "message": "معلومات عامة",
+    "description": "Navbar item with label GENERAL INFORMATION"
+  },
+  "item.label.CHARACTER INFORMATION": {
+    "message": "معلومات الشخصيات",
+    "description": "Navbar item with label CHARACTER INFORMATION"
+  },
+  "item.label.WORLD INFORMATION": {
+    "message": "معلومات العالم",
+    "description": "Navbar item with label WORLD INFORMATION"
+  },
+  "item.label.Combat": {
+    "message": "قتال",
+    "description": "Navbar item with label Combat"
+  },
+  "item.label.Gameplay": {
+    "message": "طريقة اللعب",
+    "description": "Navbar item with label Gameplay"
+  },
+  "item.label.FAQs & News": {
+    "message": "الأسئلة الشائعة والأخبار",
+    "description": "Navbar item with label FAQs & News"
+  },
+  "item.label.Wallpapers": {
+    "message": "خلفيات",
+    "description": "Navbar item with label Wallpapers"
+  },
+  "item.label.Sun WuKong": {
+    "message": "سون ووكونغ",
+    "description": "Navbar item with label Sun WuKong"
+  },
+  "item.label.Stats": {
+    "message": "إحصائيات",
+    "description": "Navbar item with label Stats"
+  },
+  "item.label.Spells": {
+    "message": "أوصاف",
+    "description": "Navbar item with label Spells"
+  },
+  "item.label.Equip": {
+    "message": "معدات",
+    "description": "Navbar item with label Equip"
+  },
+  "item.label.Maps": {
+    "message": "خرائط",
+    "description": "Navbar item with label Maps"
+  },
+  "item.label.Bosses": {
+    "message": "رؤساء",
+    "description": "Navbar item with label Bosses"
+  },
+  "item.label.Back Story": {
+    "message": "قصة خلفية",
+    "description": "Navbar item with label Back Story"
   }
 }

@@ -26,7 +26,7 @@
   "STANCES AND WEAPON SKILLS IN BLACK MYTH: WUKONG": {
     "message": "블랙 마시: 워쿤 태세와 무기 기술"
   },
-  "Combat revolves around Sun Wukong's magical staff, the Ruyi Jingu Bang. Players can switch between three different stances:": {
+  "Combat revolves around Sun Wukong's spellsal staff, the Ruyi Jingu Bang. Players can switch between three different stances:": {
     "message": "전투는 손오공의 마법 지팡이인 루이 징구 방에 의해 회전합니다. 플레이어들은 세 가지 다른 태세 사이를 전환할 수 있습니다:"
   },
   "Smash Form": {
@@ -113,7 +113,7 @@
   "Black Myth: WuKong is an action-adventure game inspired by the iconic character Sun Wukong from the classic Chinese literary masterpiece 'Journey to the West.'": {
     "message": "블랙 미스트: 원숭이는 고전 중국 문학의 걸작 '서유기'의 상징적인 캐릭터 손 오공에서 영감을 받은 액션 어드벤처 게임입니다."
   },
-  "The game has garnered significant anticipation due to its stunning visual effects, fluid combat mechanics, and rich cultural heritage. Players will take on the role of Sun Wukong, venturing into a mystical and perilous fantasy world, utilizing a diverse array of unique skills and weapons to combat enemies.": {
+  "The game has garnered significant anticipation due to its Stunning Visual Effects In Black Myth: Wukong, fluid combat mechanics, and rich cultural heritage. Players will take on the role of Destined One, venturing into a mystical and perilous fantasy world, utilizing a diverse array of unique skills and weapons to combat enemies.": {
     "message": "게임은 놀라운 시각 효과, 유동적인 전투 메커니즘, 그리고 풍부한 문화적 유산으로 인해 상당한 기대를 모았습니다. 플레이어들은 손 오공의 역할을 맡아 신비롭고 위험한 판타지 세계로 모험을 떠나, 다양한 독특한 기술과 무기를 사용하여 적들과 싸웁니다."
   },
   "SUN WUKONG": {
@@ -125,7 +125,7 @@
   "CHARACTER BACKGROUND": {
     "message": "캐릭터 배경"
   },
-  "Sun Wukong is portrayed as a powerful and rebellious warrior with extraordinary abilities. He possesses immense strength, agility, and a variety of magical powers, including shape-shifting and the ability to summon clones of himself. His iconic weapon is the Ruyi Jingu Bang, a magical staff that can change its size at will. Sun Wukong's character is deeply rooted in Chinese culture, symbolizing rebellion, freedom, and the quest for enlightenment.": {
+  "Sun Wukong is portrayed as a powerful and rebellious warrior with extraordinary abilities. He possesses immense strength, agility, and a variety of spellsal powers, including shape-shifting and the ability to summon clones of himself. His iconic weapon is the Ruyi Jingu Bang, a spellsal staff that can change its size at will. Sun Wukong's character is deeply rooted in Chinese culture, symbolizing rebellion, freedom, and the quest for enlightenment.": {
     "message": "손 오공은 비범한 능력을 가진 강력하고 반항적인 전사로 묘사됩니다. 그는 엄청난 힘, 민첩성, 그리고 변신과 자신의 클론을 소환하는 능력을 포함한 다양한 마법 능력을 가지고 있습니다. 그의 상징적인 무기는 원하는 대로 크기를 변화시킬 수 있는 마법의 지팡이인 여의금고봉입니다. 손 오공의 캐릭터는 중국 문화에 깊이 뿌리를 두고 있으며, 반항, 자유, 그리고 깨달음을 추구하는 것을 상징합니다."
   },
   "CULTURAL SIGNIFICANCE IN BLACK MYTH: WUKONG": {
@@ -155,7 +155,7 @@
   "Rich Storyline: The narrative is inspired by 'Journey to the West,' offering a deep and engaging story that explores the lore and mythology of ancient China.": {
     "message": "풍부한 스토리라인: 내러티브는 '서유기'에서 영감을 받아, 고대 중국의 전설과 신화를 탐구하는 깊고 매력적인 이야기를 제공합니다."
   },
-  "Dynamic Combat: Players can engage in fast-paced combat, utilizing Sun Wukong's martial arts skills and magical abilities to defeat enemies.": {
+  "Dynamic Combat: Players can engage in fast-paced combat, utilizing Sun Wukong's martial arts skills and spellsal abilities to defeat enemies.": {
     "message": "다이나믹 컴뱃: 플레이어는 손오공의 무술 기술과 마법 능력을 활용하여 적을 물리치는 빠른 페이스의 전투에 참여할 수 있습니다."
   },
   "Exploration: The game world is expansive, filled with hidden secrets, diverse landscapes, and formidable bosses.": {
@@ -170,7 +170,7 @@
   "Ruyi Jingu Bang: Sun Wukong's iconic weapon can change size at will. In the game, players can use it for both melee attacks and long-range strikes, and even solve puzzles and overcome obstacles through its transformation.": {
     "message": "루이 진구 방: 손오공의 상징적인 무기는 원하는 대로 크기를 변경할 수 있습니다. 게임에서 플레이어는 이를 근접 공격과 원거리 공격에 사용할 수 있으며, 변형을 통해 퍼즐을 풀고 장애물을 극복할 수도 있습니다."
   },
-  "Cloud Somersault: Sun Wukong can summon a magical cloud for rapid movement, increasing the game's mobility and exploration aspects.": {
+  "Cloud Somersault: Sun Wukong can summon a spellsal cloud for rapid movement, increasing the game's mobility and exploration aspects.": {
     "message": "구름 썰매: 손오공은 마법의 구름을 소환하여 빠른 이동을 할 수 있으며, 게임의 이동성과 탐험 측면을 향상시킵니다."
   },
   "72 Transformations: The ability to transform into various animals and objects to adapt to different combat situations and environmental needs. This skill provides multiple strategic options and tactical variations in the game.": {
@@ -311,8 +311,8 @@
   "Game Science, the developer, has stated that Black Myth: Wukong is being developed using Unreal Engine 5 and is the first game to simultaneously use this engine and NVIDIA's DLSS technology, promising exceptional visual experiences.": {
     "message": "개발사인 게임 사이언스는 블랙 검은 신화: 오공 언리얼 엔진 5를 사용하여 개발되고 있으며, 이 엔진과 NVIDIA의 DLSS 기술을 동시에 사용하는 최초의 게임으로, 뛰어난 시각적 경험을 약속한다고 밝혔습니다."
   },
-  "Sweet Baby Controversy": {
-    "message": "스위트 베이비 논란"
+  "The Controversy Surrounding Black Myth: Wukong and Sweet Baby": {
+    "message": "검은 신화: 오공 과 Sweet Baby에 관한 논란"
   },
   "Background": {
     "message": "배경"
@@ -347,7 +347,7 @@
   "Future Outlook": {
     "message": "미래 전망"
   },
-  "Despite the controversy, Black Myth: Wukong remains one of the most anticipated games of 2024. Players are eager to explore its rich Chinese mythological world and experience its unique combat system and transformation abilities. More game details are expected to be revealed as the release date nears.": {
+  "Despite the controversy, Black Myth: Wukong remains one of the most anticipated games of 2024. Players are eager to explore its rich Chinese mythological world and experience its unique combat system and Transformation Abilities In Black Myth: Wukong. More game details are expected to be revealed as the release date nears.": {
     "message": "논란에도 불구하고, 블랙 마이스: 웨이콩은 2024년 가장 기대되는 게임 중 하나로 남아 있습니다. 플레이어들은 그 풍부한 중국 신화 세계를 탐험하고 독특한 전투 시스템과 변신 능력을 경험하기를 갈망합니다. 출시일이 가까워짐에 따라 더 많은 게임 정보가 공개될 것으로 예상됩니다."
   },
   "BLACK MYTH: WUKONG GAMEPLAY": {
@@ -356,43 +356,43 @@
   "Black Myth: Wukong, developed by Game Science, is a highly anticipated action role-playing game set to release on August 20, 2024. Based on the classic Chinese novel 'Journey to the West,' the game promises to deliver an immersive experience rich in Chinese mythology.": {
     "message": "게임 사이언스에 의해 개발된 블랙 마이스: 웨이콩은 2024년 8월 20일에 출시될 예정인 기대되는 액션 롤플레잉 게임입니다. 고전 중국 소설 '서유기'를 기반으로 한 이 게임은 중국 신화에 풍부한 몰입형 경험을 제공할 것을 약속합니다."
   },
-  "Dynamic Combat System": {
+  "Dynamic Combat System In Black Myth: Wukong": {
     "message": "동적 전투 시스템"
   },
   "Black Myth: Wukong boasts a sophisticated combat system that combines fast-paced action with fluid movements. Players will wield the legendary Ruyi Jingu Bang staff, executing diverse attacks and combos. The combat encourages players to utilize agile movements and tactical thinking, leveraging the environment to gain advantages. This creates a unique and engaging fighting style that promises to keep players on their toes.": {
     "message": "블랙 마이스: 웨이콩은 빠른 페이스의 액션과 유연한 움직임을 결합한 정교한 전투 시스템을 자랑합니다. 플레이어들은 전설적인 여의금고봉을 휘두르며, 다양한 공격과 콤보를 실행합니다. 전투는 플레이어들이 민첩한 움직임과 전략적 사고를 활용하도록 장려하며, 환경을 이용하여 이점을 얻습니다. 이는 플레이어들을 긴장시키는 독특하고 매력적인 전투 스타일을 만들어냅니다."
   },
-  "Transformation Abilities": {
+  "Transformation Abilities In Black Myth: Wukong": {
     "message": "변신 능력"
   },
   "A standout feature of the game is the protagonist's ability to transform. Players can morph into various creatures, each with its own distinct abilities and combat style. For instance, transforming into the wolfman Guangzhi allows players to wield a fire glaive for powerful melee attacks. This transformation mechanic not only adds variety to combat but also encourages strategic thinking, as players must choose the most suitable form for different enemies and battle situations.": {
     "message": "이 게임의 눈에 띄는 특징은 주인공의 변신 능력입니다. 플레이어들은 각기 다른 능력과 전투 스타일을 가진 여러 생물로 변신할 수 있습니다. 예를 들어, 늑대인간 광지로 변신하면 강력한 근접 공격을 위해 화염 글레이브를 휘두를 수 있습니다. 이 변신 메커니즘은 전투에 다양성을 더할 뿐만 아니라 전략적 사고를 장려하며, 플레이어들은 다양한 적과 전투 상황에 가장 적합한 형태를 선택해야 합니다."
   },
-  "Comprehensive Character Progression": {
+  "Comprehensive Character Progression In Black Myth: Wukong": {
     "message": "종합적인 캐릭터 성장"
   },
   "Black Myth: Wukong implements a rich skill tree system, allowing players to continuously upgrade their character and unlock new abilities throughout the game. This progression mechanism enables players to customize their gameplay style, choosing skill combinations that suit their preferences. As characters grow stronger, players will experience more powerful abilities and increasingly complex combat strategies, enhancing the game's replay value.": {
     "message": "블랙 마이스: 웨이콩은 풍부한 스킬 트리 시스템을 구현하여, 플레이어들이 게임 전반에 걸쳐 캐릭터를 지속적으로 강화하고 새로운 능력을 해금할 수 있게 합니다. 이 성장 메커니즘은 플레이어들이 자신의 게임 스타일을 맞춤화할 수 있게 하며, 선호하는 스킬 조합을 선택할 수 있습니다. 캐릭터가 더 강해짐에 따라, 플레이어들은 더 강력한 능력과 점점 복잡해지는 전투 전략을 경험하게 되어 게임의 재플레이 가치를 높입니다."
   },
-  "Impressive Boss Battles": {
+  "Impressive Boss Battles In Black Myth: Wukong": {
     "message": "인상적인 보스 전투"
   },
   "Boss fights are a core highlight of the game. Each boss is uniquely designed with its own fighting style, challenging players to adapt and find weaknesses. These encounters not only test players' reflexes and tactical thinking but also provide a great sense of accomplishment. Defeating powerful bosses rewards players with valuable items and achievements, adding to the game's appeal.": {
     "message": "보스 전투는 게임의 핵심 하이라이트입니다. 각 보스는 독특한 전투 스타일로 디자인되어 플레이어들에게 적응하고 약점을 찾는 것을 도전합니다. 이러한 만남은 플레이어들의 반사 신경과 전략적 사고를 시험할 뿐만 아니라 큰 성취감을 제공합니다. 강력한 보스를 물리치면 플레이어들에게 귀중한 아이템과 업적을 제공하여 게임의 매력을 높입니다."
   },
-  "Rich Exploration Elements": {
+  "Rich Exploration Elements In Black Myth: Wukong": {
     "message": "풍부한 탐험 요소"
   },
   "While the main storyline follows a linear progression, Black Myth: Wukong features vast areas for exploration. Players are encouraged to investigate every corner, discovering hidden items, facing elite enemies, and uncovering more about the game's mythological world. This exploration element enhances the game's immersion and ensures that each playthrough is filled with surprises.": {
     "message": "메인 스토리라인이 선형적인 진행을 따르지만, 블랙 마이스: 웨이콩은 광대한 탐험 지역을 제공합니다. 플레이어들은 모든 구석구석을 조사하여 숨겨진 아이템을 발견하고, 엘리트 적들과 마주하며, 게임의 신화적인 세계에 대해 더 많은 것을 발견하도록 장려됩니다. 이 탐험 요소는 게임의 몰입감을 높이고 매 플레이스루가 놀라움으로 가득 차도록 보장합니다."
   },
-  "Stunning Visual Effects": {
+  "Stunning Visual Effects In Black Myth: Wukong": {
     "message": "놀라운 시각 효과"
   },
   "Developed using Unreal Engine 5, Black Myth: Wukong delivers breathtaking visual effects and smooth animations. The game's scenery draws inspiration from traditional Chinese culture, taking players through majestic mountains, dense forests, and mysterious ancient ruins, all imbued with a strong mythological atmosphere. Detailed character modeling and fluid action animations make every frame of the game look like a work of art.": {
     "message": "Unreal Engine 5를 사용하여 개발된 검은 신화: 오공은 눈부신 시각 효과와 부드러운 애니메이션을 제공합니다. 게임의 풍경은 전통적인 중국 문화에서 영감을 받아, 위엄 있는 산맥, 빽빽한 숲, 그리고 신비로운 고대 유적을 통해 플레이어들을 안내하며, 강한 신화적 분위기를 자아냅니다. 세밀한 캐릭터 모델링과 유동적인 액션 애니메이션은 게임의 모든 프레임이 예술 작품처럼 보이게 합니다."
   },
-  "Rich Cultural Depth": {
+  "Rich Cultural Depth In Black Myth: Wukong": {
     "message": "풍부한 문화적 깊이"
   },
   "The game's storyline is deeply rooted in Chinese mythology, allowing players to interact with classic characters like Sun Wukong and Tang Sanzang. This cultural depth not only enriches the game's backstory but also allows players to experience the charm of traditional Chinese culture while enjoying the game.": {
@@ -789,5 +789,26 @@
   },
   "heroImgSrc": {
     "message": "https://image.informedainews.com/wukongwikiko.png"
+  },
+  "Welcome to the Black Myth Wukong Wiki: Delving into the Depths of Mythology": {
+    "message": "검은 신화: 오공 위키에 오신 것을 환영합니다: 신화의 깊이를 탐구하다"
+  },
+  "\"Black Myth: Wukong\" is a single-player action role-playing game meticulously crafted by the Chinese game development company Game Science. The game is based on the classic tale \"Journey to the West,\" focusing on the legendary story of Sun Wukong, but infused with the developers' unique creativity and the essence of modern game design.": {
+    "message": "\"검은 신화: 오공\"은 중국의 게임 개발 회사 게임 사이언스에 의해 정교하게 제작된 싱글 플레이어 액션 롤플레잉 게임입니다. 이 게임은 고전 이야기 \"서유기\"를 기반으로 하되, 전설적인 손오공의 이야기에 주목하면서 개발자들의 독특한 창의력과 현대 게임 디자인의 정수를 결합했습니다."
+  },
+  "Black Myth Wukong Wiki: Your Knowledge Repository": {
+    "message": "검은 신화: 오공 위키: 당신의 지식 저장소"
+  },
+  "On the Black Myth Wukong Wiki, we provide comprehensive game backgrounds, character introductions, combat techniques, worldview analyses, and the latest game updates. Whether you are an experienced player seeking a deep understanding of the game mechanics or a newcomer interested in \"Black Myth: Wukong,\" our Wiki is an indispensable resource for you.": {
+    "message": "검은 신화: 오공 위키에서는 게임 배경, 캐릭터 소개, 전투 기술, 세계관 분석 및 최신 게임 업데이트를 제공합니다. 게임 메커니즘에 대한 깊은 이해를 원하는 숙련된 플레이어이든, \"검은 신화: 오공\"에 관심이 있는 신규 플레이어이든, 우리 위키는 필수적인 자원입니다."
+  },
+  "spells": {
+    "message": "주문"
+  },
+  "Equip": {
+    "message": "장착"
+  },
+  "BLACK MYTH WUKONG FINAL TRAILER": {
+    "message": "검은 신화: 오공 최종 트레일러"
   }
 }

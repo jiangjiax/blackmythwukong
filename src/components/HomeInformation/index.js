@@ -24,7 +24,7 @@ export default function HomeInformation() {
           <p className="text-base text-yellow-400 tracking-widest font-medium title-font mb-1"><Translate>Latest Information</Translate></p>
           <h1 className="sm:text-3xl text-2xl font-medium title-font text-white"><Translate>BLACK MYTH: WUKONG WIKI</Translate></h1>
         </div>
-        <div className="flex flex-wrap -m-4">
+        <div className="flex flex-wrap -m-4 w-full">
           <div className="p-4 md:w-1/3">
             <div className="flex rounded-lg h-full bg-gray-800 bg-opacity-60 p-6 flex-col">
               <a className="flex items-center mb-2 justify-center">
@@ -53,13 +53,17 @@ export default function HomeInformation() {
               <div className="leading-relaxed text-base flex flex-wrap">
                 <a href={indexHref+"/sunwukong"}><Translate>Sun WuKong</Translate></a>
                 <span className={styles.dividericon}>✿</span>
-                <a onClick={handleClick}><Translate>Stats</Translate></a>
+                <a href={indexHref+'/docs/stats'}><Translate>Stats</Translate></a>
                 <span className={styles.dividericon}>✿</span>
-                <a onClick={handleClick}><Translate>Skills</Translate></a>
+                {/* <a onClick={handleClick}><Translate>Skills</Translate></a>
+                <span className={styles.dividericon}>✿</span> */}
+                <a href={indexHref+'/docs/spells'}><Translate>spells</Translate></a>
                 <span className={styles.dividericon}>✿</span>
-                <a onClick={handleClick}><Translate>Builds</Translate></a>
-                <span className={styles.dividericon}>✿</span>
-                <a onClick={handleClick}><Translate>Buffs & Debuffs</Translate></a>
+                <a href={indexHref+'/docs/equip'}><Translate>Equip</Translate></a>
+                {/* <span className={styles.dividericon}>✿</span>
+                <a onClick={handleClick}><Translate>Builds</Translate></a> */}
+                {/* <span className={styles.dividericon}>✿</span>
+                <a onClick={handleClick}><Translate>Buffs & Debuffs</Translate></a> */}
               </div>
             </div>
           </div>
@@ -69,15 +73,15 @@ export default function HomeInformation() {
                 <h2 className="text-yellow-400 text-xl title-font font-medium"><Translate>WORLD INFORMATION</Translate></h2>
               </a>
               <div className="leading-relaxed text-base flex flex-wrap">
-                <a onClick={handleClick}><Translate>Maps</Translate></a>
+                <a href={indexHref+'/docs/maps'}><Translate>Maps</Translate></a>
                 <span className={styles.dividericon}>✿</span>
-                <a onClick={handleClick}><Translate>Bosses</Translate></a>
+                <a href={indexHref+'/docs/bosses'}><Translate>Bosses</Translate></a>
+                {/* <span className={styles.dividericon}>✿</span>
+                <a onClick={handleClick}><Translate>NPCs</Translate></a> */}
+                {/* <span className={styles.dividericon}>✿</span>
+                <a onClick={handleClick}><Translate>Creatures & Enemies</Translate></a> */}
                 <span className={styles.dividericon}>✿</span>
-                <a onClick={handleClick}><Translate>NPCs</Translate></a>
-                <span className={styles.dividericon}>✿</span>
-                <a onClick={handleClick}><Translate>Back Story</Translate></a>
-                <span className={styles.dividericon}>✿</span>
-                <a onClick={handleClick}><Translate>Creatures & Enemies</Translate></a>
+                <a href={indexHref+'/docs/back-story'}><Translate>Back Story</Translate></a>
               </div>
             </div>
           </div>

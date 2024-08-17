@@ -7,24 +7,60 @@
     "message": "キャラクター情報",
     "description": "The title of the footer links column with title=CHARACTER INFORMATION in the footer"
   },
+  "link.title.WORLD INFORMATION": {
+    "message": "世界情報",
+    "description": "The title of the footer links column with title=WORLD INFORMATION in the footer"
+  },
   "link.title.More": {
     "message": "もっと見る",
     "description": "The title of the footer links column with title=More in the footer"
   },
   "link.item.label.Combat": {
     "message": "戦闘",
-    "description": "ラベル=戦闘のフッターリンクのラベル（/combatへのリンク）"
+    "description": "The label of footer link with label=Combat linking to /combat"
   },
-  "link.item.label.SUN WUKONG": {
+  "link.item.label.Gameplay": {
+    "message": "ゲームプレイ",
+    "description": "The label of footer link with label=Gameplay linking to /#gameplay"
+  },
+  "link.item.label.FAQs & News": {
+    "message": "よくある質問 & ニュース",
+    "description": "The label of footer link with label=FAQs & News linking to /#faq"
+  },
+  "link.item.label.Wallpapers": {
+    "message": "壁紙",
+    "description": "The label of footer link with label=Wallpapers linking to /#wallpapers"
+  },
+  "link.item.label.Sun WuKong": {
     "message": "孫悟空",
-    "description": "The label of footer link with label=SUN WUKONG linking to /sunwukong"
+    "description": "The label of footer link with label=Sun WuKong linking to /combat"
+  },
+  "link.item.label.Stats": {
+    "message": "ステータス",
+    "description": "The label of footer link with label=Stats linking to /docs/stats"
+  },
+  "link.item.label.Spells": {
+    "message": "呪文",
+    "description": "The label of footer link with label=Spells linking to /docs/spells"
+  },
+  "link.item.label.Equip": {
+    "message": "装備",
+    "description": "The label of footer link with label=Equip linking to /docs/equip"
+  },
+  "link.item.label.Maps": {
+    "message": "マップ",
+    "description": "The label of footer link with label=Maps linking to /docs/maps"
+  },
+  "link.item.label.Bosses": {
+    "message": "ボス",
+    "description": "The label of footer link with label=Bosses linking to /docs/bosses"
+  },
+  "link.item.label.Back Story": {
+    "message": "背景ストーリー",
+    "description": "The label of footer link with label=Back Story linking to /docs/back-story"
   },
   "link.item.label.Steam": {
     "message": "Steam",
     "description": "The label of footer link with label=Steam linking to https://store.steampowered.com/app/2358720/_/"
-  },
-  "link.item.label.COMBAT": {
-    "message": "戦闘",
-    "description": "The label of footer link with label=COMBAT linking to /combat"
   }
 }

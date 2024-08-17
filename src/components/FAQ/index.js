@@ -94,7 +94,7 @@ export default function FAQ() {
               <Translate>Reports indicate that Black Myth: Wukong received 1.1 million pre-orders within days of opening physical and digital pre-orders on June 8th and 11th, demonstrating the game's massive appeal.</Translate>
               <h3 className='text-xl mt-4'><Translate>Black Myth: Wukong Development Progress</Translate></h3>
               <Translate>Game Science, the developer, has stated that Black Myth: Wukong is being developed using Unreal Engine 5 and is the first game to simultaneously use this engine and NVIDIA's DLSS technology, promising exceptional visual experiences.</Translate>
-              <h3 className='text-xl mt-4'><Translate>Sweet Baby Controversy</Translate></h3>
+              <h3 className='text-xl mt-4'><Translate>The Controversy Surrounding Black Myth: Wukong and Sweet Baby</Translate></h3>
               <h4 className='text-lg mt-4'><Translate>Background</Translate></h4>
               <Translate>Recently, a controversy erupted between Black Myth: Wukong and Sweet Baby studio. Sweet Baby is a consultancy firm that provides political correctness guidance to game developers, ensuring game content meets certain social and cultural standards.</Translate>
               <h4 className='text-lg mt-4'><Translate>Controversy Details</Translate></h4>
@@ -106,7 +106,7 @@ export default function FAQ() {
               <h4 className='text-lg mt-4'><Translate>Official Response</Translate></h4>
               <Translate>As of now, Game Science has not issued an official statement regarding this controversy. However, as the release date approaches, this dispute may impact the game's market performance.</Translate>
               <h4 className='text-lg mt-4'><Translate>Future Outlook</Translate></h4>
-              <Translate>Despite the controversy, Black Myth: Wukong remains one of the most anticipated games of 2024. Players are eager to explore its rich Chinese mythological world and experience its unique combat system and transformation abilities. More game details are expected to be revealed as the release date nears.</Translate>
+              <Translate>Despite the controversy, Black Myth: Wukong remains one of the most anticipated games of 2024. Players are eager to explore its rich Chinese mythological world and experience its unique combat system and Transformation Abilities In Black Myth: Wukong. More game details are expected to be revealed as the release date nears.</Translate>
             </div>
           </div>
         </div>

@@ -6,5 +6,61 @@
   "logo.alt": {
     "message": "黑神话悟空百科",
     "description": "The alt text of navbar logo"
+  },
+  "item.label.GENERAL INFORMATION": {
+    "message": "一般信息",
+    "description": "Navbar item with label GENERAL INFORMATION"
+  },
+  "item.label.CHARACTER INFORMATION": {
+    "message": "角色信息",
+    "description": "Navbar item with label CHARACTER INFORMATION"
+  },
+  "item.label.WORLD INFORMATION": {
+    "message": "世界信息",
+    "description": "Navbar item with label WORLD INFORMATION"
+  },
+  "item.label.Combat": {
+    "message": "战斗",
+    "description": "Navbar item with label Combat"
+  },
+  "item.label.Gameplay": {
+    "message": "游戏玩法",
+    "description": "Navbar item with label Gameplay"
+  },
+  "item.label.FAQs & News": {
+    "message": "常见问题与新闻",
+    "description": "Navbar item with label FAQs & News"
+  },
+  "item.label.Wallpapers": {
+    "message": "壁纸",
+    "description": "Navbar item with label Wallpapers"
+  },
+  "item.label.Sun WuKong": {
+    "message": "孙悟空",
+    "description": "Navbar item with label Sun WuKong"
+  },
+  "item.label.Stats": {
+    "message": "属性",
+    "description": "Navbar item with label Stats"
+  },
+  "item.label.Spells": {
+    "message": "法术",
+    "description": "Navbar item with label Spells"
+  },
+  "item.label.Equip": {
+    "message": "装备",
+    "description": "Navbar item with label Equip"
+  },
+  "item.label.Maps": {
+    "message": "地图",
+    "description": "Navbar item with label Maps"
+  },
+  "item.label.Bosses": {
+    "message": "Boss",
+    "description": "Navbar item with label Bosses"
+  },
+  "item.label.Back Story": {
+    "message": "背景故事",
+    "description": "Navbar item with label Back Story"
   }
 }

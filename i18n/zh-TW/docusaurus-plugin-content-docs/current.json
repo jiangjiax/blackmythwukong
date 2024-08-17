@@ -1,6 +1,18 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "下一版",
     "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Back Story": {
+    "message": "背景故事",
+    "description": "The label for category Back Story in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bosses": {
+    "message": "首領",
+    "description": "The label for category Bosses in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Spells": {
+    "message": "法術",
+    "description": "The label for category Spells in sidebar tutorialSidebar"
   }
 }

@@ -1,6 +1,18 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Nächste",
     "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Back Story": {
+    "message": "Hintergrundgeschichte",
+    "description": "The label for category Back Story in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bosses": {
+    "message": "Bosse",
+    "description": "The label for category Bosses in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Spells": {
+    "message": "Zauber",
+    "description": "The label for category Spells in sidebar tutorialSidebar"
   }
 }

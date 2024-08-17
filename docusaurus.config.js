@@ -140,13 +140,13 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        // docs: {
-        //   sidebarPath: './sidebars.js',
-        //   // Please change this to your repo.
-        //   // Remove this to remove the "edit this page" links.
-        //   // editUrl:
-        //   //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        // },
+        docs: {
+          sidebarPath: './sidebars.js',
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          editUrl:
+            'https://github.com/jiangjiax/blackmythwukong/tree/main',
+        },
         // blog: {
         //   showReadingTime: true,
         //   // Please change this to your repo.
@@ -186,13 +186,99 @@ const config = {
             type: 'localeDropdown',
             position: 'right',
           },
+          {
+            type: 'dropdown',
+            label: 'GENERAL INFORMATION',
+            position: 'left',
+            items: [
+              {
+                label: 'Combat',
+                href: '/combat',
+              },
+              {
+                label: 'Gameplay',
+                href: '/#gameplay',
+              },
+              {
+                label: 'FAQs & News',
+                href: '/#faq',
+              },
+              {
+                label: 'Wallpapers',
+                href: '/#wallpapers',
+              },
+            ],
+          },
+          {
+            type: 'dropdown',
+            label: 'CHARACTER INFORMATION',
+            position: 'left',
+            items: [
+              {
+                label: 'Sun WuKong',
+                href: '/combat',
+              },
+              {
+                label: 'Stats',
+                href: '/docs/stats',
+              },
+              {
+                label: 'Spells',
+                href: '/docs/spells',
+              },
+              {
+                label: 'Equip',
+                href: '/docs/equip',
+              },
+              // {
+              //   label: 'Buffs & Debuffs',
+              //   href: '/#wallpapers',
+              // },
+              // {
+              //   type: 'doc',
+              //   label: 'Social',
+              //   docId: 'social',
+              // },
+            ],
+          },
+          {
+            type: 'dropdown',
+            label: 'WORLD INFORMATION',
+            position: 'left',
+            items: [
+              {
+                label: 'Maps',
+                href: '/docs/maps',
+              },
+              {
+                label: 'Bosses',
+                href: '/docs/bosses',
+              },
+              // {
+              //   label: 'NPCs',
+              //   href: '/#faq',
+              // },
+              // {
+              //   label: 'Creatures & Enemies',
+              //   href: '/#wallpapers',
+              // },
+              {
+                label: 'Back Story',
+                href: '/docs/back-story',
+              },
+              // {
+              //   type: 'doc',
+              //   label: 'Social',
+              //   docId: 'social',
+              // },
+            ],
+          },
           // {
-          //   type: 'docSidebar',
+          //   type: 'dropdown',
           //   sidebarId: 'tutorialSidebar',
           //   position: 'left',
-          //   label: 'Tutorial',
+          //   label: 'GENERAL INFORMATION',
           // },
-          // {to: '/blog', label: 'Blog', position: 'left'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',
@@ -207,8 +293,20 @@ const config = {
             title: 'GENERAL INFORMATION',
             items: [
               {
-                label: 'COMBAT',
-                to: '/combat',
+                label: 'Combat',
+                href: '/combat',
+              },
+              {
+                label: 'Gameplay',
+                href: '/#gameplay',
+              },
+              {
+                label: 'FAQs & News',
+                href: '/#faq',
+              },
+              {
+                label: 'Wallpapers',
+                href: '/#wallpapers',
               },
             ],
           },
@@ -216,8 +314,49 @@ const config = {
             title: 'CHARACTER INFORMATION',
             items: [
               {
-                label: 'SUN WUKONG',
-                to: '/sunwukong',
+                label: 'Sun WuKong',
+                href: '/combat',
+              },
+              {
+                label: 'Stats',
+                href: '/docs/stats',
+              },
+              {
+                label: 'Spells',
+                href: '/docs/spells',
+              },
+              {
+                label: 'Equip',
+                href: '/docs/equip',
+              },
+              // {
+              //   label: 'Buffs & Debuffs',
+              //   href: '/#wallpapers',
+              // },
+            ],
+          },
+          {
+            title: 'WORLD INFORMATION',
+            items: [
+              {
+                label: 'Maps',
+                href: '/docs/maps',
+              },
+              {
+                label: 'Bosses',
+                href: '/docs/bosses',
+              },
+              // {
+              //   label: 'NPCs',
+              //   href: '/#faq',
+              // },
+              // {
+              //   label: 'Creatures & Enemies',
+              //   href: '/#wallpapers',
+              // },
+              {
+                label: 'Back Story',
+                href: '/docs/back-story',
               },
             ],
           },

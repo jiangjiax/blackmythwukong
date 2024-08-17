@@ -26,7 +26,7 @@
   "STANCES AND WEAPON SKILLS IN BLACK MYTH: WUKONG": {
     "message": "黒神話：悟空における構えと武器スキル"
   },
-  "Combat revolves around Sun Wukong's magical staff, the Ruyi Jingu Bang. Players can switch between three different stances:": {
+  "Combat revolves around Sun Wukong's spellsal staff, the Ruyi Jingu Bang. Players can switch between three different stances:": {
     "message": "戦闘は孫悟空の魔法の杖、如意金箍棒を中心に展開されます。プレイヤーは以下の3つの異なる構えを切り替えることができます："
   },
   "Smash Form": {
@@ -113,7 +113,7 @@
   "Black Myth: WuKong is an action-adventure game inspired by the iconic character Sun Wukong from the classic Chinese literary masterpiece 'Journey to the West.'": {
     "message": "ブラックミスト: ウーコンは、中国の古典文学傑作『西遊記』からインスパイアされたアクションアドベンチャーゲームです。"
   },
-  "The game has garnered significant anticipation due to its stunning visual effects, fluid combat mechanics, and rich cultural heritage. Players will take on the role of Sun Wukong, venturing into a mystical and perilous fantasy world, utilizing a diverse array of unique skills and weapons to combat enemies.": {
+  "The game has garnered significant anticipation due to its Stunning Visual Effects In Black Myth: Wukong, fluid combat mechanics, and rich cultural heritage. Players will take on the role of Destined One, venturing into a mystical and perilous fantasy world, utilizing a diverse array of unique skills and weapons to combat enemies.": {
     "message": "ゲームは、その驚異的な視覚効果、流動的な戦闘メカニクス、そして豊かな文化的遺産から、大きな期待を集めています。プレイヤーは孫悟空の役割を担い、神秘的で危険なファンタジー世界に足を踏み入れ、敵と戦うためにさまざまな独自のスキルと武器を駆使します。"
   },
   "SUN WUKONG": {
@@ -125,7 +125,7 @@
   "CHARACTER BACKGROUND": {
     "message": "キャラクターの背景"
   },
-  "Sun Wukong is portrayed as a powerful and rebellious warrior with extraordinary abilities. He possesses immense strength, agility, and a variety of magical powers, including shape-shifting and the ability to summon clones of himself. His iconic weapon is the Ruyi Jingu Bang, a magical staff that can change its size at will. Sun Wukong's character is deeply rooted in Chinese culture, symbolizing rebellion, freedom, and the quest for enlightenment.": {
+  "Sun Wukong is portrayed as a powerful and rebellious warrior with extraordinary abilities. He possesses immense strength, agility, and a variety of spellsal powers, including shape-shifting and the ability to summon clones of himself. His iconic weapon is the Ruyi Jingu Bang, a spellsal staff that can change its size at will. Sun Wukong's character is deeply rooted in Chinese culture, symbolizing rebellion, freedom, and the quest for enlightenment.": {
     "message": "孫悟空は、並外れた能力を持つ強力で反逆的な戦士として描かれています。彼は巨大な力、俊敏さ、そして変身や自分のクローンを召喚する能力などのさまざまな魔法の力を持っています。彼の象徴的な武器は、自在にサイズを変えることができる魔法の杖、如意金箍棒です。孫悟空のキャラクターは、中国文化に深く根付いており、反逆、自由、そして啓蒙への探求を象徴しています。"
   },
   "CULTURAL SIGNIFICANCE IN BLACK MYTH: WUKONG": {
@@ -155,7 +155,7 @@
   "Rich Storyline: The narrative is inspired by 'Journey to the West,' offering a deep and engaging story that explores the lore and mythology of ancient China.": {
     "message": "豊かなストーリー: 物語は『西遊記』に触発され、古代中国の伝承や神話を探求する深く魅力的なストーリーを提供します。"
   },
-  "Dynamic Combat: Players can engage in fast-paced combat, utilizing Sun Wukong's martial arts skills and magical abilities to defeat enemies.": {
+  "Dynamic Combat: Players can engage in fast-paced combat, utilizing Sun Wukong's martial arts skills and spellsal abilities to defeat enemies.": {
     "message": "ダイナミックな戦闘: プレイヤーは孫悟空の武術スキルと魔法の力を活用して、速いペースの戦闘に参加し、敵を倒すことができます。"
   },
   "Exploration: The game world is expansive, filled with hidden secrets, diverse landscapes, and formidable bosses.": {
@@ -170,7 +170,7 @@
   "Ruyi Jingu Bang: Sun Wukong's iconic weapon can change size at will. In the game, players can use it for both melee attacks and long-range strikes, and even solve puzzles and overcome obstacles through its transformation.": {
     "message": "如意金箍棒: 孫悟空の象徴的な武器は自由にサイズを変えることができます。ゲームでは、プレイヤーは近接攻撃と遠距離攻撃の両方に使用でき、さらにその変形を通じてパズルを解決し、障害を克服することもできます。"
   },
-  "Cloud Somersault: Sun Wukong can summon a magical cloud for rapid movement, increasing the game's mobility and exploration aspects.": {
+  "Cloud Somersault: Sun Wukong can summon a spellsal cloud for rapid movement, increasing the game's mobility and exploration aspects.": {
     "message": "筋斗雲: 孫悟空は迅速な移動のために魔法の雲を召喚でき、ゲームの機動性と探索要素を向上させます。"
   },
   "72 Transformations: The ability to transform into various animals and objects to adapt to different combat situations and environmental needs. This skill provides multiple strategic options and tactical variations in the game.": {
@@ -311,8 +311,8 @@
   "Game Science, the developer, has stated that Black Myth: Wukong is being developed using Unreal Engine 5 and is the first game to simultaneously use this engine and NVIDIA's DLSS technology, promising exceptional visual experiences.": {
     "message": "開発者であるGame Scienceは、『黒神話：悟空』がUnreal Engine 5を使用して開発されており、このエンジンとNVIDIAのDLSS技術を同時に使用する最初のゲームであり、卓越した視覚体験を約束しています。"
   },
-  "Sweet Baby Controversy": {
-    "message": "Sweet Baby論争"
+  "The Controversy Surrounding Black Myth: Wukong and Sweet Baby": {
+    "message": "黒神話：悟空 と Sweet Baby に関する論争"
   },
   "Background": {
     "message": "背景"
@@ -347,7 +347,7 @@
   "Future Outlook": {
     "message": "将来の見通し"
   },
-  "Despite the controversy, Black Myth: Wukong remains one of the most anticipated games of 2024. Players are eager to explore its rich Chinese mythological world and experience its unique combat system and transformation abilities. More game details are expected to be revealed as the release date nears.": {
+  "Despite the controversy, Black Myth: Wukong remains one of the most anticipated games of 2024. Players are eager to explore its rich Chinese mythological world and experience its unique combat system and Transformation Abilities In Black Myth: Wukong. More game details are expected to be revealed as the release date nears.": {
     "message": "論争にもかかわらず、黒神話：悟空は2024年最も期待されているゲームの一つです。プレイヤーはその豊かな中国神話の世界を探求し、独自の戦闘システムと変身能力を体験することを熱望しています。リリース日が近づくにつれて、より多くのゲームの詳細が明らかになることが期待されています。"
   },
   "BLACK MYTH: WUKONG GAMEPLAY": {
@@ -356,43 +356,43 @@
   "Black Myth: Wukong, developed by Game Science, is a highly anticipated action role-playing game set to release on August 20, 2024. Based on the classic Chinese novel 'Journey to the West,' the game promises to deliver an immersive experience rich in Chinese mythology.": {
     "message": "黒神話：悟空は、Game Scienceによって開発された、2024年8月20日にリリース予定の非常に期待されているアクションロールプレイングゲームです。古典中国小説『西遊記』に基づいており、中国神話に富んだ没入感ある体験を約束しています。"
   },
-  "Dynamic Combat System": {
+  "Dynamic Combat System In Black Myth: Wukong": {
     "message": "ダイナミックな戦闘システム"
   },
   "Black Myth: Wukong boasts a sophisticated combat system that combines fast-paced action with fluid movements. Players will wield the legendary Ruyi Jingu Bang staff, executing diverse attacks and combos. The combat encourages players to utilize agile movements and tactical thinking, leveraging the environment to gain advantages. This creates a unique and engaging fighting style that promises to keep players on their toes.": {
     "message": "黒神話：悟空は、速いペースのアクションと流動的な動きを組み合わせた洗練された戦闘システムを誇ります。プレイヤーは伝説の如意金箍棒を振るい、多様な攻撃とコンボを実行します。戦闘はプレイヤーに俊敏な動きと戦術的思考を活用することを促し、環境を利用して優位を得ることができます。これにより、プレイヤーを常に緊張させる独自の魅力的な戦闘スタイルが生まれます。"
   },
-  "Transformation Abilities": {
+  "Transformation Abilities In Black Myth: Wukong": {
     "message": "変身能力"
   },
   "A standout feature of the game is the protagonist's ability to transform. Players can morph into various creatures, each with its own distinct abilities and combat style. For instance, transforming into the wolfman Guangzhi allows players to wield a fire glaive for powerful melee attacks. This transformation mechanic not only adds variety to combat but also encourages strategic thinking, as players must choose the most suitable form for different enemies and battle situations.": {
     "message": "ゲームの目立つ特徴は、主人公の変身能力です。プレイヤーは様々な生き物に変身し、それぞれ独自の能力と戦闘スタイルを持っています。例えば、狼男の広智に変身することで、プレイヤーは強力な接近戦攻撃のために火のグライブを振るうことができます。この変身メカニックは、戦闘に多様性を加えるだけでなく、プレイヤーが異なる敵や戦闘状況に最も適した形を選ぶことを促し、戦略的思考を促します。"
   },
-  "Comprehensive Character Progression": {
+  "Comprehensive Character Progression In Black Myth: Wukong": {
     "message": "包括的なキャラクター進化"
   },
   "Black Myth: Wukong implements a rich skill tree system, allowing players to continuously upgrade their character and unlock new abilities throughout the game. This progression mechanism enables players to customize their gameplay style, choosing skill combinations that suit their preferences. As characters grow stronger, players will experience more powerful abilities and increasingly complex combat strategies, enhancing the game's replay value.": {
     "message": "『黒神話：悟空』は、豊富なスキルツリーシステムを実装し、プレイヤーがゲーム中にキャラクターを継続的にアップグレードし、新しい能力を解禁できるようにします。この進行メカニズムにより、プレイヤーは自分の好みに合わせたスキルの組み合わせを選択し、ゲームプレイスタイルをカスタマイズできます。キャラクターが強くなるにつれて、プレイヤーはより強力な能力と、ますます複雑な戦闘戦略を体験し、ゲームのリプレイ価値を高めます。"
   },
-  "Impressive Boss Battles": {
+  "Impressive Boss Battles In Black Myth: Wukong": {
     "message": "印象的なボスバトル"
   },
   "Boss fights are a core highlight of the game. Each boss is uniquely designed with its own fighting style, challenging players to adapt and find weaknesses. These encounters not only test players' reflexes and tactical thinking but also provide a great sense of accomplishment. Defeating powerful bosses rewards players with valuable items and achievements, adding to the game's appeal.": {
     "message": "ボスバトルはゲームの中心的なハイライトです。各ボスは独自の戦闘スタイルでデザインされており、プレイヤーに適応し弱点を見つけることを求めます。これらのエンカウントは、プレイヤーの反射神経と戦術的思考を試すだけでなく、大きな達成感を提供します。強力なボスを倒すことで、プレイヤーは貴重なアイテムと実績を獲得し、ゲームの魅力をさらに高めます。"
   },
-  "Rich Exploration Elements": {
+  "Rich Exploration Elements In Black Myth: Wukong": {
     "message": "豊富な探索要素"
   },
   "While the main storyline follows a linear progression, Black Myth: Wukong features vast areas for exploration. Players are encouraged to investigate every corner, discovering hidden items, facing elite enemies, and uncovering more about the game's mythological world. This exploration element enhances the game's immersion and ensures that each playthrough is filled with surprises.": {
     "message": "メインストーリーが直線的な進行をたどる中で、『黒神話：悟空』は広大な探索エリアを提供します。プレイヤーはあらゆる隅を調査し、隠されたアイテムを発見し、エリート敵と対峙し、ゲームの神話的世界についてより多くを明らかにすることを奨励されます。この探索要素はゲームの没入感を高め、各プレイスルーが驚きで満たされることを保証します。"
   },
-  "Stunning Visual Effects": {
+  "Stunning Visual Effects In Black Myth: Wukong": {
     "message": "驚くべき視覚効果"
   },
   "Developed using Unreal Engine 5, Black Myth: Wukong delivers breathtaking visual effects and smooth animations. The game's scenery draws inspiration from traditional Chinese culture, taking players through majestic mountains, dense forests, and mysterious ancient ruins, all imbued with a strong mythological atmosphere. Detailed character modeling and fluid action animations make every frame of the game look like a work of art.": {
     "message": "Unreal Engine 5を使用して開発された『黒神話：悟空』は、息をのむような視覚効果と滑らかなアニメーションを提供します。ゲームのシーンは、伝統的な中国文化からインスピレーションを受け、雄大な山々、茂密な森、神秘的な古代遺跡を通してプレイヤーを連れて行きます。詳細なキャラクターモデリングと流動的なアクションアニメーションにより、ゲームのフレームはどれも芸術作品のように見えます。"
   },
-  "Rich Cultural Depth": {
+  "Rich Cultural Depth In Black Myth: Wukong": {
     "message": "豊かな文化的深度"
   },
   "The game's storyline is deeply rooted in Chinese mythology, allowing players to interact with classic characters like Sun Wukong and Tang Sanzang. This cultural depth not only enriches the game's backstory but also allows players to experience the charm of traditional Chinese culture while enjoying the game.": {
@@ -789,5 +789,26 @@
   },
   "heroImgSrc": {
     "message": "https://image.informedainews.com/wukongwikicn.png"
+  },
+  "Welcome to the Black Myth Wukong Wiki: Delving into the Depths of Mythology": {
+    "message": "黒神話：悟空ウィキへようこそ: 神話の深淵を探る"
+  },
+  "\"Black Myth: Wukong\" is a single-player action role-playing game meticulously crafted by the Chinese game development company Game Science. The game is based on the classic tale \"Journey to the West,\" focusing on the legendary story of Sun Wukong, but infused with the developers' unique creativity and the essence of modern game design.": {
+    "message": "\"黒神話：悟空\"は、中国のゲーム開発会社Game Scienceによって緻密に制作された一人用アクションロールプレイングゲームです。このゲームは古典的な物語「西遊記」に基づいており、伝説的な孫悟空の物語に焦点を当てていますが、開発者の独自の創造力と現代のゲームデザインの本質が融合されています。"
+  },
+  "Black Myth Wukong Wiki: Your Knowledge Repository": {
+    "message": "黒神話：悟空ウィキ: あなたの知識の宝庫"
+  },
+  "On the Black Myth Wukong Wiki, we provide comprehensive game backgrounds, character introductions, combat techniques, worldview analyses, and the latest game updates. Whether you are an experienced player seeking a deep understanding of the game mechanics or a newcomer interested in \"Black Myth: Wukong,\" our Wiki is an indispensable resource for you.": {
+    "message": "黒神話：悟空ウィキでは、包括的なゲームの背景、キャラクター紹介、戦闘技術、世界観分析、そして最新のゲームアップデートを提供しています。ゲームメカニクスの深い理解を求める経験豊富なプレイヤーであろうと、「黒神話：悟空」に興味を持つ新参者であろうと、当ウィキはあなたにとって不可欠なリソースです。"
+  },
+  "spells": {
+    "message": "呪文"
+  },
+  "Equip": {
+    "message": "装備"
+  },
+  "BLACK MYTH WUKONG FINAL TRAILER": {
+    "message": "黒神話：悟空 最終トレーラー"
   }
 }

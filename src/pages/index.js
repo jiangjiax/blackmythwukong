@@ -43,9 +43,13 @@ function HomepageHeader() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-10 md:pr-10 flex flex-col md:items-start md:text-left md:mb-0 items-center text-center">
           <img alt="hero" src={heroImgSrc}/>
           <p className="leading-relaxed text-lg mt-2">{tagline1}<span className={styles.descriptionTitle}> {tagline2} </span>{tagline3}</p>
+          <h1 className="text-xl"><Translate>Welcome to the Black Myth Wukong Wiki: Delving into the Depths of Mythology</Translate></h1>
           <p className="leading-relaxed text-lg">
-            <Translate>Black Myth: WuKong is an action-adventure game inspired by the iconic character Sun Wukong from the classic Chinese literary masterpiece 'Journey to the West.'</Translate>
-            <Translate>The game has garnered significant anticipation due to its stunning visual effects, fluid combat mechanics, and rich cultural heritage. Players will take on the role of Sun Wukong, venturing into a mystical and perilous fantasy world, utilizing a diverse array of unique skills and weapons to combat enemies.</Translate>
+            <Translate>"Black Myth: Wukong" is a single-player action role-playing game meticulously crafted by the Chinese game development company Game Science. The game is based on the classic tale "Journey to the West," focusing on the legendary story of Sun Wukong, but infused with the developers' unique creativity and the essence of modern game design.</Translate>
+          </p>
+          <h1 className="text-xl"><Translate>Black Myth Wukong Wiki: Your Knowledge Repository</Translate></h1>
+          <p className="leading-relaxed text-lg">
+            <Translate>On the Black Myth Wukong Wiki, we provide comprehensive game backgrounds, character introductions, combat techniques, worldview analyses, and the latest game updates. Whether you are an experienced player seeking a deep understanding of the game mechanics or a newcomer interested in "Black Myth: Wukong," our Wiki is an indispensable resource for you.</Translate>
           </p>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2">

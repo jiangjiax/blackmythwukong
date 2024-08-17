@@ -1,6 +1,18 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Następny",
     "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Back Story": {
+    "message": "Tło Fabularne",
+    "description": "The label for category Back Story in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bosses": {
+    "message": "Bossowie",
+    "description": "The label for category Bosses in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Spells": {
+    "message": "Czary",
+    "description": "The label for category Spells in sidebar tutorialSidebar"
   }
 }
