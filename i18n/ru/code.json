@@ -790,8 +790,8 @@
   "heroImgSrc": {
     "message": "https://image.informedainews.com/wukongwiki.png"
   },
-  "Welcome to the Black Myth Wukong Wiki: Delving into the Depths of Mythology": {
-    "message": "Добро пожаловать в вики Black Myth Wukong: Погружение в глубины мифологии"
+  "Welcome to the Black Myth Wukong Wiki": {
+    "message": "Добро пожаловать в вики Black Myth Wukong"
   },
   "\"Black Myth: Wukong\" is a single-player action role-playing game meticulously crafted by the Chinese game development company Game Science. The game is based on the classic tale \"Journey to the West,\" focusing on the legendary story of Sun Wukong, but infused with the developers' unique creativity and the essence of modern game design.": {
     "message": "\"Black Myth: Wukong\" — это игра в жанре action/RPG для одного игрока, тщательно разработанная китайской компанией Game Science. Игра основана на классическом произведении \"Путешествие на Запад\", фокусируясь на легендарной истории Сунь Укуна, но впитавшая в себя уникальную креативность разработчиков и сущность современного геймдизайна."

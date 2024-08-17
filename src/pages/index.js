@@ -43,7 +43,7 @@ function HomepageHeader() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-10 md:pr-10 flex flex-col md:items-start md:text-left md:mb-0 items-center text-center">
           <img alt="hero" src={heroImgSrc}/>
           <p className="leading-relaxed text-lg mt-2">{tagline1}<span className={styles.descriptionTitle}> {tagline2} </span>{tagline3}</p>
-          <h1 className="text-xl"><Translate>Welcome to the Black Myth Wukong Wiki: Delving into the Depths of Mythology</Translate></h1>
+          <h1 className="text-xl"><Translate>Welcome to the Black Myth Wukong Wiki</Translate></h1>
           <p className="leading-relaxed text-lg">
             <Translate>"Black Myth: Wukong" is a single-player action role-playing game meticulously crafted by the Chinese game development company Game Science. The game is based on the classic tale "Journey to the West," focusing on the legendary story of Sun Wukong, but infused with the developers' unique creativity and the essence of modern game design.</Translate>
           </p>
