@@ -1,10 +1,10 @@
 ---
 sidebar_position: 2
-title: Back Story
+title: 배경 이야기
 slug: /back-story
 ---
 
-The world of "Black Myth: Wukong" is a realm steeped in mystery and peril, teeming with mythical creatures and formidable adversaries. In this universe, every battle is a test of the player's skills, and every exploration could unveil new chapters of the narrative. The Black Myth Wukong Wiki is dedicated to providing the most comprehensive game guides, assisting players in navigating their own paths through this mythological landscape.
+"검은 신화: 오공"의 세계는 신비와 위험이 가득한 영역으로, 신화적인 생명체와 강력한 적들로 가득 차 있습니다. 이 우주에서 모든 전투는 플레이어의 기술에 대한 시험이며, 모든 탐험은 이야기의 새로운 장을 밝힐 수 있습니다. 검은 신화 오공 위키는 가장 포괄적인 게임 가이드를 제공하여 플레이어들이 이 신화적인 풍경을 통해 자신의 길을 찾는 데 도움을 드리기 위해 전념하고 있습니다.
 
 import DocCardList from '@theme/DocCardList';
 

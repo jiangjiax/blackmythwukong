@@ -1,10 +1,10 @@
 ---
 sidebar_position: 2
-title: Back Story
+title: 背景ストーリー
 slug: /back-story
 ---
 
-The world of "Black Myth: Wukong" is a realm steeped in mystery and peril, teeming with mythical creatures and formidable adversaries. In this universe, every battle is a test of the player's skills, and every exploration could unveil new chapters of the narrative. The Black Myth Wukong Wiki is dedicated to providing the most comprehensive game guides, assisting players in navigating their own paths through this mythological landscape.
+「黒神話：悟空」の世界は、神秘と危険に満ちた領域であり、神話的な生き物や強力な敵が溢れています。この宇宙では、すべての戦いがプレイヤーのスキルの試練であり、すべての探求が物語の新しい章を明らかにする可能性があります。黒神話悟空ウィキは、最も包括的なゲームガイドを提供し、プレイヤーがこの神話的な景観を通じて自分だけの道を進むのを支援することに専念しています。
 
 import DocCardList from '@theme/DocCardList';
 

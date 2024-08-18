@@ -1,10 +1,10 @@
 ---
 sidebar_position: 2
-title: Back Story
+title: Antecedentes
 slug: /back-story
 ---
 
-The world of "Black Myth: Wukong" is a realm steeped in mystery and peril, teeming with mythical creatures and formidable adversaries. In this universe, every battle is a test of the player's skills, and every exploration could unveil new chapters of the narrative. The Black Myth Wukong Wiki is dedicated to providing the most comprehensive game guides, assisting players in navigating their own paths through this mythological landscape.
+El mundo de "Black Myth: Wukong" es un reino impregnado de misterio y peligro, lleno de criaturas míticas y adversarios formidables. En este universo, cada batalla es una prueba de las habilidades del jugador, y cada exploración podría desvelar nuevos capítulos de la narrativa. La Wiki de Black Myth Wukong se dedica a proporcionar las guías de juego más completas, ayudando a los jugadores a navegar por sus propios caminos a través de este paisaje mitológico.
 
 import DocCardList from '@theme/DocCardList';
 
