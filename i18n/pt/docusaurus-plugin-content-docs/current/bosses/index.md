@@ -1,10 +1,10 @@
 ---
 sidebar_position: 2
-title: Bosses
+title: Chefes
 slug: /bosses
 ---
 
-Welcome to the comprehensive guide on bosses in the highly anticipated game, Black Myth Wukong. This Black Myth Wukong Wiki page provides detailed insights into each boss, their abilities, strategies, and more. Whether you're a seasoned gamer or a newcomer, our guide will help you conquer every challenge.
+Bem-vindo ao guia completo sobre chefes no altamente aguardado jogo, Black Myth Wukong. Esta página do Black Myth Wukong Wiki oferece informações detalhadas sobre cada chefe, suas habilidades, estratégias e muito mais. Seja você um jogador experiente ou um novato, nosso guia ajudará você a conquistar todos os desafios.
 
 import DocCardList from '@theme/DocCardList';
 

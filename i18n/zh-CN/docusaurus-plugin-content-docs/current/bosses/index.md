@@ -1,10 +1,10 @@
 ---
 sidebar_position: 2
-title: Bosses
+title: 首领
 slug: /bosses
 ---
 
-Welcome to the comprehensive guide on bosses in the highly anticipated game, Black Myth Wukong. This Black Myth Wukong Wiki page provides detailed insights into each boss, their abilities, strategies, and more. Whether you're a seasoned gamer or a newcomer, our guide will help you conquer every challenge.
+欢迎来到备受期待的游戏《黑神话悟空》中首领的综合指南。本《黑神话悟空》维基页面详细介绍了每位首领的能力、策略等信息。无论您是资深玩家还是新手，我们的指南都将助您征服每一个挑战。
 
 import DocCardList from '@theme/DocCardList';
 

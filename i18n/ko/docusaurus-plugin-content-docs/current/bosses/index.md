@@ -1,10 +1,10 @@
 ---
 sidebar_position: 2
-title: Bosses
+title: 보스들
 slug: /bosses
 ---
 
-Welcome to the comprehensive guide on bosses in the highly anticipated game, Black Myth Wukong. This Black Myth Wukong Wiki page provides detailed insights into each boss, their abilities, strategies, and more. Whether you're a seasoned gamer or a newcomer, our guide will help you conquer every challenge.
+기대되는 게임, 검은 신화: 오공의 보스들에 대한 종합 가이드에 오신 것을 환영합니다. 이 검은 신화: 오공 위키 페이지는 각 보스, 그들의 능력, 전략 등에 대한 상세한 정보를 제공합니다. 숙련된 게이머이든 신입이든, 우리의 가이드가 모든 도전을 극복하는 데 도움을 줄 것입니다.
 
 import DocCardList from '@theme/DocCardList';
 
