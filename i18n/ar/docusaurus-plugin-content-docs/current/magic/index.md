@@ -1,25 +1,25 @@
 ---
 sidebar_position: 2
-title: Spells
+title: سحر
 slug: /spells
 ---
 
-Spells are various mystical arts that the destined person learns during their journey. In the game "Black Myth: Wukong," spells can be changed at the shrine's "Spell Preparation," and only one spell of each type can be equipped simultaneously.
+السحر هو مجموعة متنوعة من الفنون الخارقة التي يتعلمها الشخص المختار خلال رحلته. في لعبة "Black Myth: Wukong"، يمكن تغيير السحر في "تحضير السحر" في المعبد، ويمكن ارتداء سحر واحد فقط من كل نوع في نفس الوقت.
 
-## Spell Directory In Black Myth: Wukong
+## دليل السحر في Black Myth: Wukong
 
-### Mystical Arts
+### الفنون الخارقة
 
-[Hold Spell](/docs/hold-spell) ✿ [Calming Spell](/docs/calming-spell)
+[سحر الاحتجاز](/docs/hold-spell) ✿ [سحر الهدوء](/docs/calming-spell)
 
-### Body Techniques
+### تقنيات الجسد
 
-[Iron Head and Steel Arm](/docs/iron-head-and-steel-arms) ✿ [Shape Gathering and Qi Dispersion](/docs/gathering-form)
+[رأس الحديد وذراع الفولاذ](/docs/iron-head-and-steel-arms) ✿ [جمع الشكل وتشتيت الطاقة](/docs/gathering-form)
 
-### Hair Techniques
+### تقنيات الشعر
 
-[Doppelganger Technique](/docs/doppelganger-technique)
+[تقنية التأثير الثانوي](/docs/doppelganger-technique)
 
-### Transformations
+### التحولات
 
-[Crimson Tide](/docs/calming-spell) ✿ [Lotus Hail](/docs/lotushail) ✿ [Jade Dust](/docs/jadedust) ✿ [Mountain Ape](/docs/mountainape)
+[المد الأحمر](/docs/calming-spell) ✿ [ندفة اللوتس](/docs/lotushail) ✿ [غبار اليشب](/docs/jadedust) ✿ [قرد الجبل](/docs/mountainape)

@@ -1,25 +1,25 @@
 ---
 sidebar_position: 2
-title: Spells
+title: Sorts
 slug: /spells
 ---
 
-Spells are various mystical arts that the destined person learns during their journey. In the game "Black Myth: Wukong," spells can be changed at the shrine's "Spell Preparation," and only one spell of each type can be equipped simultaneously.
+Les sorts sont diverses arts mystiques que la personne destinée apprend au cours de son voyage. Dans le jeu "Black Myth: Wukong", les sorts peuvent être modifiés au "Préparation de Sort" du sanctuaire, et un seul sort de chaque type peut être équipé simultanément.
 
-## Spell Directory In Black Myth: Wukong
+## Répertoire des Sorts dans Black Myth: Wukong
 
-### Mystical Arts
+### Arts Mystiques
 
-[Hold Spell](/docs/hold-spell) ✿ [Calming Spell](/docs/calming-spell)
+[Sort de Retention](/docs/hold-spell) ✿ [Sort de Calme](/docs/calming-spell)
 
-### Body Techniques
+### Techniques Corporelles
 
-[Iron Head and Steel Arm](/docs/iron-head-and-steel-arms) ✿ [Shape Gathering and Qi Dispersion](/docs/gathering-form)
+[Tête de Fer et Bras d'Acier](/docs/iron-head-and-steel-arms) ✿ [Rassembler la Forme et Dispersion de Qi](/docs/gathering-form)
 
-### Hair Techniques
+### Techniques de Cheveux
 
-[Doppelganger Technique](/docs/doppelganger-technique)
+[Technique du Double](/docs/doppelganger-technique)
 
 ### Transformations
 
-[Crimson Tide](/docs/calming-spell) ✿ [Lotus Hail](/docs/lotushail) ✿ [Jade Dust](/docs/jadedust) ✿ [Mountain Ape](/docs/mountainape)
+[Marée Rouge](/docs/calming-spell) ✿ [Grêle de Lotus](/docs/lotushail) ✿ [Poussière de Jade](/docs/jadedust) ✿ [Singe des Montagnes](/docs/mountainape)

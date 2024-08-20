@@ -1,25 +1,25 @@
 ---
 sidebar_position: 2
-title: Spells
+title: Заклинания
 slug: /spells
 ---
 
-Spells are various mystical arts that the destined person learns during their journey. In the game "Black Myth: Wukong," spells can be changed at the shrine's "Spell Preparation," and only one spell of each type can be equipped simultaneously.
+Заклинания — это различные мистические искусства, которые обреченный человек изучает во время своего путешествия. В игре "Black Myth: Wukong" заклинания можно изменять в святилище "Подготовка заклинаний", и одновременно можно экипировать только одно заклинание каждого типа.
 
-## Spell Directory In Black Myth: Wukong
+## Каталог заклинаний в Black Myth: Wukong
 
-### Mystical Arts
+### Мистические искусства
 
-[Hold Spell](/docs/hold-spell) ✿ [Calming Spell](/docs/calming-spell)
+[Заклинание удержания](/docs/hold-spell) ✿ [Успокаивающее заклинание](/docs/calming-spell)
 
-### Body Techniques
+### Техники тела
 
-[Iron Head and Steel Arm](/docs/iron-head-and-steel-arms) ✿ [Shape Gathering and Qi Dispersion](/docs/gathering-form)
+[Железная голова и стальная рука](/docs/iron-head-and-steel-arms) ✿ [Собирание формы и рассеивание ци](/docs/gathering-form)
 
-### Hair Techniques
+### Техники волос
 
-[Doppelganger Technique](/docs/doppelganger-technique)
+[Техника двойников](/docs/doppelganger-technique)
 
-### Transformations
+### Трансформации
 
-[Crimson Tide](/docs/calming-spell) ✿ [Lotus Hail](/docs/lotushail) ✿ [Jade Dust](/docs/jadedust) ✿ [Mountain Ape](/docs/mountainape)
+[Багровая волна](/docs/calming-spell) ✿ [Град лотоса](/docs/lotushail) ✿ [Нефритовая пыль](/docs/jadedust) ✿ [Гора-обезьяна](/docs/mountainape)

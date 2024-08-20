@@ -1,25 +1,25 @@
 ---
 sidebar_position: 2
-title: Spells
+title: Hechizos
 slug: /spells
 ---
 
-Spells are various mystical arts that the destined person learns during their journey. In the game "Black Myth: Wukong," spells can be changed at the shrine's "Spell Preparation," and only one spell of each type can be equipped simultaneously.
+Los hechizos son diversas artes místicas que la persona destinada aprende durante su viaje. En el juego "Black Myth: Wukong", los hechizos pueden ser cambiados en el "Preparación de Hechizos" del santuario, y solo se puede equipar un hechizo de cada tipo al mismo tiempo.
 
-## Spell Directory In Black Myth: Wukong
+## Directorio de Hechizos en Black Myth: Wukong
 
-### Mystical Arts
+### Artes Místicas
 
-[Hold Spell](/docs/hold-spell) ✿ [Calming Spell](/docs/calming-spell)
+[Hechizo de Retención](/docs/hold-spell) ✿ [Hechizo Calmante](/docs/calming-spell)
 
-### Body Techniques
+### Técnicas Corporales
 
-[Iron Head and Steel Arm](/docs/iron-head-and-steel-arms) ✿ [Shape Gathering and Qi Dispersion](/docs/gathering-form)
+[Cabeza de Hierro y Brazos de Acero](/docs/iron-head-and-steel-arms) ✿ [Reunión de Forma y Dispersión de Qi](/docs/gathering-form)
 
-### Hair Techniques
+### Técnicas de Cabello
 
-[Doppelganger Technique](/docs/doppelganger-technique)
+[Técnica de Doble](/docs/doppelganger-technique)
 
-### Transformations
+### Transformaciones
 
-[Crimson Tide](/docs/calming-spell) ✿ [Lotus Hail](/docs/lotushail) ✿ [Jade Dust](/docs/jadedust) ✿ [Mountain Ape](/docs/mountainape)
+[Marea Carmesí](/docs/calming-spell) ✿ [Granizo de Loto](/docs/lotushail) ✿ [Polvo de Jade](/docs/jadedust) ✿ [Mono de Montaña](/docs/mountainape)

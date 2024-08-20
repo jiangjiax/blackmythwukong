@@ -1,25 +1,25 @@
 ---
 sidebar_position: 2
-title: Spells
+title: Zaklęcia
 slug: /spells
 ---
 
-Spells are various mystical arts that the destined person learns during their journey. In the game "Black Myth: Wukong," spells can be changed at the shrine's "Spell Preparation," and only one spell of each type can be equipped simultaneously.
+Zaklęcia to różnorodne mistyczne sztuki, które przeznaczona osoba uczy się podczas swojej podróży. W grze "Black Myth: Wukong" zaklęcia można zmieniać w "Przygotowaniu Zaklęć" przy ołtarzu, a tylko jedno zaklęcie każdego typu można wyposażyć jednocześnie.
 
-## Spell Directory In Black Myth: Wukong
+## Katalog Zaklęć w Black Myth: Wukong
 
-### Mystical Arts
+### Sztuki Mistyczne
 
-[Hold Spell](/docs/hold-spell) ✿ [Calming Spell](/docs/calming-spell)
+[Zaklęcie Trzymania](/docs/hold-spell) ✿ [Zaklęcie Uspokajające](/docs/calming-spell)
 
-### Body Techniques
+### Techniki Ciała
 
-[Iron Head and Steel Arm](/docs/iron-head-and-steel-arms) ✿ [Shape Gathering and Qi Dispersion](/docs/gathering-form)
+[Żelazna Głowa i Stalowe Ramiona](/docs/iron-head-and-steel-arms) ✿ [Zbieranie Kształtu i Rozproszenie Qi](/docs/gathering-form)
 
-### Hair Techniques
+### Techniki Włosów
 
-[Doppelganger Technique](/docs/doppelganger-technique)
+[Technika Dzielenia Się](/docs/doppelganger-technique)
 
-### Transformations
+### Przemiany
 
-[Crimson Tide](/docs/calming-spell) ✿ [Lotus Hail](/docs/lotushail) ✿ [Jade Dust](/docs/jadedust) ✿ [Mountain Ape](/docs/mountainape)
+[Czerwona Fala](/docs/calming-spell) ✿ [Grad Lotosu](/docs/lotushail) ✿ [Pył Jadeitowy](/docs/jadedust) ✿ [Górski Małpa](/docs/mountainape)

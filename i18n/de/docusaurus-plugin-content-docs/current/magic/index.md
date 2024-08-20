@@ -1,25 +1,25 @@
 ---
 sidebar_position: 2
-title: Spells
+title: Zaubersprüche
 slug: /spells
 ---
 
-Spells are various mystical arts that the destined person learns during their journey. In the game "Black Myth: Wukong," spells can be changed at the shrine's "Spell Preparation," and only one spell of each type can be equipped simultaneously.
+Zaubersprüche sind verschiedene mystische Künste, die der auserwählte Mensch während seiner Reise erlernt. Im Spiel "Black Myth: Wukong" können Zaubersprüche am Schrein "Zauber Vorbereitung" geändert werden, und jeweils nur ein Zauberspruch jeder Art kann gleichzeitig ausgerüstet werden.
 
-## Spell Directory In Black Myth: Wukong
+## Zauberverzeichnis in Black Myth: Wukong
 
-### Mystical Arts
+### Mystische Künste
 
-[Hold Spell](/docs/hold-spell) ✿ [Calming Spell](/docs/calming-spell)
+[Zauber halten](/docs/hold-spell) ✿ [Beruhigender Zauber](/docs/calming-spell)
 
-### Body Techniques
+### Körpertechniken
 
-[Iron Head and Steel Arm](/docs/iron-head-and-steel-arms) ✿ [Shape Gathering and Qi Dispersion](/docs/gathering-form)
+[Eisenkopf und Stahlarm](/docs/iron-head-and-steel-arms) ✿ [Formansammlung und Qi-Verteilung](/docs/gathering-form)
 
-### Hair Techniques
+### Haartechniken
 
-[Doppelganger Technique](/docs/doppelganger-technique)
+[Doppelgänger-Technik](/docs/doppelganger-technique)
 
-### Transformations
+### Verwandlungen
 
-[Crimson Tide](/docs/calming-spell) ✿ [Lotus Hail](/docs/lotushail) ✿ [Jade Dust](/docs/jadedust) ✿ [Mountain Ape](/docs/mountainape)
+[Blutroter Flut](/docs/calming-spell) ✿ [Lotus-Hagel](/docs/lotushail) ✿ [Jade-Staub](/docs/jadedust) ✿ [Bergaffe](/docs/mountainape)

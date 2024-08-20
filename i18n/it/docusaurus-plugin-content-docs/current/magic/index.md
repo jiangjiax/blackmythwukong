@@ -1,25 +1,25 @@
 ---
 sidebar_position: 2
-title: Spells
+title: Incantesimi
 slug: /spells
 ---
 
-Spells are various mystical arts that the destined person learns during their journey. In the game "Black Myth: Wukong," spells can be changed at the shrine's "Spell Preparation," and only one spell of each type can be equipped simultaneously.
+Gli incantesimi sono varie arti mistiche che la persona destinata impara durante il suo viaggio. Nel gioco "Black Myth: Wukong", gli incantesimi possono essere cambiati alla "Preparazione degli Incantesimi" del santuario, e solo un incantesimo di ogni tipo può essere equipaggiato contemporaneamente.
 
-## Spell Directory In Black Myth: Wukong
+## Elenco degli Incantesimi in Black Myth: Wukong
 
-### Mystical Arts
+### Arti Mistiche
 
-[Hold Spell](/docs/hold-spell) ✿ [Calming Spell](/docs/calming-spell)
+[Incantesimo di Mantenimento](/docs/hold-spell) ✿ [Incantesimo di Calma](/docs/calming-spell)
 
-### Body Techniques
+### Tecniche del Corpo
 
-[Iron Head and Steel Arm](/docs/iron-head-and-steel-arms) ✿ [Shape Gathering and Qi Dispersion](/docs/gathering-form)
+[Testa di Ferro e Braccia d'Acciaio](/docs/iron-head-and-steel-arms) ✿ [Raccolta della Forma e Dispersione del Qi](/docs/gathering-form)
 
-### Hair Techniques
+### Tecniche dei Capelli
 
-[Doppelganger Technique](/docs/doppelganger-technique)
+[Tecnica del Doppio](/docs/doppelganger-technique)
 
-### Transformations
+### Trasformazioni
 
-[Crimson Tide](/docs/calming-spell) ✿ [Lotus Hail](/docs/lotushail) ✿ [Jade Dust](/docs/jadedust) ✿ [Mountain Ape](/docs/mountainape)
+[Marea Cremisi](/docs/calming-spell) ✿ [Grandine di Loto](/docs/lotushail) ✿ [Polvere di Giada](/docs/jadedust) ✿ [Scimmia della Montagna](/docs/mountainape)

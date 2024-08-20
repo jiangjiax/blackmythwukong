@@ -1,25 +1,25 @@
 ---
 sidebar_position: 2
-title: Spells
+title: 呪文
 slug: /spells
 ---
 
-Spells are various mystical arts that the destined person learns during their journey. In the game "Black Myth: Wukong," spells can be changed at the shrine's "Spell Preparation," and only one spell of each type can be equipped simultaneously.
+呪文は、運命づけられた者が旅の中で学ぶ様々な神秘的な芸術です。ゲーム「黒神話：悟空」では、神社の「呪文準備」で呪文を変更することができ、各タイプの呪文は同時に一つしか装備できません。
 
-## Spell Directory In Black Myth: Wukong
+## 黒神話：悟空における呪文ディレクトリ
 
-### Mystical Arts
+### 神秘的な芸術
 
-[Hold Spell](/docs/hold-spell) ✿ [Calming Spell](/docs/calming-spell)
+[持続呪文](/docs/hold-spell) ✿ [鎮静呪文](/docs/calming-spell)
 
-### Body Techniques
+### 体技
 
-[Iron Head and Steel Arm](/docs/iron-head-and-steel-arms) ✿ [Shape Gathering and Qi Dispersion](/docs/gathering-form)
+[鉄頭と鋼の腕](/docs/iron-head-and-steel-arms) ✿ [形集めと気散らし](/docs/gathering-form)
 
-### Hair Techniques
+### 髪の技
 
-[Doppelganger Technique](/docs/doppelganger-technique)
+[分身の術](/docs/doppelganger-technique)
 
-### Transformations
+### 変身
 
-[Crimson Tide](/docs/calming-spell) ✿ [Lotus Hail](/docs/lotushail) ✿ [Jade Dust](/docs/jadedust) ✿ [Mountain Ape](/docs/mountainape)
+[紅潮](/docs/calming-spell) ✿ [蓮の雹](/docs/lotushail) ✿ [翡翠の塵](/docs/jadedust) ✿ [山猿](/docs/mountainape)

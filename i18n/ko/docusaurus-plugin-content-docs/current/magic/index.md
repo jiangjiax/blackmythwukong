@@ -1,25 +1,25 @@
 ---
 sidebar_position: 2
-title: Spells
+title: 마법
 slug: /spells
 ---
 
-Spells are various mystical arts that the destined person learns during their journey. In the game "Black Myth: Wukong," spells can be changed at the shrine's "Spell Preparation," and only one spell of each type can be equipped simultaneously.
+마법은 운명적인 사람이 여정 중에 배우는 다양한 신비한 기술입니다. 게임 "검은 신화: 오공"에서 마법은 신단의 "마법 준비"에서 변경할 수 있으며, 각 유형의 마법 중 하나만 동시에 장착할 수 있습니다.
 
-## Spell Directory In Black Myth: Wukong
+## 검은 신화: 오공의 마법 디렉토리
 
-### Mystical Arts
+### 신비한 기술
 
-[Hold Spell](/docs/hold-spell) ✿ [Calming Spell](/docs/calming-spell)
+[홀드 마법](/docs/hold-spell) ✿ [진정 마법](/docs/calming-spell)
 
-### Body Techniques
+### 몸 기술
 
-[Iron Head and Steel Arm](/docs/iron-head-and-steel-arms) ✿ [Shape Gathering and Qi Dispersion](/docs/gathering-form)
+[철 머리와 강철 팔](/docs/iron-head-and-steel-arms) ✿ [형상 모으기와 기 흩어지기](/docs/gathering-form)
 
-### Hair Techniques
+### 머리카락 기술
 
-[Doppelganger Technique](/docs/doppelganger-technique)
+[도플갱어 기술](/docs/doppelganger-technique)
 
-### Transformations
+### 변신
 
-[Crimson Tide](/docs/calming-spell) ✿ [Lotus Hail](/docs/lotushail) ✿ [Jade Dust](/docs/jadedust) ✿ [Mountain Ape](/docs/mountainape)
+[진홍 파도](/docs/calming-spell) ✿ [연꽃 우박](/docs/lotushail) ✿ [옥 가루](/docs/jadedust) ✿ [산 원숭이](/docs/mountainape)

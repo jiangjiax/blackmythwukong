@@ -1,25 +1,25 @@
 ---
 sidebar_position: 2
-title: Spells
+title: Feitiços
 slug: /spells
 ---
 
-Spells are various mystical arts that the destined person learns during their journey. In the game "Black Myth: Wukong," spells can be changed at the shrine's "Spell Preparation," and only one spell of each type can be equipped simultaneously.
+Feitiços são várias artes místicas que a pessoa destinada aprende durante sua jornada. No jogo "Black Myth: Wukong", os feitiços podem ser alterados no "Preparação de Feitiços" do santuário, e apenas um feitiço de cada tipo pode ser equipado simultaneamente.
 
-## Spell Directory In Black Myth: Wukong
+## Diretório de Feitiços em Black Myth: Wukong
 
-### Mystical Arts
+### Artes Místicas
 
-[Hold Spell](/docs/hold-spell) ✿ [Calming Spell](/docs/calming-spell)
+[Feitiço de Retenção](/docs/hold-spell) ✿ [Feitiço de Acalmar](/docs/calming-spell)
 
-### Body Techniques
+### Técnicas Corporais
 
-[Iron Head and Steel Arm](/docs/iron-head-and-steel-arms) ✿ [Shape Gathering and Qi Dispersion](/docs/gathering-form)
+[Cabeça de Ferro e Braços de Aço](/docs/iron-head-and-steel-arms) ✿ [Forma de Reunião e Dispersão de Qi](/docs/gathering-form)
 
-### Hair Techniques
+### Técnicas de Cabelo
 
-[Doppelganger Technique](/docs/doppelganger-technique)
+[Técnica de Duplicata](/docs/doppelganger-technique)
 
-### Transformations
+### Transformações
 
-[Crimson Tide](/docs/calming-spell) ✿ [Lotus Hail](/docs/lotushail) ✿ [Jade Dust](/docs/jadedust) ✿ [Mountain Ape](/docs/mountainape)
+[Maré Carmesim](/docs/calming-spell) ✿ [Granizo de Lótus](/docs/lotushail) ✿ [Pó de Jade](/docs/jadedust) ✿ [Macaco da Montanha](/docs/mountainape)
