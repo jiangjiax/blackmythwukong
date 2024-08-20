@@ -14,5 +14,17 @@
   "sidebar.tutorialSidebar.category.Spells": {
     "message": "法術",
     "description": "The label for category Spells in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.背景故事": {
+    "message": "背景故事",
+    "description": "The label for category 背景故事 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.首領": {
+    "message": "首領",
+    "description": "The label for category 首領 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.法術": {
+    "message": "法術",
+    "description": "The label for category 法術 in sidebar tutorialSidebar"
   }
 }

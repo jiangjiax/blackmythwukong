@@ -12,17 +12,17 @@ const IndexTitle = translate({
 })
 
 const tagline1 = translate({
-    id: 'patchnotes.tagline1',
+    id: 'combat.tagline1',
     message: 'Mastering the combat system in '
 })
 
 const tagline2 = translate({
-    id: 'patchnotes.tagline2',
+    id: 'combat.tagline2',
     message: 'Black Myth: Wukong '
 })
 
 const tagline3 = translate({
-    id: 'patchnotes.tagline3',
+    id: 'combat.tagline3',
     message: "involves a comprehensive guide that compiles strategies and techniques to enhance players' proficiency in engaging with adversaries and overcoming challenges within the game. Success in vanquishing foes, including formidable bosses, hinges on understanding their unique vulnerabilities and attack patterns."
 })
 

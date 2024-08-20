@@ -810,5 +810,14 @@
   },
   "Equip": {
     "message": "Equipar"
+  },
+  "combat.tagline1": {
+    "message": "Dominar o sistema de combate em "
+  },
+  "combat.tagline2": {
+    "message": "Black Myth: Wukong "
+  },
+  "combat.tagline3": {
+    "message": "envolve um guia abrangente que reúne estratégias e técnicas para melhorar a proficiência dos jogadores ao enfrentar adversários e superar desafios no jogo. O sucesso em derrotar inimigos, incluindo chefes formidáveis, depende de entender suas vulnerabilidades únicas e padrões de ataque."
   }
 }

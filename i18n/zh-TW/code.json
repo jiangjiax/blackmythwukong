@@ -810,5 +810,17 @@
   },
   "BLACK MYTH WUKONG FINAL TRAILER": {
     "message": "黑神話悟空最終預告片"
+  },
+  "combat.tagline1": {
+    "message": "掌握戰鬥系統在 "
+  },
+  "combat.tagline2": {
+    "message": "黑神話悟空 "
+  },
+  "combat.tagline3": {
+    "message": "涉及一個綜合指南，該指南匯編了策略和技術，以提高玩家在與對手交戰和克服遊戲內挑戰方面的熟練度。成功擊敗敵人，包括強大的Boss，關鍵在於理解他們獨特的弱點和攻擊模式。"
+  },
+  "Black Myth: Wukong Development Progress": {
+    "message": "Black Myth: Wukong Development Progress"
   }
 }

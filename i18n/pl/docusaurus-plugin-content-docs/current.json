@@ -14,5 +14,17 @@
   "sidebar.tutorialSidebar.category.Spells": {
     "message": "Czary",
     "description": "The label for category Spells in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tło Fabularne": {
+    "message": "Tło Fabularne",
+    "description": "The label for category Tło Fabularne in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bossy": {
+    "message": "Bossy",
+    "description": "The label for category Bossy in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Zaklęcia": {
+    "message": "Zaklęcia",
+    "description": "The label for category Zaklęcia in sidebar tutorialSidebar"
   }
 }

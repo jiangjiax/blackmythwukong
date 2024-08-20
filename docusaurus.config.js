@@ -216,7 +216,7 @@ const config = {
             items: [
               {
                 label: 'Sun WuKong',
-                href: '/combat',
+                href: '/sunwukong',
               },
               {
                 label: 'Stats',
@@ -315,7 +315,7 @@ const config = {
             items: [
               {
                 label: 'Sun WuKong',
-                href: '/combat',
+                href: '/sunwukong',
               },
               {
                 label: 'Stats',

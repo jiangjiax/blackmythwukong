@@ -14,5 +14,17 @@
   "sidebar.tutorialSidebar.category.Spells": {
     "message": "呪文",
     "description": "The label for category Spells in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.背景ストーリー": {
+    "message": "背景ストーリー",
+    "description": "The label for category 背景ストーリー in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.ボス": {
+    "message": "ボス",
+    "description": "The label for category ボス in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.呪文": {
+    "message": "呪文",
+    "description": "The label for category 呪文 in sidebar tutorialSidebar"
   }
 }

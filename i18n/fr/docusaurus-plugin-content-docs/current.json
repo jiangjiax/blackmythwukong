@@ -14,5 +14,13 @@
   "sidebar.tutorialSidebar.category.Spells": {
     "message": "Sorts",
     "description": "The label for category Spells in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Histoire de Fond": {
+    "message": "Histoire de Fond",
+    "description": "The label for category Histoire de Fond in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Sorts": {
+    "message": "Sorts",
+    "description": "The label for category Sorts in sidebar tutorialSidebar"
   }
 }

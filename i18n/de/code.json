@@ -810,5 +810,14 @@
   },
   "BLACK MYTH WUKONG FINAL TRAILER": {
     "message": "BLACK MYTH WUKONG FINALER TRAILER"
+  },
+  "combat.tagline1": {
+    "message": "Meistern des Kampfsystems in "
+  },
+  "combat.tagline2": {
+    "message": "Black Myth: Wukong "
+  },
+  "combat.tagline3": {
+    "message": "beinhaltet ein umfassendes Handbuch, das Strategien und Techniken zusammenstellt, um die Kompetenz der Spieler bei der Auseinandersetzung mit Gegnern und der Überwindung von Herausforderungen im Spiel zu verbessern. Der Erfolg beim Besiegen von Feinden, einschließlich mächtiger Bosse, hängt von der Kenntnis ihrer einzigartigen Schwächen und Angriffsmustern ab."
   }
 }

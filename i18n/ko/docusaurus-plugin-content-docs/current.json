@@ -14,5 +14,17 @@
   "sidebar.tutorialSidebar.category.Spells": {
     "message": "주문",
     "description": "The label for category Spells in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.배경 이야기": {
+    "message": "배경 이야기",
+    "description": "The label for category 배경 이야기 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.보스들": {
+    "message": "보스들",
+    "description": "The label for category 보스들 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.마법": {
+    "message": "마법",
+    "description": "The label for category 마법 in sidebar tutorialSidebar"
   }
 }

@@ -14,5 +14,17 @@
   "sidebar.tutorialSidebar.category.Spells": {
     "message": "Feitiços",
     "description": "The label for category Spells in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.História de Fundo": {
+    "message": "História de Fundo",
+    "description": "The label for category História de Fundo in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Chefes": {
+    "message": "Chefes",
+    "description": "The label for category Chefes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Feitiços": {
+    "message": "Feitiços",
+    "description": "The label for category Feitiços in sidebar tutorialSidebar"
   }
 }

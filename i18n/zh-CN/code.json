@@ -810,5 +810,14 @@
   },
   "BLACK MYTH WUKONG FINAL TRAILER": {
     "message": "黑神话悟空最终预告片"
+  },
+  "combat.tagline1": {
+    "message": "掌握战斗系统在 "
+  },
+  "combat.tagline2": {
+    "message": "黑神话悟空 "
+  },
+  "combat.tagline3": {
+    "message": "涉及一个综合指南，该指南汇编了策略和技术，以提高玩家在与对手交战和克服游戏内挑战方面的熟练度。成功击败敌人，包括强大的Boss，关键在于理解他们独特的弱点和攻击模式。"
   }
 }

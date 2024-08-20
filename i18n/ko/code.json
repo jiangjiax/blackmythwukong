@@ -810,5 +810,14 @@
   },
   "BLACK MYTH WUKONG FINAL TRAILER": {
     "message": "검은 신화: 오공 최종 트레일러"
+  },
+  "combat.tagline1": {
+    "message": "전투 시스템을 마스터하는 것은  "
+  },
+  "combat.tagline2": {
+    "message": "검은 신화: 오공 "
+  },
+  "combat.tagline3": {
+    "message": "게임 내 적과의 교전 및 도전 과제 극복을 위한 플레이어의 숙련도를 향상시키기 위한 전략과 기술을 수집한 종합 가이드를 포함합니다. 강력한 보스를 포함한 적을 물리치는 데 성공하는 것은 그들의 독특한 약점과 공격 패턴을 이해하는 것에 달려 있습니다."
   }
 }

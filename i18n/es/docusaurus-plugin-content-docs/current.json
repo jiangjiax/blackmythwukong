@@ -14,5 +14,17 @@
   "sidebar.tutorialSidebar.category.Spells": {
     "message": "Hechizos",
     "description": "The label for category Spells in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Antecedentes": {
+    "message": "Antecedentes",
+    "description": "The label for category Antecedentes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Jefes": {
+    "message": "Jefes",
+    "description": "The label for category Jefes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Hechizos": {
+    "message": "Hechizos",
+    "description": "The label for category Hechizos in sidebar tutorialSidebar"
   }
 }

@@ -14,5 +14,17 @@
   "sidebar.tutorialSidebar.category.Spells": {
     "message": "Zauber",
     "description": "The label for category Spells in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Hintergrundgeschichte": {
+    "message": "Hintergrundgeschichte",
+    "description": "The label for category Hintergrundgeschichte in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Bosse": {
+    "message": "Bosse",
+    "description": "The label for category Bosse in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Zaubersprüche": {
+    "message": "Zaubersprüche",
+    "description": "The label for category Zaubersprüche in sidebar tutorialSidebar"
   }
 }

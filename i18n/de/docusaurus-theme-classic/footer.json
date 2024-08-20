@@ -33,7 +33,7 @@
   },
   "link.item.label.Sun WuKong": {
     "message": "Sun WuKong",
-    "description": "The label of footer link with label=Sun WuKong linking to /combat"
+    "description": "The label of footer link with label=Sun WuKong linking to /sunwukong"
   },
   "link.item.label.Stats": {
     "message": "Statistiken",

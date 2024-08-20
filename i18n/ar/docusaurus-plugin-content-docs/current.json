@@ -14,5 +14,17 @@
   "sidebar.tutorialSidebar.category.Spells": {
     "message": "الإخطبوطات",
     "description": "The label for category Spells in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.السياق الخلفي": {
+    "message": "السياق الخلفي",
+    "description": "The label for category السياق الخلفي in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.الرؤساء": {
+    "message": "الرؤساء",
+    "description": "The label for category الرؤساء in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.سحر": {
+    "message": "سحر",
+    "description": "The label for category سحر in sidebar tutorialSidebar"
   }
 }

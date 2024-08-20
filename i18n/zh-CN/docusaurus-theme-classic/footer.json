@@ -1,66 +1,66 @@
 {
   "link.title.GENERAL INFORMATION": {
     "message": "综合信息",
-    "description": "页脚链接栏的标题，标题为GENERAL INFORMATION"
+    "description": "The title of the footer links column with title=GENERAL INFORMATION in the footer"
   },
   "link.title.CHARACTER INFORMATION": {
     "message": "角色信息",
-    "description": "页脚链接栏的标题，标题为CHARACTER INFORMATION"
+    "description": "The title of the footer links column with title=CHARACTER INFORMATION in the footer"
   },
   "link.title.WORLD INFORMATION": {
     "message": "世界信息",
-    "description": "页脚链接栏的标题，标题为WORLD INFORMATION"
+    "description": "The title of the footer links column with title=WORLD INFORMATION in the footer"
   },
   "link.title.More": {
     "message": "更多",
-    "description": "页脚链接栏的标题，标题为More"
+    "description": "The title of the footer links column with title=More in the footer"
   },
   "link.item.label.Combat": {
     "message": "战斗",
-    "description": "页脚链接的标签，标签为Combat，链接至/combat"
+    "description": "The label of footer link with label=Combat linking to /combat"
   },
   "link.item.label.Gameplay": {
     "message": "游戏玩法",
-    "description": "页脚链接的标签，标签为Gameplay，链接至/#gameplay"
+    "description": "The label of footer link with label=Gameplay linking to /#gameplay"
   },
   "link.item.label.FAQs & News": {
     "message": "常见问题与新闻",
-    "description": "页脚链接的标签，标签为FAQs & News，链接至/#faq"
+    "description": "The label of footer link with label=FAQs & News linking to /#faq"
   },
   "link.item.label.Wallpapers": {
     "message": "壁纸",
-    "description": "页脚链接的标签，标签为Wallpapers，链接至/#wallpapers"
+    "description": "The label of footer link with label=Wallpapers linking to /#wallpapers"
   },
   "link.item.label.Sun WuKong": {
     "message": "孙悟空",
-    "description": "页脚链接的标签，标签为Sun WuKong，链接至/combat"
+    "description": "The label of footer link with label=Sun WuKong linking to /sunwukong"
   },
   "link.item.label.Stats": {
     "message": "属性",
-    "description": "页脚链接的标签，标签为Stats，链接至/docs/stats"
+    "description": "The label of footer link with label=Stats linking to /docs/stats"
   },
   "link.item.label.Spells": {
     "message": "法术",
-    "description": "页脚链接的标签，标签为Spells，链接至/docs/spells"
+    "description": "The label of footer link with label=Spells linking to /docs/spells"
   },
   "link.item.label.Equip": {
     "message": "装备",
-    "description": "页脚链接的标签，标签为Equip，链接至/docs/equip"
+    "description": "The label of footer link with label=Equip linking to /docs/equip"
   },
   "link.item.label.Maps": {
     "message": "地图",
-    "description": "页脚链接的标签，标签为Maps，链接至/docs/maps"
+    "description": "The label of footer link with label=Maps linking to /docs/maps"
   },
   "link.item.label.Bosses": {
     "message": "Boss",
-    "description": "页脚链接的标签，标签为Bosses，链接至/docs/bosses"
+    "description": "The label of footer link with label=Bosses linking to /docs/bosses"
   },
   "link.item.label.Back Story": {
     "message": "背景故事",
-    "description": "页脚链接的标签，标签为Back Story，链接至/docs/back-story"
+    "description": "The label of footer link with label=Back Story linking to /docs/back-story"
   },
   "link.item.label.Steam": {
     "message": "Steam",
-    "description": "页脚链接的标签，标签为Steam，链接至https://store.steampowered.com/app/2358720/_/"
+    "description": "The label of footer link with label=Steam linking to https://store.steampowered.com/app/2358720/_/"
   }
 }

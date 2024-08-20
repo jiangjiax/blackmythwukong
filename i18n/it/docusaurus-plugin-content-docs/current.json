@@ -14,5 +14,17 @@
   "sidebar.tutorialSidebar.category.Spells": {
     "message": "Incantesimi",
     "description": "The label for category Spells in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Storia di Base": {
+    "message": "Storia di Base",
+    "description": "The label for category Storia di Base in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Boss": {
+    "message": "Boss",
+    "description": "The label for category Boss in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Incantesimi": {
+    "message": "Incantesimi",
+    "description": "The label for category Incantesimi in sidebar tutorialSidebar"
   }
 }

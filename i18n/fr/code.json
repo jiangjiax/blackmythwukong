@@ -810,5 +810,14 @@
   },
   "BLACK MYTH WUKONG FINAL TRAILER": {
     "message": "BANDE-ANNONCE FINALE DE BLACK MYTH WUKONG"
+  },
+  "combat.tagline1": {
+    "message": "Maîtriser le système de combat dans "
+  },
+  "combat.tagline2": {
+    "message": "Black Myth: Wukong "
+  },
+  "combat.tagline3": {
+    "message": "implique un guide complet qui compile des stratégies et techniques pour améliorer la maîtrise des joueurs face aux adversaires et à la résolution des défis dans le jeu. Le succès dans la destruction des ennemis, y compris des boss redoutables, dépend de la compréhension de leurs vulnérabilités uniques et de leurs schémas d'attaque."
   }
 }
