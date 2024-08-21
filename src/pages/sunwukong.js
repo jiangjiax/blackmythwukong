@@ -23,7 +23,7 @@ const tagline2 = translate({
 
 const tagline3 = translate({
     id: 'patchnotes.tagline3',
-    message: "He is a legendary figure in Chinese mythology and literature, particularly renowned from the novel 'Journey to the West.' In the game, players take on the role of Sun Wukong, experiencing his legendary story and thrilling adventures."
+    message: "He is a legendary figure in Chinese mythology and literature, particularly renowned from the novel 'Journey to the West.'"
 })
 
 function Header() {
@@ -69,12 +69,9 @@ function Content() {
                             </h2>
                         </div>
                         <div className='text-gray-100'>
-                            <Translate>Black Myth: Wukong holds significant cultural importance as it draws from the rich Chinese literary tradition and mythology, particularly the classic novel "Journey to the West" and its iconic character Sun Wukong. </Translate>
-                            <h3 className='text-xl mt-4'>Adaptation of a classic tale</h3>
+                            <Translate>Black Myth: Wukong holds significant cultural importance as it draws from the rich Chinese literary tradition and mythology, particularly the classic novel 《Journey to the West》 and its iconic character Sun Wukong.</Translate>
                             <Translate>While based on 'Journey to the West,' the game offers a fresh perspective on the story, potentially exploring themes of rebellion, free will, and the complex relationships between gods, humans, and demons (Yaoguai).</Translate>
-                            <h3 className='text-xl mt-4'>Cultural exchange through gaming</h3>
                             <Translate>The game serves as a vehicle for introducing elements of Chinese culture, mythology, and storytelling to a wider international audience. It has the potential to spark interest in Chinese literature and folklore among players unfamiliar with these traditions.</Translate>
-                            <h3 className='text-xl mt-4'>Reinterpretation of Sun Wukong</h3>
                             <Translate>The game emphasizes Sun Wukong's role as a powerful warrior deity (Fighting and Warring Deity), focusing on his combat prowess and legendary battles. This interpretation aligns with his portrayal in Chinese folklore as a symbol of rebellion and a hero of justice.</Translate>
                             <img src="/img/strategy.jpg" alt="Black Myth: Wukong wiki" className="mt-3" />
                         </div>
