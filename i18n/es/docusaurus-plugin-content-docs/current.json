@@ -26,5 +26,9 @@
   "sidebar.tutorialSidebar.category.Hechizos": {
     "message": "Hechizos",
     "description": "The label for category Hechizos in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Mapas": {
+    "message": "Mapas",
+    "description": "The label for category Mapas in sidebar tutorialSidebar"
   }
 }

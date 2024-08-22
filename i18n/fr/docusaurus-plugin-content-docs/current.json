@@ -22,5 +22,9 @@
   "sidebar.tutorialSidebar.category.Sorts": {
     "message": "Sorts",
     "description": "The label for category Sorts in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Cartes": {
+    "message": "Cartes",
+    "description": "The label for category Cartes in sidebar tutorialSidebar"
   }
 }

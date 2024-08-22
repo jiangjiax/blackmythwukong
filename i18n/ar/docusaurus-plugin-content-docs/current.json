@@ -26,5 +26,9 @@
   "sidebar.tutorialSidebar.category.سحر": {
     "message": "سحر",
     "description": "The label for category سحر in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.الخرائط": {
+    "message": "الخرائط",
+    "description": "The label for category الخرائط in sidebar tutorialSidebar"
   }
 }

@@ -26,5 +26,9 @@
   "sidebar.tutorialSidebar.category.Incantesimi": {
     "message": "Incantesimi",
     "description": "The label for category Incantesimi in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Mappe": {
+    "message": "Mappe",
+    "description": "The label for category Mappe in sidebar tutorialSidebar"
   }
 }

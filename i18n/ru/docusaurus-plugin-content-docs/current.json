@@ -26,5 +26,9 @@
   "sidebar.tutorialSidebar.category.Заклинания": {
     "message": "Заклинания",
     "description": "The label for category Заклинания in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Карты": {
+    "message": "Карты",
+    "description": "The label for category Карты in sidebar tutorialSidebar"
   }
 }

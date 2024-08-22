@@ -26,5 +26,9 @@
   "sidebar.tutorialSidebar.category.Zaklęcia": {
     "message": "Zaklęcia",
     "description": "The label for category Zaklęcia in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Mapy": {
+    "message": "Mapy",
+    "description": "The label for category Mapy in sidebar tutorialSidebar"
   }
 }

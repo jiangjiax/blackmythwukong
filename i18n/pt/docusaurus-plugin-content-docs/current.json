@@ -26,5 +26,9 @@
   "sidebar.tutorialSidebar.category.Feitiços": {
     "message": "Feitiços",
     "description": "The label for category Feitiços in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Mapas": {
+    "message": "Mapas",
+    "description": "The label for category Mapas in sidebar tutorialSidebar"
   }
 }

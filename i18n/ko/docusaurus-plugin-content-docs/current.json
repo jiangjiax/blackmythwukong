@@ -26,5 +26,9 @@
   "sidebar.tutorialSidebar.category.마법": {
     "message": "마법",
     "description": "The label for category 마법 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.지도": {
+    "message": "지도",
+    "description": "The label for category 지도 in sidebar tutorialSidebar"
   }
 }

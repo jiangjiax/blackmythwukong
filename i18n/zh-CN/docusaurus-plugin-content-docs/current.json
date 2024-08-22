@@ -26,5 +26,9 @@
   "sidebar.tutorialSidebar.category.法术": {
     "message": "法术",
     "description": "The label for category 法术 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.地图": {
+    "message": "地图",
+    "description": "The label for category 地图 in sidebar tutorialSidebar"
   }
 }

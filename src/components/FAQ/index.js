@@ -69,12 +69,21 @@ export default function FAQ() {
                 <li><Translate>VRAM: 8 GB</Translate></li>
               </ul>
               <h3 className='text-xl mt-4'><Translate>Ultra Ray Tracing Configuration (High settings, Ultra RT, 4K)</Translate></h3>
-              <ul className='mt-1 mb-4'>
+              <ul className='mt-1 mb-1'>
                 <li><Translate>CPU: Intel Core i7-9700 or AMD Ryzen 5 5500</Translate></li>
                 <li><Translate>Graphics: NVIDIA GeForce RTX 4080 Super</Translate></li>
                 <li><Translate>VRAM: 16 GB</Translate></li>
                 <li><Translate>RAM: 32 GB</Translate></li>
               </ul>
+            </div>
+            <div className="flex items-start w-full space-x-2 mb-2 mt-5">
+              <img src="/img/chinaicon.png" alt="BLACK MYTH: WUKONG WIKI" className="w-8 h-8 mt-1" />
+              <h2 className="text-2xl font-medium title-font text-white"><Translate>What is the Black Myth: Wukong Wiki?</Translate></h2>
+            </div>
+            <div className='text-gray-100 mb-3'>
+              <div><Translate>Welcome to the Black Myth: Wukong Wiki, a comprehensive resource platform built collectively by enthusiasts, dedicated to delving into every aspect of this highly anticipated game.</Translate></div>
+              <div><Translate>Our Wiki is completely open-source, which means that every player can become a contributor of content. If you find any information that needs updating or correcting, or if you have new insights to share, simply visit our GitHub page to submit your suggestions or directly participate in editing. We believe that the collective wisdom can create the most rich and accurate game guide.</Translate></div>
+              <div><Translate>Join us in building the most comprehensive Black Myth: Wukong resource library. Each contribution you make will help players around the globe to better experience this game. Visit our Wiki now and start your exploration journey!</Translate></div>
             </div>
           </div>
           <div className="md:w-1/2 pr-5 pl-5">

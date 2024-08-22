@@ -279,11 +279,11 @@ const config = {
           //   position: 'left',
           //   label: 'GENERAL INFORMATION',
           // },
-          // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          {
+            href: 'https://github.com/jiangjiax/blackmythwukong',
+            label: 'GitHub',
+            position: 'right',
+          },
         ],
       },
       footer: {
@@ -366,6 +366,10 @@ const config = {
               {
                 label: 'Steam',
                 to: 'https://store.steampowered.com/app/2358720/_/',
+              },
+              {
+                label: 'GitHub',
+                to: 'https://github.com/jiangjiax/blackmythwukong',
               },
             ],
           },

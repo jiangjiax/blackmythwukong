@@ -26,5 +26,9 @@
   "sidebar.tutorialSidebar.category.Zaubersprüche": {
     "message": "Zaubersprüche",
     "description": "The label for category Zaubersprüche in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Karten": {
+    "message": "Karten",
+    "description": "The label for category Karten in sidebar tutorialSidebar"
   }
 }

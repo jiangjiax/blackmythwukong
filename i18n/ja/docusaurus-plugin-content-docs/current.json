@@ -26,5 +26,9 @@
   "sidebar.tutorialSidebar.category.呪文": {
     "message": "呪文",
     "description": "The label for category 呪文 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.マップ": {
+    "message": "マップ",
+    "description": "The label for category マップ in sidebar tutorialSidebar"
   }
 }
