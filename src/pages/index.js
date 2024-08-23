@@ -49,7 +49,7 @@ function HomepageHeader() {
           </p>
           <h1 className="text-xl"><Translate>Black Myth Wukong Wiki: Your Knowledge Repository</Translate></h1>
           <p className="leading-relaxed text-lg">
-            <Translate>Our Black Myth Wukong Wiki is an open-source initiative aimed at harnessing the collective power of gamers worldwide to create the most comprehensive and authoritative game guide. We cordially invite every enthusiast of "Black Myth: Wukong" to join us, contributing your insights and suggestions to enrich this treasure trove of knowledge. Visit our </Translate><a href="https://github.com/jiangjiax/blackmythwukong">GitHub</a> <Translate> to participate in the contributions, making our community thrive.</Translate>
+            <Translate>Our Black Myth Wukong Wiki is an open-source initiative aimed at harnessing the collective power of gamers worldwide to create the most comprehensive and authoritative game guide. We cordially invite every enthusiast of Black Myth: Wukong to join us, contributing your insights and suggestions to enrich this treasure trove of knowledge. Visit our </Translate><a href="https://github.com/jiangjiax/blackmythwukong">GitHub</a> <Translate> to participate in the contributions, making our community thrive.</Translate>
           </p>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2">
