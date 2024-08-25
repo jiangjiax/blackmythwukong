@@ -4,21 +4,25 @@ title: Spells
 slug: /spells
 ---
 
-Spells are various mystical arts that the destined person learns during their journey. In the game "Black Myth: Wukong," spells can be changed at the shrine's "Spell Preparation," and only one spell of each type can be equipped simultaneously.
+Spells are the foundation of one's existence and the key to survival in this world. Choosing the right moment to use spells can have a remarkable effect on the outcome of a battle.
+
+Spells are divided into four categories: Extraordinary Techniques, Body Techniques, Fur and Hair, and Transformation.
+
+Spells can be prepared and adjusted at the Land Temple. Comprehending spells requires the expenditure of Spiritual Light Points.
 
 ## Spell Directory In Black Myth: Wukong
 
 ### Mystical Arts
 
-[Hold Spell](/docs/hold-spell) ✿ [Calming Spell](/docs/calming-spell)
+[Immobilize](/docs/hold-spell) ✿ [Ring Of Fire](/docs/calming-spell)
 
 ### Body Techniques
 
-[Iron Head and Steel Arm](/docs/iron-head-and-steel-arms) ✿ [Shape Gathering and Qi Dispersion](/docs/gathering-form)
+[Rock Solid](/docs/iron-head-and-steel-arms) ✿ [Cloud Step](/docs/gathering-form)
 
 ### Hair Techniques
 
-[Doppelganger Technique](/docs/doppelganger-technique)
+[A Pluck Of Many](/docs/doppelganger-technique)
 
 ### Transformations
 
