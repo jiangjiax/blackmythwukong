@@ -4,22 +4,26 @@ title: Hechizos
 slug: /spells
 ---
 
-Los hechizos son diversas artes místicas que la persona destinada aprende durante su viaje. En el juego "Black Myth: Wukong", los hechizos pueden ser cambiados en el "Preparación de Hechizos" del santuario, y solo se puede equipar un hechizo de cada tipo al mismo tiempo.
+Los hechizos son la base de la existencia de uno y la clave para la supervivencia en este mundo. Elegir el momento adecuado para usar hechizos puede tener un efecto notable en el resultado de una batalla.
+
+Los hechizos se dividen en cuatro categorías: Técnicas Extraordinarias, Técnicas Corporales, Pelaje y Transformación.
+
+Los hechizos pueden ser preparados y ajustados en el Templo de la Tierra. Comprender los hechizos requiere el gasto de Puntos de Luz Espiritual.
 
 ## Directorio de Hechizos en Black Myth: Wukong
 
 ### Artes Místicas
 
-[Hechizo de Retención](/docs/hold-spell) ✿ [Hechizo Calmante](/docs/calming-spell)
+[Immobilize](/docs/hold-spell) ✿ [Ring Of Fire](/docs/calming-spell)
 
 ### Técnicas Corporales
 
-[Cabeza de Hierro y Brazos de Acero](/docs/iron-head-and-steel-arms) ✿ [Reunión de Forma y Dispersión de Qi](/docs/gathering-form)
+[Rock Solid](/docs/iron-head-and-steel-arms) ✿ [Cloud Step](/docs/gathering-form)
 
-### Técnicas de Cabello
+### Técnicas de Pelo
 
-[Técnica de Doble](/docs/doppelganger-technique)
+[A Pluck Of Many](/docs/doppelganger-technique)
 
 ### Transformaciones
 
-[Marea Carmesí](/docs/calming-spell) ✿ [Granizo de Loto](/docs/lotushail) ✿ [Polvo de Jade](/docs/jadedust) ✿ [Mono de Montaña](/docs/mountainape)
+[Crimson Tide](/docs/calming-spell) ✿ [Lotus Hail](/docs/lotushail) ✿ [Jade Dust](/docs/jadedust) ✿ [Mountain Ape](/docs/mountainape)

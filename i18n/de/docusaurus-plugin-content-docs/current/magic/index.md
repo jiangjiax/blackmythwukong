@@ -4,22 +4,26 @@ title: Zaubersprüche
 slug: /spells
 ---
 
-Zaubersprüche sind verschiedene mystische Künste, die der auserwählte Mensch während seiner Reise erlernt. Im Spiel "Black Myth: Wukong" können Zaubersprüche am Schrein "Zauber Vorbereitung" geändert werden, und jeweils nur ein Zauberspruch jeder Art kann gleichzeitig ausgerüstet werden.
+Zaubersprüche sind die Grundlage des Daseins und der Schlüssel zum Überleben in dieser Welt. Die Wahl des richtigen Moments, um Zaubersprüche einzusetzen, kann einen bemerkenswerten Einfluss auf das Ergebnis einer Schlacht haben.
+
+Zaubersprüche sind in vier Kategorien unterteilt: Außergewöhnliche Techniken, Körpertechniken, Fell und Haar, und Verwandlungen.
+
+Zaubersprüche können im Landtempel vorbereitet und angepasst werden. Das Verständnis von Zaubersprüchen erfordert den Einsatz von Geistlichtpunkten.
 
 ## Zauberverzeichnis in Black Myth: Wukong
 
 ### Mystische Künste
 
-[Zauber halten](/docs/hold-spell) ✿ [Beruhigender Zauber](/docs/calming-spell)
+[Immobilize](/docs/hold-spell) ✿ [Ring Of Fire](/docs/calming-spell)
 
 ### Körpertechniken
 
-[Eisenkopf und Stahlarm](/docs/iron-head-and-steel-arms) ✿ [Formansammlung und Qi-Verteilung](/docs/gathering-form)
+[Rock Solid](/docs/iron-head-and-steel-arms) ✿ [Cloud Step](/docs/gathering-form)
 
 ### Haartechniken
 
-[Doppelgänger-Technik](/docs/doppelganger-technique)
+[A Pluck Of Many](/docs/doppelganger-technique)
 
 ### Verwandlungen
 
-[Blutroter Flut](/docs/calming-spell) ✿ [Lotus-Hagel](/docs/lotushail) ✿ [Jade-Staub](/docs/jadedust) ✿ [Bergaffe](/docs/mountainape)
+[Crimson Tide](/docs/calming-spell) ✿ [Lotus Hail](/docs/lotushail) ✿ [Jade Dust](/docs/jadedust) ✿ [Mountain Ape](/docs/mountainape)

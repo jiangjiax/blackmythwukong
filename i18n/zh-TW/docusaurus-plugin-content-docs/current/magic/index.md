@@ -10,7 +10,7 @@ slug: /spells
 
 ### 神秘藝術
 
-[持咒](/docs/hold-spell) ✿ [鎮靜咒](/docs/calming-spell)
+[定身術](/docs/hold-spell) ✿ [安身術](/docs/calming-spell)
 
 ### 身體技法
 

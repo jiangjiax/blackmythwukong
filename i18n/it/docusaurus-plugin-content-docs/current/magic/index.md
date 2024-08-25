@@ -4,21 +4,25 @@ title: Incantesimi
 slug: /spells
 ---
 
-Gli incantesimi sono varie arti mistiche che la persona destinata impara durante il suo viaggio. Nel gioco "Black Myth: Wukong", gli incantesimi possono essere cambiati alla "Preparazione degli Incantesimi" del santuario, e solo un incantesimo di ogni tipo può essere equipaggiato contemporaneamente.
+Gli incantesimi sono la base dell'esistenza di una persona e la chiave per la sopravvivenza in questo mondo. Scegliere il momento giusto per utilizzare gli incantesimi può avere un effetto notevole sul risultato di una battaglia.
+
+Gli incantesimi sono divisi in quattro categorie: Tecniche Straordinarie, Tecniche del Corpo, Tecniche del Pelo e della Pelle, e Trasformazioni.
+
+Gli incantesimi possono essere preparati e adattati alla Terra del Tempio. Comprendere gli incantesimi richiede la spesa di Punti Luce Spirituale.
 
 ## Elenco degli Incantesimi in Black Myth: Wukong
 
 ### Arti Mistiche
 
-[Incantesimo di Mantenimento](/docs/hold-spell) ✿ [Incantesimo di Calma](/docs/calming-spell)
+[Immobilizzare](/docs/hold-spell) ✿ [Anello di Fuoco](/docs/calming-spell)
 
 ### Tecniche del Corpo
 
-[Testa di Ferro e Braccia d'Acciaio](/docs/iron-head-and-steel-arms) ✿ [Raccolta della Forma e Dispersione del Qi](/docs/gathering-form)
+[Solido come una Roccia](/docs/iron-head-and-steel-arms) ✿ [Passo di Nuvola](/docs/gathering-form)
 
-### Tecniche dei Capelli
+### Tecniche del Pelo
 
-[Tecnica del Doppio](/docs/doppelganger-technique)
+[Un Tiro di Molti](/docs/doppelganger-technique)
 
 ### Trasformazioni
 
