@@ -30,5 +30,13 @@
   "sidebar.tutorialSidebar.category.الخرائط": {
     "message": "الخرائط",
     "description": "The label for category الخرائط in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Character": {
+    "message": "Character",
+    "description": "The label for category Character in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.خرائط": {
+    "message": "خرائط",
+    "description": "The label for category خرائط in sidebar tutorialSidebar"
   }
 }

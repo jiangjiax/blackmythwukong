@@ -30,5 +30,9 @@
   "sidebar.tutorialSidebar.category.マップ": {
     "message": "マップ",
     "description": "The label for category マップ in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Character": {
+    "message": "Character",
+    "description": "The label for category Character in sidebar tutorialSidebar"
   }
 }

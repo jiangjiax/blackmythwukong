@@ -26,5 +26,9 @@
   "sidebar.tutorialSidebar.category.Cartes": {
     "message": "Cartes",
     "description": "The label for category Cartes in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Character": {
+    "message": "Character",
+    "description": "The label for category Character in sidebar tutorialSidebar"
   }
 }

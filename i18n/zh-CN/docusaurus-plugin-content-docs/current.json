@@ -30,5 +30,9 @@
   "sidebar.tutorialSidebar.category.地图": {
     "message": "地图",
     "description": "The label for category 地图 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Character": {
+    "message": "Character",
+    "description": "The label for category Character in sidebar tutorialSidebar"
   }
 }

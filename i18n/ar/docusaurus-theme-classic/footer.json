@@ -62,5 +62,13 @@
   "link.item.label.Steam": {
     "message": "ستيم",
     "description": "The label of footer link with label=Steam linking to https://store.steampowered.com/app/2358720/_/"
+  },
+  "link.item.label.Character": {
+    "message": "Character",
+    "description": "The label of footer link with label=Character linking to /docs/character"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/jiangjiax/blackmythwukong"
   }
 }

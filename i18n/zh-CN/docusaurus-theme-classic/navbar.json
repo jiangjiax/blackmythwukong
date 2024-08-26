@@ -62,5 +62,13 @@
   "item.label.Back Story": {
     "message": "背景故事",
     "description": "Navbar item with label Back Story"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  },
+  "item.label.Character": {
+    "message": "角色",
+    "description": "Navbar item with label Character"
   }
 }
