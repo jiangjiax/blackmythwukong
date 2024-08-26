@@ -53,6 +53,8 @@ export default function HomeInformation() {
               <div className="leading-relaxed text-base flex flex-wrap">
                 <a href={indexHref+"/sunwukong"}><Translate>Sun WuKong</Translate></a>
                 <span className={styles.dividericon}>✿</span>
+                <a href={indexHref+"/docs/character"}><Translate>Character</Translate></a>
+                <span className={styles.dividericon}>✿</span>
                 <a href={indexHref+'/docs/stats'}><Translate>Stats</Translate></a>
                 <span className={styles.dividericon}>✿</span>
                 {/* <a onClick={handleClick}><Translate>Skills</Translate></a>

@@ -219,6 +219,10 @@ const config = {
                 href: '/sunwukong',
               },
               {
+                label: 'Character',
+                href: '/docs/character',
+              },
+              {
                 label: 'Stats',
                 href: '/docs/stats',
               },
@@ -316,6 +320,10 @@ const config = {
               {
                 label: 'Sun WuKong',
                 href: '/sunwukong',
+              },
+              {
+                label: 'Character',
+                href: '/docs/character',
               },
               {
                 label: 'Stats',
