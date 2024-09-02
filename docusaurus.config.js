@@ -387,6 +387,10 @@ const config = {
                 label: 'GitHub',
                 to: 'https://github.com/jiangjiax/blackmythwukong',
               },
+              {
+                label: 'Privacy Policy',
+                to: '/privacy-policy',
+              },
             ],
           },
         ],
